@@ -2,6 +2,7 @@ require("dotenv").config();
 const queries = require("./src/utils/algolia");
 const config = require("./config");
 const plugins = [
+  'gatsby-plugin-typescript',
   'gatsby-plugin-sitemap',
   'gatsby-plugin-sharp',
   {
