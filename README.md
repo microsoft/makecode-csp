@@ -18,10 +18,11 @@ yarn install
 
 ## Editing
 
+To learn about this theme, see https://smooth-doc.com/docs/getting-started/ .
 Launch local dev server
 
 ```
-yarn start
+yarn develop
 ```
 
 and edit the ``.mdx`` files. The pages will automatically reload with your updates.
