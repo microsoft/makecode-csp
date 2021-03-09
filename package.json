@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-gitbook-boilerplate",
+  "name": "makecode-csp",
   "private": true,
-  "description": "Documentation, built with mdx",
-  "author": "Praveen <praveen@hasura.io> (@praveenweb)",
+  "description": "MakeCode Advanced Computer Science Placement",
+  "author": "Microsoft",
   "version": "0.0.1",
   "dependencies": {
     "@babel/plugin-proposal-export-default-from": "^7.7.4",
@@ -49,17 +49,7 @@
     "react-instantsearch-dom": "^6.0.0",
     "react-loadable": "^5.5.0",
     "styled-components": "^4.4.1",
-    "styled-icons": "^9.0.1"
-  },
-  "license": "MIT",
-  "main": "n/a",
-  "scripts": {
-    "start": "gatsby develop",
-    "build": "gatsby build --prefix-paths",
-    "format": "prettier --write \"src/**/*.{js,jsx,css,json}\"",
-    "lint": "eslint --fix \"src/**/*.{js,jsx}\""
-  },
-  "devDependencies": {
+    "styled-icons": "^9.0.1",
     "@types/node": "^14.14.32",
     "@types/react": "^17.0.3",
     "@types/react-dom": "^17.0.2",
@@ -75,5 +65,13 @@
     "gatsby-remark-makecode": "^1.0.9",
     "prettier": "^1.19.1",
     "prism-react-renderer": "^1.0.2"
+  },
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build --prefix-paths",
+    "format": "prettier --write \"src/**/*.{js,jsx,css,json}\"",
+    "lint": "eslint --fix \"src/**/*.{js,jsx}\""
   }
 }
