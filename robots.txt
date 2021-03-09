@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://microsoft.github.io/sitemap.xml
+Host: https://microsoft.github.io
