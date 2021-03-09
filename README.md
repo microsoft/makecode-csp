@@ -1,4 +1,30 @@
+# MakeCode AP CSP
 
+
+# Development
+
+## Setup
+
+* install node.js
+* install yarn
+
+```
+npm install -g yarn
+```
+* install tools
+```
+yarn install
+```
+
+## Editing
+
+Launch local dev server
+
+```
+yarn start
+```
+
+and edit the ``.mdx`` files. The pages will automatically reload with your updates.
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
