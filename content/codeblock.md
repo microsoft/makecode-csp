@@ -19,8 +19,8 @@ The following is a code block with diff. Lines with `+` highlighted in green sha
 + const data = [1,2];
 ```
 
-## Live Editing example
+## Blocks
 
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
+```blocks
+let x = 0
 ```

@@ -24,6 +24,7 @@ const plugins = [
     resolve: 'gatsby-plugin-mdx',
     options: {
       gatsbyRemarkPlugins: [
+        "gatsby-remark-makecode",
         {
           resolve: "gatsby-remark-images",
           options: {
