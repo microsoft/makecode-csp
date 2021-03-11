@@ -1,4 +1,7 @@
-# Units: Outline of course content
+---
+title: "Outline"
+metaTitle: "Units: Outline of course content"
+---
 
 In **Unit 1**, students establish a classroom community by creating group norms and beginning to get to know each other as peers. Students receive introductory materials regarding what computer science is, the principles of computational thinking, what students can expect to learn in AP Computer Science Principles, and how they will be assessed throughout the course and in the AP Computer Science Principles exam. Students then work together to complete a team challenge and establish teamwork principles for their future collaborative work. Additionally, as an ice breaker activity, students create a sprite in MakeCode Arcade that represents who they are. The unit ends with students creating their first games in MakeCode Arcade and comparing the differences and similarities of the games they create. **(CRD, AAP, IOC)**
 
