@@ -167,7 +167,7 @@ The introduction to the project can be found at [Unit 5 Culminating Project](#).
 * [AAP-2.O](#) For algorithms involving elements of a list:
     1. Write iteration statements to traverse a list.
     2. Determine the result of an algorithm that includes list traversals.
-* [AAP-3.A] For procedure calls:
+* [AAP-3.A](#) For procedure calls:
     1. Write statements to call procedures.
     2. Determine the result or effect of a procedure call.
 * [AAP-3.B](#) Explain how the use of procedural abstraction manages complexity in a program.
