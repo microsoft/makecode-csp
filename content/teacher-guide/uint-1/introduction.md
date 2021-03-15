@@ -1,6 +1,7 @@
 ---
 title: "Introduction to AP Computer Science Principles"
 metaTitle: "Introduction to AP Computer Science Principles"
+order: 0
 ---
 
 ## Overview 

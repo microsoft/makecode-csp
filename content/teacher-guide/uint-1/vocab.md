@@ -1,6 +1,7 @@
 ---
 title: "Unit 1 Vocab"
 metaTitle: "Unit 1 Vocabulary"
+order: 1
 ---
 
 **Computer** - a programmable device that stores, retrieves, and processes data; an electronic machine or device that performs processes, calculations and operations based on instructions provided by a software program.

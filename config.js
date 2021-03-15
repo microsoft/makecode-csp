@@ -30,11 +30,10 @@ const config = {
     },
     sidebar: {
         forcedNavOrder: [
-            "/introduction", // add trailing slash if enabled above
-            "/codeblock",
+            "/teacher-guide",
+            "/pd-materials",
         ],
         collapsedNav: [
-            "/codeblock", // add trailing slash if enabled above
         ],
         links: [
             { text: "MakeCode Arcade", link: "https://arcade.makecode.com" },

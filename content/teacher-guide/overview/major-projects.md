@@ -1,6 +1,7 @@
 ---
 title: "Major projects"
 metaTitle: "Major projects by unit"
+order: 2
 ---
 
 ## Unit 1
