@@ -1,6 +1,7 @@
 ---
 title: "Overview"
 metaTitle: "Overview"
+order: 0
 ---
 
 ## Course Overview

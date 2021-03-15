@@ -1,5 +1,6 @@
 ---
 title: "Course overview"
+order: 0
 ---
 
 AP Computer Science Principles is the equivalent of a first-semester, college-level introductory course in computer science for non-majors. The course introduces students to the field of computer science and explores five Big Ideas: (1) Creative development, (2) Data, (3) Algorithms and programming, (4) Computing systems and networks, and (5) Impact of computing. The course also integrates computational thinking practices, including: (1) Computational solution design, (2) Algorithms and program development, (3) Abstraction in program development, (4) Code analysis, (5) Computing innovations, and (6) Responsible computing. Students practice problem solving by developing algorithms and programs and incorporate abstraction into their programs. Students examine the importance of collaboration and diversity when designing, and examine the ethical concerns of designing computing innovations. Additionally, students explore the intended and unintended consequences (both beneficial and harmful) of computing innovations and computing systems. Students utilize MakeCode Arcade for the core programming components of the course.
