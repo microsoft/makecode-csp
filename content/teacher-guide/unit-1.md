@@ -8,4 +8,4 @@ order: 1
 
 ## Vocabulary
 
-[vocabulary](/teacher-guide/2-unit-1/2-vocab)
+[vocabulary](/teacher-guide/unit-1/2-vocab)
