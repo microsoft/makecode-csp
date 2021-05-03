@@ -1,11 +1,14 @@
 import * as React from 'react';
+import { anchor } from '../../styles';
+import { useTheme } from 'emotion-theming';
+import { Link } from '../';
 
 const AnchorTag = ({ children: link, ...props }) => {
   if (link) {
     return (
-      <a href={props.href} target="_blank" rel="noopener noreferrer">
+      <Link to={props.href} css={anchor(useTheme())}>
         {link}
-      </a>
+      </Link>
     );
   } else {
     return null;

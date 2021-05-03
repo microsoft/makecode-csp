@@ -1,27 +1,57 @@
-const componentWithMDXScope = require('gatsby-plugin-mdx/component-with-mdx-scope');
-
 const path = require('path');
-
 const startCase = require('lodash.startcase');
+const chokidar = require(`chokidar`);
+const { touch } = require('./src/utils/fileUtils');
 
-const config = require('./config');
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+
+  const typeDefs = `
+    type MarkdownRemark implements Node {
+      frontmatter: MdxFrontmatter
+    }
+    type MdxFrontmatter {
+      showToc: Boolean
+      tocDepth: Int
+      editable: Boolean
+      showMetadata: Boolean
+      showPreviousNext: Boolean
+      description: String
+      metaTitle: String
+      order: Int
+    }
+    type File implements Node {
+      fields: Fields
+    }
+    type Fields {
+      gitLogLatestAuthorName: String
+      gitLogLatestAuthorEmail: String
+      gitLogLatestDate: Date @dateformat
+    }
+    type SiteSiteMetadata implements Node {
+      headerLinks: [HeaderLinks]
+    }
+    type HeaderLinks {
+      text: String!
+      link: String!
+      external: Boolean
+    }
+  `;
+  createTypes(typeDefs);
+};
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
-
   return new Promise((resolve, reject) => {
     resolve(
       graphql(
         `
           {
-            allMdx {
+            allMdx(filter: {fields: {draft: {ne: true}}}) {
               edges {
                 node {
                   fields {
                     id
-                  }
-                  tableOfContents
-                  fields {
                     slug
                   }
                 }
@@ -29,13 +59,17 @@ exports.createPages = ({ graphql, actions }) => {
             }
           }
         `
-      ).then(result => {
+      ).then((result) => {
         if (result.errors) {
           console.log(result.errors); // eslint-disable-line no-console
           reject(result.errors);
         }
+        actions.createPage({
+          path: `/404.html`,
+          component: path.join(process.cwd(), 'src/pages/404.js'),
+        });
 
-        // Create blog posts pages.
+        // Create pages.
         result.data.allMdx.edges.forEach(({ node }) => {
           createPage({
             path: node.fields.slug ? node.fields.slug : '/',
@@ -73,26 +107,17 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 
   if (node.internal.type === `Mdx`) {
     const parent = getNode(node.parent);
-
     let value = parent.relativePath.replace(parent.ext, '');
 
     if (value === 'index') {
       value = '';
     }
 
-    if (config.gatsby && config.gatsby.trailingSlash) {
-      createNodeField({
-        name: `slug`,
-        node,
-        value: value === '' ? `/` : `/${value}/`,
-      });
-    } else {
-      createNodeField({
-        name: `slug`,
-        node,
-        value: `/${value}`,
-      });
-    }
+    createNodeField({
+      name: `slug`,
+      node,
+      value: `/${value}`,
+    });
 
     createNodeField({
       name: 'id',
@@ -106,4 +131,13 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       value: node.frontmatter.title || startCase(parent.name),
     });
   }
+};
+
+exports.onPreBootstrap = () => {
+  const watcher = chokidar.watch('./config', {
+    ignored: ['jargon*'],
+  });
+  watcher.on(`change`, () => {
+    touch('./gatsby-config.js');
+  });
 };

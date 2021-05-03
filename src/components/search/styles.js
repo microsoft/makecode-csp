@@ -1,11 +1,15 @@
-import React from 'react';
-import { Algolia } from 'styled-icons/fa-brands/Algolia';
+import { css } from '@emotion/core';
 
-export const PoweredBy = () => (
-  <span className="poweredBy">
-    Powered by{` `}
-    <a href="https://algolia.com">
-      <Algolia size="1em" /> Algolia
-    </a>
-  </span>
-);
+const defaults = {
+  leftRight: '24px',
+};
+
+export const paddingLeftRight = css`
+  padding-left: ${defaults.leftRight};
+  padding-right: ${defaults.leftRight};
+`;
+
+export const marginLeftRight = css`
+  margin-left: ${defaults.leftRight};
+  margin-right: ${defaults.leftRight};
+`;

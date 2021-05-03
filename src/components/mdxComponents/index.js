@@ -1,44 +1,93 @@
+/* eslint-disable react/display-name */
 import React from 'react';
-import styled from '@emotion/styled';
-
-import CodeBlock from './codeBlock';
+import Accordion from './accordion';
 import AnchorTag from './anchor';
+import Badge from './badge';
+import Card from './card';
+import CodeBlock from './codeBlock';
+import DownloadCard from './fileDownloadCard';
+import Highlights from './highlights';
+import Icon from './icon';
+import ImageCard from './imageCard';
+import Jargon from './jargon';
+import Layout from './layout';
+import LinkCard from './linkCard';
+import { blockquote, pre, table, list } from '../../styles';
+import { useTheme } from 'emotion-theming';
+import emoji from '../../utils/emoji';
 
-const StyledPre = styled('pre')`
-  padding: 16px;
-  background: ${props => props.theme.colors.preFormattedText};
-`;
+const idFromHeader = (props) => {
+  let name = props.children;
+  if (Array.isArray(name)) {
+    name = props.children[0];
+  }
+  return emoji.clean(name).replace(/\s+/g, '').toLowerCase();
+};
+const Header = (level, props) => {
+  let name = idFromHeader(props);
+  return React.createElement('h' + level, {
+    className: 'heading' + level,
+    id: 'h-' + name,
+    ...props,
+  });
+};
+
+const Table = ({...props}) => (
+  <div css={{ display: 'grid' }}>
+    <div css={{ overflowX: 'auto' }}>
+      <table css={table(useTheme())} {...props} />
+    </div>
+  </div>
+);
+
+const Section = (props) => {
+  let header = '';
+  if (Array.isArray(props.children)) {
+    header = props.children[0].props;
+  } else {
+    header = props.children.props;
+  }
+  const name = idFromHeader(header);
+  return <section id={name} {...props} />;
+};
+
+const emphasis = (props) => {
+  const useJargon = !(typeof props.children === 'string');
+  if (useJargon) {
+    return <Jargon {...props} />;
+  }
+  return <em {...props} />;
+};
 
 export default {
-  h1: props => (
-    <h1 className="heading1" id={props.children.replace(/\s+/g, '').toLowerCase()} {...props} />
-  ),
-  h2: props => (
-    <h2 className="heading2" id={props.children.replace(/\s+/g, '').toLowerCase()} {...props} />
-  ),
-  h3: props => (
-    <h3 className="heading3" id={props.children.replace(/\s+/g, '').toLowerCase()} {...props} />
-  ),
-  h4: props => (
-    <h4 className="heading4" id={props.children.replace(/\s+/g, '').toLowerCase()} {...props} />
-  ),
-  h5: props => (
-    <h5 className="heading5" id={props.children.replace(/\s+/g, '').toLowerCase()} {...props} />
-  ),
-  h6: props => (
-    <h6 className="heading6" id={props.children.replace(/\s+/g, '').toLowerCase()} {...props} />
-  ),
-  p: props => <p className="paragraph" {...props} />,
-  pre: props => (
-    <StyledPre>
-      <pre {...props} />
-    </StyledPre>
+  h1: (props) => Header(1, props),
+  h2: (props) => Header(2, props),
+  h3: (props) => Header(3, props),
+  h4: (props) => Header(4, props),
+  h5: (props) => Header(5, props),
+  h6: (props) => Header(6, props),
+  section: (props) => Section(props),
+  blockquote: (props) => <blockquote css={blockquote(useTheme())} {...props} />,
+  p: (props) => <p className="paragraph" {...props} />,
+  pre: (props) => <pre css={pre} {...props} />,
+  table: (props) => <Table {...props}/>,
+  em: emphasis,
+  img: (props) => (
+    <a href={props.src} target="_blank" rel="noopener noreferrer">
+      <img loading={'lazy'} {...props} />
+    </a>
   ),
   code: CodeBlock,
+  ul: (props) => <ul css={list} {...props} />,
+  ol: (props) => <ol css={list} {...props} />,
   a: AnchorTag,
-  // TODO add `img`
-  // TODO add `blockquote`
-  // TODO add `ul`
-  // TODO add `li`
-  // TODO add `table`
+  Badge,
+  Layout,
+  Icon,
+  Accordion,
+  Card,
+  LinkCard,
+  ImageCard,
+  DownloadCard,
+  ...Highlights,
 };
