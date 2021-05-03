@@ -1,112 +1,178 @@
-import React, { Component } from 'react';
-import Helmet from 'react-helmet';
+import React from 'react';
 import { graphql } from 'gatsby';
 import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer';
+import styled from '@emotion/styled';
+import { Layout, EditOnRepo, PreviousNext, Seo } from '$components';
+import config from 'config';
+import emoji from '../utils/emoji';
+import { onMobile, onTablet } from '../styles/responsive';
 
-import { Layout, Link, Footer } from '../components';
-import NextPrevious from '../components/NextPrevious';
-import config from '../../config';
-import { Edit, StyledHeading, StyledMainWrapper } from '../components/styles/Docs';
+const Title = styled.h1`
+  font-size: 24pt
+  line-height: 1.5;
+  font-weight: 500;
+  border-left: 2px solid ${(props) => props.theme.colors.primary};
+  padding: 0 16px;
+  flex: 1;
+  margin-top: 0;
+  ${onTablet} {
+    font-size: 22pt;
+  }
+  ${onMobile} {
+    font-size: 20pt;
+  }
+`;
 
-const forcedNavOrder = config.sidebar.forcedNavOrder;
+const PageTitle = styled.div`
+  display: flex;
+  flex-flow: wrap;
+  align-items: center;
+  padding-bottom: 30px;
+  border-bottom: 1px solid ${(props) => props.theme.content.border};
+  color: ${(props) => props.theme.content.titleFont};
+  ${onMobile} {
+    padding: 15px;
+    margin-bottom: 0;
+  }
+`;
 
-export default class MDXRuntimeTest extends Component {
+const TitleWrapper = styled.div`
+  flex-basis: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+  margin-top: 16px;
+`;
+
+const ContentWrapper = styled.div`
+  color: ${(props) => props.theme.content.font};
+  flex: 1;
+  code {
+    background: ${(props) => props.theme.content.code.background};
+    border: 1px solid ${(props) => props.theme.content.code.border};
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-size: 0.9375em;
+    color: ${(props) => props.theme.content.code.font};
+    // overflow-wrap: break-word;
+  }
+  section {
+    margin: 24px 0;
+  }
+  ul,
+  ol {
+    -webkit-padding-start: 40px;
+    -moz-padding-start: 40px;
+    -o-padding-start: 40px;
+    margin: 12px 0px;
+    padding: 0px 0px 0px 2em;
+  }
+
+  ul li,
+  ol li {
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+  }
+`;
+
+const ReadingTime = styled(({ className, time }) => (
+  <span className={className}>Reading time: {time} min</span>
+))`
+  font-style: italic;
+  font-size: 12px;
+`;
+
+const LastUpdated = styled(({ className, time, name }) => {
+  return (
+    <span className={className}>
+      Last update:{' '}
+      <i>
+        <b>{time}</b>
+      </i>{' '}
+      by
+      <i>
+        <b> {name}</b>
+      </i>
+    </span>
+  );
+})`
+  font-size: 12px;
+  display: block;
+`;
+
+export default class MDXRuntimeTest extends React.Component {
+  componentDidMount() {
+    if (window.location.hash) {
+      const element = document.getElementById(window.location.hash.substring(1));
+      element.scrollIntoView(true);
+    }
+  }
+
   render() {
     const { data } = this.props;
-
     if (!data) {
-      return this.props.children;
+      return null;
     }
     const {
-      allMdx,
       mdx,
       site: {
-        siteMetadata: { docsLocation, title },
+        siteMetadata: { docsLocation, docsLocationType, editable },
       },
+      gitBranch,
     } = data;
-
-    const gitHub = require('../components/images/github.svg');
-
-    const navItems = allMdx.edges
-      .map(({ node }) => node.fields.slug)
-      .filter(slug => slug !== '/')
-      .sort()
-      .reduce(
-        (acc, cur) => {
-          if (forcedNavOrder.find(url => url === cur)) {
-            return { ...acc, [cur]: [cur] };
-          }
-
-          let prefix = cur.split('/')[1];
-
-          if (config.gatsby && config.gatsby.trailingSlash) {
-            prefix = prefix + '/';
-          }
-
-          if (prefix && forcedNavOrder.find(url => url === `/${prefix}`)) {
-            return { ...acc, [`/${prefix}`]: [...acc[`/${prefix}`], cur] };
-          } else {
-            return { ...acc, items: [...acc.items, cur] };
-          }
-        },
-        { items: [] }
-      );
-
-    const nav = forcedNavOrder
-      .reduce((acc, cur) => {
-        return acc.concat(navItems[cur]);
-      }, [])
-      .concat(navItems.items)
-      .map(slug => {
-        if (slug) {
-          const { node } = allMdx.edges.find(({ node }) => node.fields.slug === slug);
-
-          return { title: node.fields.title, url: node.fields.slug };
-        }
-      });
 
     // meta tags
     const metaTitle = mdx.frontmatter.metaTitle;
-
-    const metaDescription = mdx.frontmatter.metaDescription;
-
-    let canonicalUrl = config.gatsby.siteUrl;
-
-    canonicalUrl =
-      config.gatsby.pathPrefix !== '/' ? canonicalUrl + config.gatsby.pathPrefix : canonicalUrl;
-    canonicalUrl = canonicalUrl + mdx.fields.slug;
-
+    const docTitle = emoji.emojify(mdx.fields.title);
+    const headTitle = metaTitle ? metaTitle : emoji.clean(docTitle);
     return (
       <Layout {...this.props}>
-        <Helmet>
-          {metaTitle ? <title>{metaTitle}</title> : null}
-          {metaTitle ? <meta name="title" content={metaTitle} /> : null}
-          {metaDescription ? <meta name="description" content={metaDescription} /> : null}
-          {metaTitle ? <meta property="og:title" content={metaTitle} /> : null}
-          {metaDescription ? <meta property="og:description" content={metaDescription} /> : null}
-          {metaTitle ? <meta property="twitter:title" content={metaTitle} /> : null}
-          {metaDescription ? (
-            <meta property="twitter:description" content={metaDescription} />
-          ) : null}
-          <link rel="canonical" href={canonicalUrl} />
-        </Helmet>
-        <div className={'titleWrapper'}>
-          <StyledHeading>{mdx.fields.title}</StyledHeading>
-          <Edit className={'mobileView'}>
-            {docsLocation && (
-              <Link className={'gitBtn'} to={`${docsLocation}/${mdx.parent.relativePath}`}>
-                <img src={gitHub} alt={'Github logo'} /> Edit on GitHub
-              </Link>
+        <Seo frontmatter={mdx.frontmatter} url={this.props.location.href} title={headTitle} />
+        <PageTitle>
+          <TitleWrapper>
+            <Title>{docTitle}</Title>
+            {docsLocation && ((editable && mdx.frontmatter.editable !== false) || mdx.frontmatter.editable === true) ? (
+              <EditOnRepo
+                location={docsLocation}
+                branch={gitBranch.name}
+                path={mdx.parent.relativePath}
+                repoType={docsLocationType}
+              />
+            ) : (
+              ''
             )}
-          </Edit>
-        </div>
-        <StyledMainWrapper>
+          </TitleWrapper>
+          {(config.features.showMetadata === true && mdx.frontmatter.showMetadata !== false) ||
+          mdx.frontmatter.showMetadata === true ? (
+            <div css={{ display: 'block' }}>
+              {mdx.parent.fields ? (
+                <LastUpdated
+                  time={mdx.parent.fields.gitLogLatestDate}
+                  name={mdx.parent.fields.gitLogLatestAuthorName}
+                  email={mdx.parent.fields.gitLogLatestAuthorEmail}
+                />
+              ) : (
+                ''
+              )}
+              <ReadingTime time={mdx.timeToRead * 2} />
+            </div>
+          ) : (
+            ''
+          )}
+        </PageTitle>
+        <ContentWrapper>
           <MDXRenderer>{mdx.body}</MDXRenderer>
-        </StyledMainWrapper>
-        <div className={'addPaddTopBottom'}>
-          <NextPrevious mdx={mdx} nav={nav} />
-        </div>
-        <Footer />
+        </ContentWrapper>
+        {(config.features.previousNext.enabled === true &&
+          mdx.frontmatter.showPreviousNext !== false) ||
+        mdx.frontmatter.showPreviousNext ? (
+          <div css={{ padding: '30px 0' }}>
+            <PreviousNext mdx={mdx} />
+          </div>
+        ) : (
+          ''
+        )}
       </Layout>
     );
   }
@@ -118,6 +184,8 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         docsLocation
+        docsLocationType
+        editable
       }
     }
     mdx(fields: { id: { eq: $id } }) {
@@ -128,25 +196,31 @@ export const pageQuery = graphql`
       }
       body
       tableOfContents
+      timeToRead
       parent {
         ... on File {
           relativePath
+          fields {
+            gitLogLatestAuthorName
+            gitLogLatestAuthorEmail
+            gitLogLatestDate(fromNow: true)
+          }
         }
       }
       frontmatter {
         metaTitle
-        metaDescription
+        showMetadata
+        editable
+        showPreviousNext
+        showToc
       }
     }
-    allMdx {
-      edges {
-        node {
-          fields {
-            slug
-            title
-          }
-        }
-      }
+    gitBranch {
+      name
+    }
+    gitCommit(latest: { eq: true }) {
+      hash
+      date(formatString: "YYYY-MM-DD hh:mm")
     }
   }
 `;

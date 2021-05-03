@@ -1,0 +1,145 @@
+---
+metadata:
+  name: MakeCode AP CSP
+  short_name: MakeCode Computer Science Principles
+  description: Microsoft MakeCode Advanced Placement Computer Science Principles Curriculum
+  language: en
+  pathPrefix: "/makecode-apcsp"
+  siteImage:
+  favicon: "https://microsoft.github.io/makecode-csp/favicon.ico"
+  themeColor: "#ff0000"
+header:
+  enabled: true
+  logo: "https://microsoft.github.io/makecode-csp/assets/brand.svg"
+  logoLink: "https://microsoft.github.io/makecode-csp/"
+  githubUrl: "https://github.com/ganicke/makecode-apcsp"
+  helpUrl: ""
+  links:
+    - text: Teacher's Guide
+      link: "/"
+      external: false
+    - text: PL Trainer Materials
+      link: https://aka.ms/MSMakeCodeAPCSPPD
+      external: true
+sidebar:
+  enabled: true
+  # forcedNavOrder:
+  #   - "/introduction"
+  #   - "/configuration/basic"
+  #   - "/configuration/advanced"
+  # expanded:
+  groups:
+    - order: 1
+      path: "/overview"
+      title: ":world_map: Overview"
+    - order: 2
+      path: "/unit-1"
+      title: ":blue_book: Unit 1 - Intro to AP CSP"
+    - order: 3
+      path: "/unit-2"
+      title: ":blue_book: Unit 2 - CSN"
+    - order: 4
+      path: "/unit-3"
+      title: ":blue_book: Unit 3 - AAP Part 1"
+    - order: 5
+      path: "/unit-4"
+      title: ":blue_book: Unit 4 - IOC"
+    - order: 6
+      path: "/unit-5"
+      title: ":blue_book: Unit 5 - AAP Part 2"
+    - order: 7
+      path: "/unit-6"
+      title: ":blue_book: Unit 6 - DAT"
+    - order: 8
+      path: "/unit-7"
+      title: ":blue_book: Unit 7 - CPT"
+    - order: 9
+      path: "/unit-8"
+      title: ":blue_book: Unit 8 - Exam Prep"
+    - order: 10
+      path: "/unit-9"
+      title: ":blue_book: Unit 9 - Service Learning"
+  links:
+    - text: Microsoft MakeCode
+      link: https://makecode.com
+    - text: AP Central CSP
+      link: https://apcentral.collegeboard.org/courses/ap-computer-science-principles
+  ignoreIndex: false
+pwa:
+  enabled: true
+  manifest:
+    display: standalone
+    crossOrigin: anonymous
+    icon: "/assets/favicon.png"
+
+social:
+  github:
+  linkedin:
+  twitter:
+
+features:
+  darkMode:
+    enabled: true  
+    default: false
+  editOnRepo:
+    location: https://github.com/ganicke/makecode-apcsp 
+    type: github
+    editable: false
+  mermaid:
+    language: "mermaid"
+    theme: "dark"
+    options:
+    width: 400
+    height: 300
+  pageProgress:
+    enabled: true
+    includePaths:
+      - "/configuration/settingup/features"
+    excludePaths:
+      - "/"
+    height: 3
+    prependToBody: false
+    color: "#A05EB5"
+  previousNext:
+    enabled: true
+    arrowKeyNavigation: true
+  propagateNetlifyEnv: true
+  rss:
+    enabled: false
+    title: BooGi Docs
+    showIcon: false
+    copyright: "2020, Mateusz Filipowicz"
+    webMaster: "Mateusz Filipowicz"
+    managingEditor: "Mateusz Filipowicz"
+    categories:
+      - Docs as Code
+      - GatsbyJS
+    ttl: 60
+    matchRegex: "^/"
+    outputPath: "/rss.xml"
+    generator: "boogi"
+  scrollTop: true
+  search:
+    enabled: true
+    engine: 'algolia'
+    placeholder: 'Search'
+    startComponent: 'input' # icon
+    excerptSize: 8000
+    debounceTime: 380
+    snippetLength: 23
+    hitsPerPage: 10
+    showStats: true
+    pagination:
+      enabled: true
+      totalPages: 10
+      showPrevious: true
+      showNext: true
+  showMetadata: false
+  toc:
+    show: true
+    depth: 4
+  fullScreenMode: 
+    enabled: true
+    hideHeader: true
+    hideToc: true
+    hideSidebar: true

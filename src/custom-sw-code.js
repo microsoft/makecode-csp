@@ -1,6 +1,7 @@
+/* eslint-disable no-undef */
 workbox.routing.registerRoute(
   new RegExp('https:.*min.(css|js)'),
-  workbox.strategies.staleWhileRevalidate({
+  new workbox.strategies.StaleWhileRevalidate({
     cacheName: 'cdn-cache',
   })
 );

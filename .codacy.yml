@@ -1,0 +1,11 @@
+---
+exclude_paths:
+  - 'config/**'
+  - 'content/**/*'
+  - 'snippets/**/*'
+  - 'static/**/*'
+  - '**/package.json'
+  - '**/*.md'
+  - '**/*.mdx'
+  - 'CHANGELOG.md'
+  - 'README.md'
