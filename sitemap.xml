@@ -56,8 +56,8 @@
 <url> <loc>http://localhost/makecode-apcsp/unit-3/day-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-3/day-3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-3/day-4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-apcsp/unit-3/day-5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-3/day-6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-apcsp/unit-3/day-5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-3/day-7</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-3/day-8</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-3/day-9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -126,6 +126,7 @@
 <url> <loc>http://localhost/makecode-apcsp/unit-8/exam-review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-8/instructions-for-teacher</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-8/vocabulary</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-apcsp/unit-9/service-learning-unit</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-1/day-1/intro-ap-csp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-1/day-10/computing-innovations-activity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-1/day-10/design-challenge</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -160,7 +161,7 @@
 <url> <loc>http://localhost/makecode-apcsp/unit-1/day-9/minecraft-prototype</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-1/extension-activity/what-is-computer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-1/answer-key-guided-reading-notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-apcsp/unit-2/day-1/answer-key-guided-video-notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-apcsp/unit-2/day-1/guided-video-notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-1/how-does-internet-work</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-1/internet-system-spirit</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-10/teaching-tool-work-day</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -169,9 +170,9 @@
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-12/project-reflection</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-12/teaching-tool-presentations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-13/impact-of-computing-assignment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-apcsp/unit-2/day-3/computing-systems-networks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-2/computing-devices-iot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-2/iot-examples</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-apcsp/unit-2/day-3/computing-systems-networks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-4/homework</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-4/how-does-internet-work</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-4/notetaking-template</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -182,11 +183,11 @@
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-6/reflection</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-7/world-wide-web</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-8/create-your-own-webpage</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-apcsp/unit-2/extension-activity/how-do-computers-communicate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-9/rules-for-brainstorming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-9/teaching-tool</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-9/webpage-design-document</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-2/day-9/webpage-project-rubric</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-apcsp/unit-2/extension-activity/how-do-computers-communicate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-3/day-1/flowchart-activity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-3/day-1/intro-algorithms-programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-3/day-1/reflection</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -241,9 +242,6 @@
 <url> <loc>http://localhost/makecode-apcsp/unit-3/day-9/my-20percent-tip-app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-4/day-1/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-4/day-1/notetaking-template</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-apcsp/unit-2/day-1/guided-video-notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-apcsp/unit-2/day-1/guided-reading-questions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-apcsp/unit-2/day-1/computing-devices-iot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-4/day-10/blown-to-bits-chapter-answers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-4/day-10/blown-to-bits-chapter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-4/day-10/legal-ethical-concerns</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -286,6 +284,7 @@
 <url> <loc>http://localhost/makecode-apcsp/unit-4/day-7/homework</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-4/day-7/vigenere-cipher-activity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-4/day-7/vigenere-cipher-template</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-apcsp/unit-4/day-8/authentication</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-4/day-8/one-pager-brainstorm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-4/day-9/github-project-analysis</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-4/day-9/open-source-software</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -304,7 +303,6 @@
 <url> <loc>http://localhost/makecode-apcsp/unit-5/day-15/arrays-of-strings</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-5/day-15/string-arrays</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-5/day-15/student-tasks-solutions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-apcsp/unit-4/day-8/authentication</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-5/day-16/array-of-sprites</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-5/day-16/sprite-arrays</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-5/day-16/student-tasks-solutions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -318,6 +316,9 @@
 <url> <loc>http://localhost/makecode-apcsp/unit-5/day-2/parameters</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-5/day-2/student-tasks-solutions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-5/day-2/writing-functions-parameters</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-apcsp/unit-2/day-1/guided-reading-questions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-apcsp/unit-2/day-1/computing-devices-iot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-apcsp/unit-2/day-1/answer-key-guided-video-notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-5/day-20-27/culminating-project</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-5/day-20-27/gallery-walk</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-apcsp/unit-5/day-20-27/planning-your-project</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
