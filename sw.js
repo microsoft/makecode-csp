@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-a7c0f0166d45f70ddaf3.js"
+    "url": "webpack-runtime-ef5fb1f62d2fdc17440b.js"
   },
   {
     "url": "framework-5fece46f6a13a0b172e9.js"
@@ -39,11 +39,11 @@ self.__precacheManifest = [
     "url": "styles-876046b6071408fa0a81.js"
   },
   {
-    "url": "app-a62cd5cc66971089b05f.js"
+    "url": "app-532b8643fb6dc7061faf.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "0b57658893085d2b742bbc490cd6c302"
+    "revision": "089e5c55f1ecd9ce16cd3f7be0995f41"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-67dcaaa77461bac7cd5c.js"
@@ -54,11 +54,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/12478684.json",
-    "revision": "43f77ccf5b8981a83dc52b589ac4e6f1"
+    "revision": "d1e2359c91b48c707dd1b388d84d12fb"
   },
   {
     "url": "page-data/sq/d/2882937274.json",
-    "revision": "abf30f466d2ab81bb1a5ebc3479cd9a3"
+    "revision": "0e935d065544312f43cee478e59de090"
   },
   {
     "url": "page-data/sq/d/353167761.json",
@@ -70,14 +70,14 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "3d27ceefbf0599d16876feddf8968622"
+    "revision": "f1778911a9f14942a7f8983b7b98577c"
   },
   {
     "url": "polyfill-e045046490ebff3471dd.js"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "18bfa86f1f8539f75b28a68a41f2e984"
+    "revision": "7d2aa4a3c0d6f12badb67da677cfb2af"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -164,12 +164,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/makecode-apcsp`), ``)
+  pathname = pathname.replace(new RegExp(`^/makecode-csp`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/makecode-apcsp/app-a62cd5cc66971089b05f.js`))) {
+  if (!resources || !(await caches.match(`/makecode-csp/app-532b8643fb6dc7061faf.js`))) {
     return await fetch(event.request)
   }
 
@@ -182,7 +182,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/makecode-apcsp/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/makecode-csp/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
