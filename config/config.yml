@@ -4,7 +4,7 @@ metadata:
   short_name: MakeCode Computer Science Principles
   description: Microsoft MakeCode Advanced Placement Computer Science Principles Curriculum
   language: en
-  pathPrefix: "/makecode-apcsp"
+  pathPrefix: "/makecode-csp"
   siteImage:
   favicon: "https://microsoft.github.io/makecode-csp/favicon.ico"
   themeColor: "#ff0000"
@@ -12,7 +12,7 @@ header:
   enabled: true
   logo: "https://microsoft.github.io/makecode-csp/assets/brand.svg"
   logoLink: "https://microsoft.github.io/makecode-csp/"
-  githubUrl: "https://github.com/ganicke/makecode-apcsp"
+  githubUrl: "https://github.com/microsoft/makecode-csp"
   helpUrl: ""
   links:
     - text: Teacher's Guide
@@ -82,7 +82,7 @@ features:
     enabled: true  
     default: false
   editOnRepo:
-    location: https://github.com/ganicke/makecode-apcsp 
+    location: https://github.com/microsoft/makecode-csp 
     type: github
     editable: false
   mermaid:
