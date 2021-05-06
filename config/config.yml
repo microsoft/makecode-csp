@@ -4,7 +4,7 @@ metadata:
   short_name: MakeCode Computer Science Principles
   description: Microsoft MakeCode Advanced Placement Computer Science Principles Curriculum
   language: en
-  pathPrefix: "/makecode-csp"
+  pathPrefix: "makecode-csp"
   siteImage:
   favicon: "https://microsoft.github.io/makecode-csp/favicon.ico"
   themeColor: "#ff0000"
