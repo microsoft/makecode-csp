@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-54529fd09a09a025b8e9.js"
+    "url": "webpack-runtime-dd86fe8f2902d67ad4ad.js"
   },
   {
     "url": "framework-5fece46f6a13a0b172e9.js"
@@ -39,11 +39,11 @@ self.__precacheManifest = [
     "url": "styles-876046b6071408fa0a81.js"
   },
   {
-    "url": "app-537dd3eaa6733acd975a.js"
+    "url": "app-df24b36b446602e33fa6.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "cdaaf6c9ba5737192740dccde9e00f41"
+    "revision": "8ae0670b0dbd52f52ce45ad818a0f264"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-67dcaaa77461bac7cd5c.js"
@@ -54,11 +54,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/12478684.json",
-    "revision": "a95bfb9f1adfea3819bc85cac8679123"
+    "revision": "58e0c2b0f9e05f960e1c4ab52952af7d"
   },
   {
     "url": "page-data/sq/d/2882937274.json",
-    "revision": "f78650f76ca06033445a24cc8726bf4f"
+    "revision": "cfaa4276e64c47a5c25d82f183ad44ff"
   },
   {
     "url": "page-data/sq/d/353167761.json",
@@ -70,14 +70,14 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "0c78ae7bdb2d63a66cd9c6d828ddd80e"
+    "revision": "91046c331fe7482d34f4703d13788ee2"
   },
   {
     "url": "polyfill-e045046490ebff3471dd.js"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "7fbacd5f4d9cb8248419f7d772ff9643"
+    "revision": "7d2aa4a3c0d6f12badb67da677cfb2af"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -164,12 +164,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^`), ``)
+  pathname = pathname.replace(new RegExp(`^/makecode-csp`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-537dd3eaa6733acd975a.js`))) {
+  if (!resources || !(await caches.match(`/makecode-csp/app-df24b36b446602e33fa6.js`))) {
     return await fetch(event.request)
   }
 
@@ -182,7 +182,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/makecode-csp/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
