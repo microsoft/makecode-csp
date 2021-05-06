@@ -1,12 +1,12 @@
 ---
-title: "Mock Create Performance Task"
-metaTitle: "Mock Create Performance Task"
-order: 2
+title: 'Unit 7: Create Performance Task'
+metaTitle: 'Unit 7: Create Performance Task'
+order: 3
 ---
 
 ## Overview
 
-In this activity (recommended after Unit 5), students will complete a Mock Create Performance Task to prepare for the CPT that they will need to create and complete for their exam.
+In Unit 7, students will complete the Create Performance Task that must be completed in the spring for their exam.
 
 The questions students will explore in this unit include:
 
@@ -15,23 +15,23 @@ The questions students will explore in this unit include:
 * How can you use abstraction to manage complexity?
 * How does a program function?
 
-## Estimated Time
+## Estimated Time:
 
-1 week
+3 weeks (students must spend at least 12 hours on the actual Create Performance Task)
 
-## Computational Thinking Practices: 
+## Computational Thinking Practices
 
 * [Practice 1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23): Computational Solution Design: Design and evaluate computational solutions for a purpose.
     * [1.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23) Investigate the situation, context, or task.
 * [Practice 2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23): Algorithms and Program Development: Develop and implement algorithms. 
     * [2.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23) Implement and apply an algorithm.
-* Practice 3: Abstraction in Program Development: Develop programs that incorporate abstractions.
+* [Practice 3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23): Abstraction in Program Development: Develop programs that incorporate abstractions.
     * [3.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23) Use abstraction to manage complexity in a program.
     * [3.C](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23) Explain how abstraction manages complexity.
-* Practice 4: Code Analysis: Evaluate and test algorithms and programs.
-    * [4.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23) Explain how a code segment or program functions.
+* [Practice 4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23): Code Analysis: Evaluate and test algorithms and programs.
+    * [4.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23) Explain how a code segment or program functions. 
 
-## Big Ideas 
+## Big Ideas
 
 [Big Idea 3: Algorithms and Programming (AAP)](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=25)
 
@@ -46,11 +46,11 @@ Programmers integrate algorithms and abstraction to create programs for creative
 
 ## Projects and Major Assessments
 
-* Complete the Mock Create Performance Task
-* Video of Mock CPT
-* Written Responses regarding Mock CPT
-* Screenshots regarding Mock CPT
-* PDF of Mock CPT
+* Complete the Create Performance Task
+* Video of CPT
+* Written Responses regarding CPT
+* Screenshots regarding CPT
+* PDF of CPT
 
 ## Materials Needed
 
@@ -61,4 +61,4 @@ Programmers integrate algorithms and abstraction to create programs for creative
 * Scoring Guidelines: Create Performance Task
 * Student Handout: Create Performance Task
 * Internet access to these sites:
-    * arcade.makecode.com
+    * [arcade.makecode.com](https://arcade.makecode.com)

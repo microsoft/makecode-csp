@@ -39,7 +39,7 @@ Educators will use the following resources in both the Mock Create Performance T
 * Mock CPT 3b.iv Writing Response
 * Mock CPT 3b.v Writing Response
 
-* [CPT Checklist and Template]()
+* [CPT Checklist and Template](/unit-7/cpt-checklist-template.md)
 * [3a and 3b Discussion PPT](https://1drv.ms/p/s!AqsgsTyHBmRBkC4Cjr9y1iBCVOG6?e=WBfnYl)
 
 ### Mock Create Performance Task 3c and 3d
