@@ -9,9 +9,9 @@ order: 0
 ### Materials
 
 * [Day 3 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkAURgj6J6FeTpA8d?e=x8G6ae)
-* [Good vs. Bad Technologies Worksheet](/unit-1/day-1/good-vs-bad)
+* [Good vs. Bad Technologies Worksheet](/unit-1/day-3/good-vs-bad)
 * [Good vs. Bad Technologies Worksheet](https://1drv.ms/w/s!AqsgsTyHBmRBj3yNeXR7xZbR8th-?e=3BaPJO) (in Word)
-* [Jeannette M. Wing's "Computational Thinking" Article](/unit-1/day-1/computational-thinking)
+* [Jeannette M. Wing's "Computational Thinking" Article](/unit-1/day-3/computational-thinking)
 
 ### Instructional Activities and Classroom Assessments
 
