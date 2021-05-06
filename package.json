@@ -1,8 +1,8 @@
 {
-  "name": "BooGi",
-  "description": "Generate GitBook-like modern docs/tutorial websites using Gatsby",
-  "author": "Mateusz Filipowicz <matfilipowicz@gmail.com>",
-  "homepage": "https://boogi.netlify.app/",
+  "name": "makecode-csp",
+  "description": "MakeCode Advanced Placement Computer Science Principles",
+  "author": "Microsoft",
+  "homepage": "https://microsoft.github.io/makecode-csp",
   "keywords": [
     "gatsby",
     "gatsby-starter",
@@ -94,8 +94,7 @@
     "start": "gatsby develop",
     "build": "gatsby build --prefix-paths",
     "format": "prettier --ignore-path \".gitignore\" --write \"**/*.{js,jsx,css,json}\"",
-    "lint": "eslint --fix \"**/*.{js,jsx}\"",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "lint": "eslint --fix \"**/*.{js,jsx}\""
   },
   "devDependencies": {
     "babel-eslint": "10.1.0",
