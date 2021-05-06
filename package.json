@@ -92,11 +92,11 @@
   "main": "n/a",
   "scripts": {
     "start": "gatsby develop",
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
     "format": "prettier --ignore-path \".gitignore\" --write \"**/*.{js,jsx,css,json}\"",
     "clean": "gatsby clean",
     "lint": "eslint --fix \"**/*.{js,jsx}\"",
-    "deploy": "gatsby build && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
 
   },
   "devDependencies": {
