@@ -8,12 +8,12 @@ order: 0
 
 ### Materials
 
-* [Day 2 PowerPoint deck](#)
-* Group Activity:- IoT Examples
+* [Day 2 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBjzd_CMDtjVDv-fbi?e=KkvFaX)
+* Group Activity: [IoT Examples](/unit-2/day-1/iot-examples)
 * Handouts (also used on Day 1):
-    * The Internet as System and Spirit
-    * Guided Reading Questions: The Internet as a System and Spirit
-    * Answer Key to Guided Reading Questions
+    * [The Internet as System and Spirit](/unit-2/day-1/internet-system-spirit)
+    * [Guided Reading Questions: The Internet as a System and Spirit](/unit-2/day-1/guided-reading-questions)
+    * [Answer Key to Guided Reading Questions](/unit-2/day-1/answer-key-guided-reading-notes)
 
 ### Instructional Activities and Classroom Assessments 
 
@@ -24,16 +24,16 @@ order: 0
 
 ### Learning Objectives
 
-* [CSN-1.A](#) Explain how computing devices work together in a network.
+* [CSN-1.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=109) Explain how computing devices work together in a network.
 
 ### Essential Knowledge 
 
-* [CSN-1.A.1](#) A computing device is a physical artifact that can run a program. Some examples include computers, tablets, servers, routers, and smart sensors.
-* [CSN-1.A.2](#) A computing system is a group of computing devices and programs working together for a common purpose. 
-* [CSN-1.A.3](#) A computer network is a group of interconnected computing devices capable of sending or receiving data. 
-* [CSN-1.A.4](#) A computer network is a type of computing system. 
-* [CSN-1.A.5](#) A path between two computing devices on a computer network (a sender and a receiver) is a sequence of directly connected computing devices that begins at the sender and ends at the receiver. 
-* [CSN-1.A.6](#) Routing is the process of finding a path from sender to receiver. 
+* [CSN-1.A.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=109) A computing device is a physical artifact that can run a program. Some examples include computers, tablets, servers, routers, and smart sensors.
+* [CSN-1.A.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=109) A computing system is a group of computing devices and programs working together for a common purpose. 
+* [CSN-1.A.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=109) A computer network is a group of interconnected computing devices capable of sending or receiving data. 
+* [CSN-1.A.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=109) A computer network is a type of computing system. 
+* [CSN-1.A.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=109) A path between two computing devices on a computer network (a sender and a receiver) is a sequence of directly connected computing devices that begins at the sender and ends at the receiver. 
+* [CSN-1.A.6](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=109) Routing is the process of finding a path from sender to receiver. 
 
 ## Details
 
@@ -48,10 +48,10 @@ order: 0
 * Discuss the different types of computing devices:
     * Computers and tablets
     * Smart watches
-    * Gaming systems
-    * Servers
-    * Routers
-    * Embedded systems
+    * Gaming systems 
+    * Servers  
+    * Routers 
+    * Embedded systems 
 
 ### 3. The Internet of Things (25 minutes)
 

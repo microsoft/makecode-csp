@@ -11,13 +11,10 @@ order: 0
 * [Day 7 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj15JScpF3V6STW-U?e=eSvl39)
 * [Vigenère Cipher Template](/unit-4/day-7/vigenere-cipher-template)
 * [Vigenere Cipher Template](https://1drv.ms/w/s!AqsgsTyHBmRBj1HjAyNVKuIml_h6?e=b6GyOY) in Word
-* [MakeCode Cipher Answer Key](/unit-4/day-7/answer-key) (for teacher's reference)
-* [MakeCode Cipher Answer Key](https://1drv.ms/w/s!AqsgsTyHBmRBj1C2lwj9-B59QiN7?e=3LLjmp) in Word (for teacher's reference)
 * [Cryptii - Caesar Cipher](https://cryptii.com/pipes/caesar-cipher)
 * [MakeCode Arcade program: Vigenere encode decode](https://arcade.makecode.com/13486-26863-60368-95323)
 * [Homework: Blown to Bits Chapter 5 pages 21-36 Questions](/unit-4/day-7/homework)
 * [Homework: Blown to Bits Chapter 5 pages 21-36 Questions](https://1drv.ms/w/s!AqsgsTyHBmRBj1NXhT3w090ORyPQ?e=JTj1Mf) in Word
-* [Blown to Bits Chapter 5 pages 21-36 Answers](/unit-4/day-7/blown-to-bits-chapter)
 
 ### Instructional Activities and Classroom Assessments 
 

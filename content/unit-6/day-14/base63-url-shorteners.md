@@ -1,7 +1,7 @@
 ---
 title: 'Base 62 and URL Shorteners'
 metaTitle: 'Base 62 and URL Shorteners'
-order: 5
+order: 3
 ---
 
 ## Base62

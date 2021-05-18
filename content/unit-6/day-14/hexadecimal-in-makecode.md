@@ -1,7 +1,7 @@
 ---
 title: 'Hexadecimal in MakeCode'
 metaTitle: 'Hexadecimal in MakeCode'
-order: 6
+order: 4
 ---
 
 ## Color Numbers

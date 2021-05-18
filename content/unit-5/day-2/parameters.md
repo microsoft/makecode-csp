@@ -20,7 +20,6 @@ order: 0
 * [Change by Five code sample]()
 * [Writing Functions with Parameters handout]()
 * [Writing Functions with Parameters]() handout in Word
-* [Student Tasks/Solutions]()
 * [Activity: Parameters]()
 * [Problem Set: Parameters]()
 

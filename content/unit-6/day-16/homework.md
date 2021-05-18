@@ -1,7 +1,7 @@
 ---
 title: 'Homework'
 metaTitle: 'Homework'
-order: 3
+order: 2
 ---
 
 **Write a reflection regarding the following prompt** –  

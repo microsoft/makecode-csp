@@ -11,9 +11,7 @@ order: 0
 * [Day 10 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFRcGoc-jvOY4-E1?e=86vJtR)
 * [MakeCode Arcade](https://arcade.makecode.com)
 * [Name String](https://arcade.makecode.com/56228-63714-53573-16612) (for teacher)
-* [Name String Mod](https://arcade.makecode.com/34930-44706-95494-82769) (for teacher)
 * [Parts of Speech](https://arcade.makecode.com/20670-08492-67506-63325)  (for teacher)
-* [Parts of Speech Mod](https://arcade.makecode.com/51450-28790-11933-64163) (for teacher)
 * [My Code Segments for String Activities](/unit-3/day-10/my-code-segments)
 
 ## Instructional Activities and Classroom Assessments

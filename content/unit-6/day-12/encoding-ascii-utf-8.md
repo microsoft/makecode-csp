@@ -10,7 +10,6 @@ order: 0
 
 * [Day 12 PowerPoint deck]()
 * [ASCII secret message document]()
-* [Secret Messages Key]()
 * [ASCII and Unicode Character Sets]()
 * [ASCII Chart Handout]()
 * [ASCII Homework Handout]()

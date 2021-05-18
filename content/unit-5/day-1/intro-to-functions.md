@@ -8,15 +8,16 @@ order: 0
 
 ### Materials
 
-Day 1 PowerPoint deck
-DoSomething sample code
-Place Sprite sample code
-Introduction to Functions handout in OneNote
-Introduction to Functions handout in Word
-Activity: Functions Intro
-Task 1a Solution (for teacher)
-Task 1b Solution (for teacher)
-Additional reference: Functions
+* [Day 1 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkHH-DeqCqztjgdPi?e=8ShAIc)
+* [DoSomething sample code](https://makecode.com/_dpa8o38asH3s)
+* [Place Sprite sample code](https://makecode.com/_eHsAWYesxEu7)
+* [Introduction to Functions](/unit-5/day-1/introduction-to-functions) handout in OneNote
+* [Introduction to Functions](https://1drv.ms/w/s!AqsgsTyHBmRBkHCcF-mCg8tNfOZi?e=zSt069) handout in Word
+* [Activity: Functions Intro](https://arcade.makecode.com/courses/csintro2/functions/intro)
+
+#### Additional reference
+
+* [Functions](https://minecraft.makecode.com/courses/csintro/functions/overview)
 
 ### Instructional Activities and Classroom Assessments 
 
@@ -45,23 +46,10 @@ Additional reference: Functions
 AAP-3.B.3 The subdivision of a computer program into separate subprograms is called modularity. 
 * [AAP-3.B.6](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=95) Using procedural abstraction helps improve code readability.  
 * [AAP-3.B.7](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=95) Using procedural abstraction in a program allows programmers to change the internals of the procedure (to make it faster, more efficient, use less storage, etc.) without needing to notify users of the change as long as what the procedure does is preserved.  
-* AAP-3.C.1 The exam reference sheet provides
-```
-Text:
-
-PROCEDURE procName(parameter1,parameter2, ...)
-{
-    <block of statements>
-}
-
-Block:
-
-PROCEDURE procName 
-block of statements 
-parameter1, parameter2,... 
-```
-
-which is used to define a procedure that takes zero or more arguments. The procedure contains block of statements.
+* AAP-3.C.1 The exam reference sheet provides:
+    * Text: PROCEDURE procName(parameter1,parameter2, ...) { &lt;block of statements&gt; }
+    * Block: PROCEDURE procName<br/>block of statements<br/>parameter1, parameter2,...
+    * These define a procedure that takes zero or more arguments. The procedure contains block of statements.
 
 ## Details
 

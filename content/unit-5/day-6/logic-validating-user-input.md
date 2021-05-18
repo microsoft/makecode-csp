@@ -11,8 +11,8 @@ order: 0
 * [Day 6 PowerPoint deck]()
 * [Validating User Input]() handout
 * [Validating User Input]() handout in Word
-* [winnerWinner] (for teacher)
-* [helloFriend] (for teacher)
+* [winnerWinner](https://makecode.com/_0F00C66wK3Di) (for teacher)
+* [helloFriend](https://makecode.com/_amzHh6iF7Eyg) (for teacher)
 * [Activity: User Input and String Logic]()
 
 Additional references:

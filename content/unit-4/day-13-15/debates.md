@@ -1,5 +1,5 @@
 ---
-title: "Debated"
+title: "Debates"
 metaTitle: "Debates"
 order: 0
 ---

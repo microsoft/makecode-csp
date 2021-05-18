@@ -1,7 +1,7 @@
 ---
 title: 'ASCII Howmwork'
 metaTitle: 'ASCII Homework'
-order: 3
+order: 2
 ---
 
 ## Convert the following words to ASCII then to Binary
