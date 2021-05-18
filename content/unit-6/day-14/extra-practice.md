@@ -1,7 +1,7 @@
 ---
 title: 'Extra Practice: Hexadecimal to Binary'
 metaTitle: 'Extra Practice: Hexadecimal to Binary'
-order: 7
+order: 5
 ---
 
 1. Express hex 0x94 in binary.

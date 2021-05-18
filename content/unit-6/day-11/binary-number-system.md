@@ -13,7 +13,6 @@ order: 0
 * [Binary Numbers Game]()
 * [Random.org]()
 * [Binary Homework]()
-* [Binary Homework Key]()
 * [Optional: Binary Calculator Activity]()
 
 ### Instructional Activities and Classroom Assessments

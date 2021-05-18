@@ -17,7 +17,6 @@ order: 0
 * [Homework: Blown to Bits Chapter 5](https://1drv.ms/w/s!AqsgsTyHBmRBj0w2E5kfNEeagzsD?e=Ycgg51)
 * [Homework: Blown to Bits Chapter 5 pages 8-16 Questions](/unit-4/day-6/homework)
 * [Homework: Blown to Bits Chapter 5 pages 8-16 Questions](https://1drv.ms/w/s!AqsgsTyHBmRBj0510oacVZLljaYp?e=S5rZRU) in Word
-* [Blown to Bits Chapter 5 pages 8-16 Answers](/unit-4/day-6/blown-to-bits-answers)
 
 ### Instructional Activities and Classroom Assessments
 

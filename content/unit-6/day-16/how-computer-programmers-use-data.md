@@ -9,10 +9,9 @@ order: 0
 ### Materials
 
 * [Day 16 PowerPoint slide]()
-* [MakeCode Arcade Precision Activities]()
+* [MakeCode Arcade Precision Activities](/unit-6/day-16/makecode-arcade-precision-activities)
 * [MakeCode Arcade Precision Activities]() in Word
-* [MakeCode Arcade Precision Activities - Solution]()
-* [Homework]()
+* [Homework](/unit-6/day-16/homework)
 
 ### Instructional Activities and Classroom Assessments
 
@@ -59,7 +58,7 @@ order: 0
 
 ## 2. MakeCode Arcade activities (10 minutes)
 
-* Ask students to complete the activities on the [MakeCode Arcade Activities]() page.
+* Ask students to complete the activities on the [MakeCode Arcade Activities](/unit-6/day-16/makecode-arcade-precision-activities) page.
 
 ### 3. Debrief and real life example (10 minutes)
 

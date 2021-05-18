@@ -18,9 +18,6 @@ order: 0
 * [Tutorials on Randomness](/unit-3/day-13/tutorials-on-randomness) handout
 * [Tutorials on Randomness](https://1drv.ms/w/s!AqsgsTyHBmRBkEJj0_aW30xXHlgl?e=uJ5VXs) in Word
 * [Activity: Random Sprite Location](https://arcade.makecode.com/courses/csintro1/motion/random)
-* [Task 1 Solution](https://arcade.makecode.com/80323-09430-21241-05460) (for teacher)
-* [Task 2 Solution](https://arcade.makecode.com/08203-77077-41689-26177) (for teacher)
-* [Task 3 Solution](https://arcade.makecode.com/13480-37249-52546-47485)  (for teacher)
 
 ### Instructional Activities and Classroom Assessments
 

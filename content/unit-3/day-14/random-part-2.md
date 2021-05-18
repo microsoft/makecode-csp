@@ -10,8 +10,6 @@ order: 0
 
 * [Day 14 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFZnQpW7T3ivfkKP?e=joQeF2)
 * [Random Generator Programs](/unit-3/day-14/random-generator-programs) handout
-* [Coin Flip Solution](https://arcade.makecode.com/88388-73598-76049-45136) for teacher)
-* [Dice Roll Solution](https://arcade.makecode.com/73406-99868-97908-51542) (for teacher)
 
 ### Instructional Activities and Classroom Assessments
 

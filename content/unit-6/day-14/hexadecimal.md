@@ -11,9 +11,7 @@ order: 0
 * [Day 14 PowerPoint deck]()
 * [Hexadecimal]()
 * [Decimal to Hexadecimal]() worksheet
-* [Decimal to Hexadecimal Answer Key]()
 * [Denary to Hexadecimal via Binary]() worksheet
-* [Denary to Hexadecimal via Binary Answer Key]()
 * [Base 62 and URL Shorteners]()
 * [Hexadecimal in MakeCode]()
 * [Extra Practice: Hexadecimal to Binary]()

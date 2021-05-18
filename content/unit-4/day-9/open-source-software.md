@@ -15,7 +15,6 @@ order: 0
 * [MakeCode Arcade on GitHub](https://github.com/microsoft/pxt-arcade/)
 * [GitHub Directions and Information for Educators](https://1drv.ms/w/s!AqsgsTyHBmRBj1RIei2mWWW3Tlgx?e=yYa2ff)
 * [Teacher Guide for GitHub](/unit-4/day-9/teacher-guide-github)
-* [Student Sample](https://1drv.ms/w/s!AqsgsTyHBmRBj1W9PrPiKgsF-4Qq?e=SS14Ps)
 * [Homework: Blown to Bits Chapter 7](https://1drv.ms/w/s!AqsgsTyHBmRBj1LXa5OSTrNW64jD?e=hbjpF8)
 
 ### Instructional Activities and Classroom Assessments

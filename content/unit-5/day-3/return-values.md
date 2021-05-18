@@ -10,7 +10,6 @@ order: 0
 
 * [Day 3 PowerPoint deck]()
 * [Full Name sample code]()
-* [Series Sum code sample]()
 * [Series Sum Solution]() (for teacher)
 * [Pizza Allowance code sample]()
 * [Writing Functions with Return Values]() Handout
