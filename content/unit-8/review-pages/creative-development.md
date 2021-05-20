@@ -8,7 +8,7 @@ order: 0
 
 <Info>
 
-**Conceptual Framework**
+**CRD Conceptual Framework**
 
 [Big Idea 1: Creative Development (CRD)](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=222)
 </Info>
