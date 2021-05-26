@@ -1,7 +1,7 @@
 ---
 title: 'Heartbreak Maps'
 metaTitle: 'Heartbreak Maps'
-order: 0
+order: 4
 ---
 
 ## Summary
@@ -31,7 +31,7 @@ Why Heartbreak instead of something we're passionately excited about? It's a way
 
 Can you think of any recent examples of people being called to action because they were sad, upset, or angry? (March for Life, Climate Strike, Black Lives Matter - make sure to give examples from different perspectives and groups.)
 
-### 2. Heartbreak Map  (30 minutes)
+### 2. Heartbreak Map (30 minutes)
 
 You can use the attached PowerPoint to guide this session. Start by asking your students the following questions:
 
