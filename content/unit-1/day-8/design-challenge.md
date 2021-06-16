@@ -9,11 +9,11 @@ order: 0
 ### Materials
 
 * [Day 8 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkA2VcVjlPzaNH-K7?e=BXYWm5)
-* [Design Challenge Guide Handout](/unit-1/day-8/design-challenge-guide)
+* <a href="/unit-1/day-8/design-challenge-guide">Design Challenge Guide Handout</a>
 * [Design Challenge Guide Handout](https://1drv.ms/w/s!AqsgsTyHBmRBkAH7AzPkfnzAuQ9c?e=vzT5IB) (in Word)
-* [Rules for Brainstorming Handout](/unit-1/day-8/rules-for-brainstorming)
+* <a href="/unit-1/day-8/rules-for-brainstorming">Rules for Brainstorming Handout</a>
 * [Rules for Brainstorming Handout](https://1drv.ms/w/s!AqsgsTyHBmRBj3_s1ybPvmJHZbCJ?e=19VP6u) (in PDF)
-* [Prototyping Prep Homework Handout](/unit-1/day-8/prototyping-prep-homework)
+* <a href="/unit-1/day-8/prototyping-prep-homework">Prototyping Prep Homework Handout</a>
 * [Prototyping Prep Homework Handout](https://1drv.ms/w/s!AqsgsTyHBmRBkAAoQ1MTEbWdNLgc?e=19VP6u) (in Word)
 
 ### Instructional Activities and Classroom Assessments
