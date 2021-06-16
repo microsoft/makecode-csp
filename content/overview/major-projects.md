@@ -10,7 +10,7 @@ order: 2
 
 Students work in pairs to complete a design thinking challenge in which they select a user, identify a problem they can solve with an app, program, or device, and then use the design thinking process to create a paper prototype for their design and receive feedback on their design and modify their product based on that feedback. After revisions, each team will present their prototype to the class.
 
-The introduction to the project can be found at [Design Challenge - Discover, Ideate](/unit-1/day-8/design-challenge).
+The introduction to the project can be found at <a href="/unit-1/day-8/design-challenge">Design Challenge - Discover, Ideate</a>.
 
 ### Learning objectives
 
@@ -30,7 +30,7 @@ By working with a partner to create a paper prototype of a program, app, or devi
 
 Students work in small groups to create a static webpage on a Computing Systems and Networks topic. Students present their webpages to the class, teaching each other core concepts related to Computing Systems and Networks.
 
-The introduction to the project can be found at Teaching Tool - Computer Systems and Networks.
+The introduction to the project can be found at <a href="/unit-2/day-9/teaching-tool">Teaching Tool - Computer Systems and Networks</a>.
 
 ### Learning objectives
 
@@ -59,7 +59,7 @@ By working with a partner to create a static webpage on a Computing Systems and 
 
 Students demonstrate their understanding of algorithm implementations by creating a program that includes (1) sequencing, selection, and iteration. Students are tasked with creating a program that seeks user input, uses strings and/or integer variables, and includes visible output. Students can choose whether their program incorporates sprites and projectiles, or calculations.
 
-The introduction to the project can be found at [Unit 3 Culminating Project](#). 
+The introduction to the project can be found at <a href="/unit-3/day-19-22/culminating-project">Unit 3 Culminating Project</a>. 
 
 ### Learning objectives
 
@@ -111,7 +111,7 @@ By creating a program that demonstrates their understanding of algorithm impleme
 
 Students work in groups of three to research and prepare for a debate regarding key topics related to the Impact of Computing unit, including safe computing, legal and ethical concerns, computing bias, and digital divide. Student groups are told on the day of the debate whether they are arguing for or against the topic.
 
-Students are introduced to the project on the [first day of Unit 4 on Slide 4 of the PowerPoint](#). The first day of the project can be found at [Debate Preparation](#), and the topics for the project can be found at [Debate Topics](#).
+Students are introduced to the project on the [first day of Unit 4 on Slide 4 of the PowerPoint](https://1drv.ms/p/s!AqsgsTyHBmRBj1fg-coGpmueZbKS?e=aPQbsO). The first day of the project can be found at <a href="content\unit-4\day-12\debate-preparation">Debate Preparation</a>, and the topics for the project can be found at <a href="/unit-4/day-12/debate-topics">Debate Topics</a>.
 
 ### Learning objectives
 
@@ -135,7 +135,7 @@ By tasking students with debating key topics related to safe computing, legal an
 
 Students demonstrate their understanding of algorithm implementations by creating a program that includes (1) functions and parameters, (2) return values, (3) Boolean statements (selection), (4) logic in loops (iteration), (5) multiplayer interface, (6) scene design using Tile maps, and (7) lists (arrays). Students are tasked with creating a program that seeks user input, includes a visible output, and uses extensions. Students work in small groups to create their program, receiving feedback from others throughout the process. 
 
-The introduction to the project can be found at [Unit 5 Culminating Project](#). 
+The introduction to the project can be found at <a href="/unit-5/day-20-27/culminating-project">Unit 5 Culminating Project</a>. 
 
 ### Learning objectives
 
@@ -190,7 +190,7 @@ By creating a program that demonstrates their understanding of algorithm impleme
 
 Students complete a data research project in Unit 6. Students identify a question they want to research, create a survey to collect data, clean and analyze the data they collect through their survey, and then create a visual representation of the data in an infographic. Students then present their findings to the class.
 
-The introduction to the project can be found at [What is Data Science?](#) and specifically on [Slide 12 on Unit 6 Day 2's PowerPoint](#). Students continue work on the project on Day 3 to learn about [Data Collection](#) and bias in surveys, on Day 4 to learn about [Data Ethics and Survey Creation](#), and on Day 5 for [Testing and Sharing Your Survey](#). Students then wait for their survey results. When they have collected all of their data, they pick back up with the project and apply what they learned about [Data Cleansing and Visualization](#) on Day 6 and then complete their findings by completing an [Infographic Project](#).
+The introduction to the project can be found at <a href="/unit-6/day-2/what-is-data-science">What is Data Science?</a> and specifically on [Slide 12 on Unit 6 Day 2's PowerPoint](https://1drv.ms/p/s!AqsgsTyHBmRBj2mWxLmeJYLj791G?e=YEbkxc). Students continue work on the project on Day 3 to learn about <a href="/unit-6/day-3/data-collection">Data Collection</a> and bias in surveys, on Day 4 to learn about <a href="/unit-6/day-4/data-ethics-survey-creation">Data Ethics and Survey Creation</a>, and on Day 5 for <a href="/unit-6/day-5/testing-sharing-your-survey">Testing and Sharing Your Survey</a>. Students then wait for their survey results. When they have collected all of their data, they pick back up with the project and apply what they learned about <a href="/unit-6/day-6/data-cleansing-visualization">Data Cleansing and Visualization</a> on Day 6 and then complete their findings by completing an <a href="/unit-6/day-7-10/infograpic-project">Infographic Project</a>.
 
 ### Learning objectives
 
@@ -239,7 +239,7 @@ The Mock Exam is a formative assessment that prepares students for the AP Exam s
 
 The WE Unit is an optional unit that can be completed at any time after students complete Unit 5 which likely occurs after students have completed the CPT and AP Exam. Students learn about the WE Pillars of Impact and the United Nation's Sustainable Development Goals (**SDG**). They then investigate one particular Goal in depth and design a programming-based project that addresses a facet of the Goal.
 
-The introduction of the project can be found at [SDG and Programming](#).
+The introduction of the project can be found at <a href="/unit-9/day-1/sustainable-development-goals">SDG and Programming</a>.
 
 ### Learning objectives
 

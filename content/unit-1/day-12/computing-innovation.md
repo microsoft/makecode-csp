@@ -12,7 +12,7 @@ order: 0
 * [DigiPen Student Video Games](https://youtu.be/Gpvr130vxrQ)
 * [MakeCode Arcade](https://arcade.makecode.com)
 * Optional: [MakeCode Arcade Hardware](https://arcade.makecode.com/hardware)
-* Optional: [Arcade Sprite Stencils](/unit-1/day-12/arcade-sprite-stencils)
+* Optional: <a href="/unit-1/day-12/arcade-sprite-stencils">Arcade Sprite Stencils</a>
 
 ### Instructional Activities and Classroom Assessments
 

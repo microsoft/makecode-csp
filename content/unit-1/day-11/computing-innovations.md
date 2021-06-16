@@ -10,7 +10,7 @@ order: 0
 
 * [Day 11 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkA4vRFCEM20mHtlF?e=y9rJsg)
 * [Seeing AI app from Microsoft](https://youtu.be/bqeQByqf_f8)
-* [Impact of a Computing Innovation - Recurring Assignment Handout](/unit-1/day-11/impact-computing-innovation)
+* <a href="/unit-1/day-11/impact-computing-innovation">Impact of a Computing Innovation - Recurring Assignment Handout</a>
 * [Impact of a Computing Innovation - Recurring Assignment Handout](https://1drv.ms/w/s!AqsgsTyHBmRBkANWszAEPHMdqLBT?e=bPgDlu) (in Word)
 
 ### Instructional Activities and Classroom Assessments

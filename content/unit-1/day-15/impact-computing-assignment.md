@@ -10,7 +10,7 @@ You will select the day that you do this activity with your students. Communicat
 
 ### Materials
 
-* [Impact of a Computing Innovation - Recurring Assignment](/unit-1/day-11/impact-computing-innovation) (already handed out to students on Day 11 of Unit 1)
+* <a href="/unit-1/day-11/impact-computing-innovation">Impact of a Computing Innovation - Recurring Assignment</a> (already handed out to students on Day 11 of Unit 1)
 
 ### Instructional Activities and Classroom Assessments
 
