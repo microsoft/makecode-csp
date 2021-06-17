@@ -11,7 +11,7 @@ order: 0
 * [Day 1 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj1fg-coGpmueZbKS?e=aPQbsO)
 * [What is artificial intelligence?](https://youtu.be/nASDYRkbQIY)
 * [Blown to Bits Chapter 2](http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf)
-* [Notetaking template](/unit-4/day-1/notetaking-template)
+* <a href="/unit-4/day-1/notetaking-template">Notetaking template</a>
 * [Notetaking template](https://1drv.ms/w/s!AqsgsTyHBmRBj2MZBmkobnXCZAPa?e=y7ikYU) in Word
 
 ### Instructional Activities and Classroom Assessments
@@ -103,4 +103,4 @@ order: 0
 
 Read pages 4-15 of Blown to Bits Chapter 2.
 Stop at the header "The Parking Garage Knows More Than You Think."
-Use the [Notetaking template](/unit-4/day-1/notetaking-template) to take notes as you read.
+Use the <a href="/unit-4/day-1/notetaking-template">Notetaking template</a> to take notes as you read.

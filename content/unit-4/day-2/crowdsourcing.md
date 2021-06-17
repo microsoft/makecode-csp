@@ -9,9 +9,9 @@ order: 0
 ### Materials
 
 * [Day 2 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj1nKxEaa5HieLILS?e=Csfifb)
-* [The Scientist in Us All](/unit-4/day-2/scientist-in-us-all)
+* <a href="/unit-4/day-2/scientist-in-us-all">The Scientist in Us All</a>
 * [The Bitcoin Blockchain Explained](https://youtu.be/M_zCjjy59cg)
-* [Notetaking template](/unit-4/day-1/notetaking-template)
+* <a href="/unit-4/day-1/notetaking-template">Notetaking template</a>
 * [Foldit](https://fold.it/)
 * [Eterna](https://eternagame.org/)
 * [Phylo](https://phylo.cs.mcgill.ca/)
@@ -64,7 +64,7 @@ IOC-1.E.2 Science has been affected by using distributed and "citizen science" t
 ### 1. Introduction to Crowdsourcing (10 minutes)
 
 * Define crowdsourcing.
-* Ask students to read * [The Scientist in Us All](/unit-4/day-2/scientist-in-us-all) (or read it out loud as a class).
+* Ask students to read <a href="/unit-4/day-2/scientist-in-us-all">The Scientist in Us All</a> (or read it out loud as a class).
 * Discuss key concepts in the article about Crowdsourcing:
     * What are the benefits?
     * How is this different than the Folding at Home program we learned about when we discussed parallel and distributed computing? How is it similar?

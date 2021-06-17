@@ -10,7 +10,7 @@ order: 2
 
 https://youtu.be/p-82YeUPQh0
 
-2. Another article regarding AI Bias is [How AI Bias Really Happens](/unit-4/day-5/how-ai-bias-happens).
+2. Another article regarding AI Bias is <a href="/unit-4/day-5/how-ai-bias-happens">How AI Bias Really Happens</a>.
 
 3. [The Social Dilemma](https://www.thesocialdilemma.com/) is a powerful movie about AI algorithm bias in social media, and the addictive qualities of social media platforms. You may assign watching the movie as homework and spend 20 minutes discussing the themes of the movie, and whether or not students agree with some of the conclusions.
 

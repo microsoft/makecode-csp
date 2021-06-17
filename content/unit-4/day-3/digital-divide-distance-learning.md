@@ -4,7 +4,7 @@ metaTitle: "Digital Divide in Distance Learning"
 order: 1
 ---
 
-![Closing the K-12 Digital Divide in the Age of Distance Learning](content\unit-4\day-3\digital-divide-distance-learning.jpg)
+![Closing the K-12 Digital Divide in the Age of Distance Learning](digital-divide-distance-learning.jpg)
 
 <Tip>
 Read pages 6-15 of the Full Report.

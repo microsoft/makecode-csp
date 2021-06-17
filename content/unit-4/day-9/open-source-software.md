@@ -10,11 +10,11 @@ order: 0
 
 * [Day 9 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj10IUkFt68mqlITi?e=kEb6wL)
 * [What is GitHub?](https://youtu.be/w3jLJU7DT5E)
-* [GitHub Project Analysis](/unit-4/day-9/github-project-analysis)
+* <a href="/unit-4/day-9/github-project-analysis">GitHub Project Analysis</a>
 * [GitHub Project Analysis](https://1drv.ms/w/s!AqsgsTyHBmRBkGE9Oid9RLWXyBFB?e=8zNvbg) in Word
 * [MakeCode Arcade on GitHub](https://github.com/microsoft/pxt-arcade/)
 * [GitHub Directions and Information for Educators](https://1drv.ms/w/s!AqsgsTyHBmRBj1RIei2mWWW3Tlgx?e=yYa2ff)
-* [Teacher Guide for GitHub](/unit-4/day-9/teacher-guide-github)
+* <a href="/unit-4/day-9/teacher-guide-github">Teacher Guide for GitHub]</a>
 * [Homework: Blown to Bits Chapter 7](https://1drv.ms/w/s!AqsgsTyHBmRBj1LXa5OSTrNW64jD?e=hbjpF8)
 
 ### Instructional Activities and Classroom Assessments
@@ -54,7 +54,7 @@ CRD-1.A
 * Explain what GitHub is.
 * Explain the structure of a project or repo.
 * Have students create a GitHub account.
-* Ask them to analyze one of the projects according to the [GitHub Project Analysis](/unit-4/day-9/github-project-analysis) page.
+* Ask them to analyze one of the projects according to the <a href="/unit-4/day-9/github-project-analysis">GitHub Project Analysis</a> page.
 
 ### 3. Share (10 minutes)
 

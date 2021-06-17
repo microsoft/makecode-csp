@@ -9,11 +9,11 @@ order: 0
 ### Materials
 
 * [Day 5 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj1zwSXDB6nQadfpb?e=7kNYd2)
-* [Biased Algorithms article](/unit-4/day-5/biased-algorithms)
+* <a href="/unit-4/day-5/biased-algorithms">Biased Algorithms article</a>
 * [Computing human bias with AI technology](https://youtu.be/RyanJ2h-9-g)
 * [What is Artificial Intelligence (or Machine Learning)?](https://youtu.be/mJeNghZXtMo)
 * [Are Risk Assessment Algorithms Fair, or Racist?](https://youtu.be/Gi4YeRqfb24)
-* [Optional Resources for Educators](/unit-4/day-5/resources-for-educators)
+* <a href="/unit-4/day-5/resources-for-educators">Optional Resources for Educators</a>
 
 ### Instructional Activities and Classroom Assessments
 
@@ -55,7 +55,7 @@ order: 0
 
 ### 3. Biased Algorithms (15 minutes)
 
-* Ask students to read the [Biased Algorithms](/unit-4/day-5/biased-algorithms) article.
+* Ask students to read the <a href="/unit-4/day-5/biased-algorithms">Biased Algorithms article</a> article.
 * Play the video - [Are Risk Assessment Algorithms Fair, or Racist?](https://youtu.be/Gi4YeRqfb24)
 
 ### 4. Group Brainstorm/Discussion (15 minutes)

@@ -5,10 +5,10 @@ order: 0
 ---
 
 * [Day 12 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj2KFqEJXJe6sOAYL?e=CkoUV8)
-* [Debate Topics](/unit-4/day-12/debate-topics)
-* [Debating Rules](/unit-4/day-12/debating-rules)
-* [Debate Structure](/unit-4/day-12/debate-structure)
-* [Sample Debate Strategies](/unit-4/day-12/sample-debate-strategies)
+* <a href="/unit-4/day-12/debate-topics">Debate Topics</a>
+* <a href="/unit-4/day-12/debating-rules">Debating Rules</a>
+* <a href="/unit-4/day-12/debate-structure">Debate Structure</a>
+* <a href="(/unit-4/day-12/sample-debate-strategies">Sample Debate Strategies</a>
 
 ### Instructional Activities and Classroom Assessments
 
@@ -29,7 +29,7 @@ order: 0
 * [IOC-2.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=130) Explain how computing resources can be protected and can be misused.
 * IOC-2.C
 
-### Essential Knowledge 
+### Essential Knowledge
 
 * [IOC-1.A.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=121) to [IOC-1.A.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=121)
 * [IOC-1.B.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=122) to [IOC-1.B.6](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=122)
@@ -45,39 +45,32 @@ order: 0
 
 ### 1. Organize groups and assign topics (5 minutes)
 
-Organize students into groups of three.
-You can use the Group Generator program to randomly sort students.
-Assign debate topics to groups.
-Give the same topic to two groups.
+* Organize students into groups of three.
+* You can use the Group Generator program to randomly sort students.
+* Assign debate topics to groups.
+* Give the same topic to two groups.
 
- 
+### 2. Explain debate procedure (5 minutes)
 
-### 2. Explain debate procedure (5 minutes) 
+* Explain the procedures for the debate. 
+    * Two groups have the same topic. 
+    * Each student in the team will have a part: 
+        * First speaker
+        * Second speaker
+        * Rebuttal speaker
+    * On the day of their debate, teams will be told if they are for or against the proposition.
+* Explain the timing of the debate.
+* Ask students to review the Debating Rules page.
+* Encourage them to ask any questions they have about the procedure.
 
-Explain the procedures for the debate. 
-Two groups have the same topic. 
-Each student in the team will have a part: 
-First speaker
-Second speaker
-Rebuttal speaker 
-On the day of their debate, teams will be told if they are for or against the proposition. 
-Explain the timing of the debate. 
-Ask students to review the Debating Rules page. 
-Encourage them to ask any questions they have about the procedure.
+### 3. Debate preparation (40 minutes)
 
-### 3. Debate preparation (40 minutes) 
-
-Give students time to prepare. Students should: 
-
-Decide the order they will make their arguments.
-Develop points and arguments for both sides.
-Refer to notes and readings within the unit.
-Conduct additional research.
-
- 
+* Give students time to prepare. Students should:
+    * Decide the order they will make their arguments.
+    * Develop points and arguments for both sides.
+    * Refer to notes and readings within the unit.
+    * Conduct additional research.
 
 ### 4. Homework
 
 * Finish preparing for the debate.
-
- 

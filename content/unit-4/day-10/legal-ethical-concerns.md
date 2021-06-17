@@ -9,11 +9,11 @@ order: 0
 ### Materials  
 
 * [Day 10 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj2EzljQvy0n4YZUR?e=IWQDKE)
-* [Blown to Bits Chapter 7 Talking Points](/unit-4/day-10/blown-to-bits-chapter)
+* <a href="/unit-4/day-10/blown-to-bits-chapter">Blown to Bits Chapter 7 Talking Points</a>
 * [Blown to Bits Chapter 7 Talking Points](https://1drv.ms/w/s!AqsgsTyHBmRBj1Z7_Wlz5r8R20_p?e=nGnlAI) in Word
 * [LAX Implements Thermal Screening To Scan Passengers For Coronavirus Symptoms | NBC Nightly News](https://youtu.be/rIboxokekE0)
-* [Thermal Cameras article](/unit-4/day-10/thermal-cameras)
-* [Wrongfully Accused article](/unit-4/day-10/wrongfully-accused)
+* <a href="/unit-4/day-10/thermal-cameras">Thermal Cameras article</a>
+* <a href="/unit-4/day-10/wrongfully-accused">Wrongfully Accused article</a>
 
 ### Instructional Activities and Classroom Assessments
 
@@ -46,16 +46,16 @@ IOC-1.B
 * Organize students into groups of 4-5.
 * You can use the [Group Generator](https://arcade.makecode.com/31859-57060-41272-95490) program to randomly sort students.
 * Ask students to use their notes from the Chapter 7 of Blown to Bits to answer the question: What are the challenges of regulating conduct on the Internet.
-*Students can use the [Blown to Bits Chapter 7 Talking Points]() page to guide their discussion.
+*Students can use the <a href="/unit-4/day-10/blown-to-bits-chapter">Blown to Bits Chapter 7 Talking Points</a> page to guide their discussion.
 
 ### 2. Privacy or safety? (15 minutes)
 
 * Play the video.
-* Ask students to read the [Thermal Cameras]() article (or read the article as a class).
+* Ask students to read the <a href="/unit-4/day-10/thermal-cameras">Thermal Cameras article</a> article (or read the article as a class).
 * When everyone is finished, discuss the question: Privacy or Safety? Which one is more important in a pandemic?
 
 ### 3. Bias in algorithms (15 minutes)
 
 * If the other conversations run-over, you can assign this as homework.
-* Ask students to read the [Wrongfully Accused]() article (or read the article as a class).
+* Ask students to read the <a href="/unit-4/day-10/wrongfully-accused">Wrongfully Accused article</a> article (or read the article as a class).
 * When everyone is finished, discuss the question: Should law enforcement use facial recognition in its investigations?

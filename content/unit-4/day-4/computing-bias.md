@@ -9,13 +9,13 @@ order: 0
 ### Materials  
 
 * [Day 4 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj1qLEq3BbCTePlS8?e=Ejbio4)
-* [Have You Ever? Reflection](/unit-4/day-4/have-you-ever-reflection)
+* <a href="/unit-4/day-4/have-you-ever-reflection">Have You Ever? Reflection</a>
 * [Introducing the Xbox Adaptive Controller](https://youtu.be/9fcK19CAjWM)
-* [Bias in Technology Article](/unit-4/day-4/bias-in-technology)
+* <a href="/unit-4/day-4/bias-in-technology">Bias in Technology Article</a>
 * [Bias in Technology Article](https://1drv.ms/w/s!AqsgsTyHBmRBj0tShf8toD1rIdXm?e=YwEjZe) PDF
-* [Robot racism? Yes, says a study showing humans' biases extend to robots - CNN](/unit-4/day-4/robot-racism)
-* [Resource for Educator](/unit-4/day-4/resouce-for-educator)
-* [Notetaking template](/unit-4/day-1/notetaking-template)
+* <a href="/unit-4/day-4/robot-racism">Robot racism? Yes, says a study showing humans' biases extend to robots - CNN</a>
+* <a href="/unit-4/day-4/resouce-for-educator">Resource for Educator</a>
+* <a href="/unit-4/day-1/notetaking-template">Notetaking template</a>
 
 ### Instructional Activities and Classroom Assessments
 
@@ -48,7 +48,7 @@ order: 0
     * If their answer to the question is yes, move to the left of the room. 
     * If their answer to the question is no, move to the right of the room. 
 * Prepare students that the questions are thoughtful and may make them feel uncomfortable. 
-* When finished asking each question, ask students to quietly reflect on what they felt/observed during the activity and to write their responses on the [Have You Ever? Reflection](/unit-4/day-4/have-you-ever-reflection) page. 
+* When finished asking each question, ask students to quietly reflect on what they felt/observed during the activity and to write their responses on the <a href="/unit-4/day-4/have-you-ever-reflection">Have You Ever? Reflection</a> page. 
 * Conduct a group discussion about their observations.
 
 ### 2. Computing Bias (10 minutes) 
@@ -62,13 +62,13 @@ order: 0
 ### 3. Lack of Diversity (20 minutes)
 
 * Explain one cause of bias is a lack of diversity in the computer science field.
-* Ask students to read [Bias in Technology](/unit-4/day-4/bias-in-technology).
+* Ask students to read <a href="/unit-4/day-4/bias-in-technology">Bias in Technology Article</a>.
 * Encourage students to brainstorm ideas of how to increase diversity while they wait for classmates to finish reading.
 * Once everyone is finished, ask students to share ideas on how tech companies can increase diversity.
 
 ### 4. Robot Racism (Optional)
 
-* If students finish their discussion about how to increase diversity early, ask students to read the [Robot racism? Yes, says a study showing humans' biases extend to robots - CNN](/unit-4/day-4/robot-racism) article.
+* If students finish their discussion about how to increase diversity early, ask students to read the <a href="/unit-4/day-4/robot-racism">Robot racism? Yes, says a study showing humans' biases extend to robots - CNN</a> article.
 * When they are finished, ask them to answer the following questions:
     * Do you think a lack of diversity influences robot color?
     * How do we change perceptions that influence our biases?

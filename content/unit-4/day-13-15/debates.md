@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 13-15 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj2Rk51DuSgVT_KtF?e=bvFvUB)
-* [Debate Structure](/unit-4/day-13-15/debates)
+* <a href="/unit-4/day-13-15/debates">Debate Structure</a>
 
 ### Instructional Activities and Classroom Assessments
 
