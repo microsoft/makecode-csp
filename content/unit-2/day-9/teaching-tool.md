@@ -9,9 +9,9 @@ order: 0
 ### Materials
 
 * [Day 9 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj0LNGoCTK9Gh_r9w?e=F1UVZv)
-* [Webpage Design Document](/unit-2/day-9/webpage-design-document)
+* <a href="/unit-2/day-9/webpage-design-document">Webpage Design Document</a>
 * [Webpage Design Document](https://1drv.ms/w/s!AqsgsTyHBmRBj0GcwFakEJmF7BZz?e=kryCan) (in Word)
-* [Web Page Project Rubric](/unit-2/day-9/webpage-project-rubric)
+* <a href="/unit-2/day-9/webpage-project-rubric">Web Page Project Rubric</a>
 * [Web Page Project Rubric](https://1drv.ms/w/s!AqsgsTyHBmRBj0B65c7OyROKdLh7?e=wbT4wY) (in Word)
 
 ### Instructional Activities and Classroom Assessments

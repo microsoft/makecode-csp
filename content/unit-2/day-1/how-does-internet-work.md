@@ -10,11 +10,11 @@ order: 0
 
 * [Day 1 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBjzZs__tNSQiZSH5L?e=I4KlHk)
 * [Vox Video - How Does the Internet Work? - Glad You Asked S1](https://youtu.be/TNQsmPf24go)
-* [Guided Video Notes: How Does the Internet Work?](/unit-2/day-1/guided-video-notes)
-* [Answer Key to Guided Video Notes](/unit-2/day-1/answer-key-guided-video-notes)
-* [The Internet as System and Spirit Reading Assignment](/unit-2/day-1/internet-system-spirit)
-* [Guided Reading Questions: The Internet as a System and Spirit](/unit-2/day-1/guided-reading-questions)
-* [Answer Key to Guided Reading Questions](/unit-2/day-1/answer-key-guided-reading-notes)
+* <a href="/unit-2/day-1/guided-video-notes">Guided Video Notes: How Does the Internet Work?</a>
+* <a href="/unit-2/day-1/answer-key-guided-video-notes">Answer Key to Guided Video Notes</a>
+* <a href="/unit-2/day-1/internet-system-spirit">The Internet as System and Spirit Reading Assignment</a>
+* <a href="/unit-2/day-1/guided-reading-questions">Guided Reading Questions: The Internet as a System and Spirit</a>
+* <a href="/unit-2/day-1/answer-key-guided-reading-notes">Answer Key to Guided Reading Questions</a>
 
 ### Instructional Activities and Classroom Assessments
 
@@ -68,13 +68,13 @@ ap-computer-science-principles-course-and-exam-description.pdf#page=23)
 
 * Watch the video.
 * As students watch the video, ask them to answer the questions on the Guided Video Notes page.
-* You may need to pause the video periodically to allow students a moment to write down their answers to the questions on the [Guided Video Notes: How Does the Internet Work?](#) page.
+* You may need to pause the video periodically to allow students a moment to write down their answers to the questions on the <a href="/unit-2/day-1/guided-video-notes">Guided Video Notes: How Does the Internet Work?</a> page.
 
 ### 3. How Does the Internet Work? Discussion (10 minutes)
 
 * Discuss what students learned by watching the video.
 * Ask students to share their answers on the Guided Video Notes page.
-* Use the [Answer Key to Guided Video Notes](#) to help with the discussion.
+* Use the <a href="/unit-2/day-1/answer-key-guided-video-notes">Answer Key to Guided Video Notes</a> to help with the discussion.
 
 ### 4. Homework
 

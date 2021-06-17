@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 6 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkE7swOx0rn8PeZtJ?e=HPleQK)
-* [Sprite Stories Submissions](/unit-3/day-6/sprite-stories-submissions)
+* <a href="/unit-3/day-6/sprite-stories-submissions">Sprite Stories Submissions</a>
 
 ### Instructional Activities and Classroom Assessments
 

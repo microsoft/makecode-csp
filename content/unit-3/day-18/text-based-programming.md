@@ -9,12 +9,12 @@ order: 0
 ### Materials  
 
 * [Day 18 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkF23KafW4i1RjV2n?e=aoD0Cy)
-* [Levels of Programming Languages](content/unit-3/day-18/levels-of-languages) handout
+* <a href="/unit-3/day-18/levels-of-languages">Levels of Programming Languages</a> handout
 * [Levels of Programming Languages](https://1drv.ms/w/s!AqsgsTyHBmRBkEZ2vTTaeMjjZ-A_?e=sfgbay) handout in Word
-* [JavaScript Commands](/unit-3/day-18/javascript-commands)
+* <a href="/unit-3/day-18/javascript-commands">JavaScript Commands</a>
 * [JavaScript Commands](https://1drv.ms/w/s!AqsgsTyHBmRBkEVcn6F1OuOIMnWm?e=hRGFsi) in Word
 * [Lemon Leak JavaScript](https://arcade.makecode.com/98004-90663-66831-30590) (for teacher)
-* [Code Tracing & Rewrite in JavaScript](/unit-3/day-18/rewrite-in-javascript) handout
+* <a href="/unit-3/day-18/rewrite-in-javascript">Code Tracing & Rewrite in JavaScript</a> handout
 * [Code Tracing & Rewrite in JavaScript](https://1drv.ms/w/s!AqsgsTyHBmRBkET45PKWFfcpLVja?e=7VhAc3) handout in Word
 * Block code-segments used in assignment:
     * [driver nested conditional](https://arcade.makecode.com/70022-63731-41202-63500) (for teacher)

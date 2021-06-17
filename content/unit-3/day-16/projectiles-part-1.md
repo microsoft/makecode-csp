@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 16 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFlACJPIhnJmrzTw?e=njGJ7k)
-* [Projectiles Activities](/unit-3/day-16/projectiles-activities)
+* <a href="/unit-3/day-16/projectiles-activities">Projectiles Activities</a>
 * [Projectiles Activities](https://1drv.ms/w/s!AqsgsTyHBmRBkEfrma_O-9Zo3CH1?e=hPsQKA) in Word
 * [Flying Bird Program](https://arcade.makecode.com/86954-34244-21437-84571) (for teacher)
 * [Flying Bird with Score Program](https://arcade.makecode.com/30232-17754-55240-22877) (for teacher)
@@ -76,7 +76,7 @@ block of statements condition in which the code in block of statements is repeat
 * Review sprites.
 * Remind students of our use of Projectiles in the Galga game.
 * Define and discuss the qualities of projectiles.
-* Direct students to the [Projectiles Activities](/unit-3/day-16/projectiles-activities) page and guide them through Section A of the page (i.e., the Flying Bird activity).
+* Direct students to the <a href="/unit-3/day-16/projectiles-activities">Projectiles Activities</a> page and guide them through Section A of the page (i.e., the Flying Bird activity).
 * Discuss what happens when they change the numbers for vx and vy.
 * Discuss what happens when they change vx or vy to a negative number.
 * Demonstrate the concept that projectiles are automatically destroyed when they leave the visible screen:
@@ -85,7 +85,7 @@ block of statements condition in which the code in block of statements is repeat
 
 ### 3. Projectiles activities (35 minutes)
 
-* Direct students to the [Projectiles Activities](/unit-3/day-16/projectiles-activities) page.
+* Direct students to the <a href="/unit-3/day-16/projectiles-activities">Projectiles Activities</a> page.
 * Task them with completing Section B of the page.
 
 ### 4. Reflection/Homework

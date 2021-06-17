@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 12 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj0UCf2ESIb4tkJIW?e=FvhhKG)
-* [Webpage Link for Viewing](/unit-2/day-12/project-reflection) (directions and place for students to share their links)
+* <a href="/unit-2/day-12/project-reflection">Webpage Link for Viewing</a> (directions and place for students to share their links)
 
 ### Instructional Activities and Classroom Assessments
 
@@ -67,4 +67,4 @@ After presenting, the audience can give constructive feedback.
 
 ### 4. Homework
 
-* Students will complete the [Project Reflection](/unit-2/day-12/project-reflection) page for homework.
+* Students will complete the <a href="/unit-2/day-12/project-reflection">Project Reflection</a> page for homework.

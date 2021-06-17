@@ -10,11 +10,11 @@ order: 0
 
 * [Day 9 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFXKjstbzJe5ioSK?e=sUBfFi)
 * [MakeCode Arcade](https://arcade.makecode.com)
-* [My 20% Tip App](/unit-3/day-9/my-20percent-tip-app) handout
+* <a href="/unit-3/day-9/my-20percent-tip-app">My 20% Tip App</a> handout
 * [math+1](https://arcade.makecode.com/50835-80330-42471-08717) (for teacher)
 * [Mod - JavaScript](https://arcade.makecode.com/80718-73341-66614-17701) Code (for teacher)
 * [Mod - Python](https://arcade.makecode.com/88951-80998-23686-31084) Code (for teacher)
-* [Military Time Converter](/unit-3/day-9/military-time-converter) handout
+* <a href="/unit-3/day-9/military-time-converter">Military Time Converter</a> handout
 
 ### Instructional Activities and Classroom Assessments
 

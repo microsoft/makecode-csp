@@ -10,12 +10,12 @@ order: 0
 
 * [Day 13 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFiQfWReiXGXcgZm?e=rFMVVm)
 * Dice (or a [virtual die](https://www.random.org/dice/))
-* [Roll the Dice Handout](/unit-3/day-13/roll-the-dice) 
+* <a href="/unit-3/day-13/roll-the-dice">Roll the Dice Handout</a>
 * [Roll the Dice Handout](https://1drv.ms/w/s!AqsgsTyHBmRBkGAZBqJvKCnOOen4?e=CYs1Qu) in Word 
-* [Class Results for Roll the Dice](unit-3/day-13/class-results-roll-dice)
-* [How Computers Generate Random Numbers article](/unit-3/day-13/generate-random-numbers)
+* <a href="unit-3/day-13/class-results-roll-dice">Class Results for Roll the Dice</a>
+* <a href="/unit-3/day-13/generate-random-numbers">How Computers Generate Random Numbers article</a>
 * [Is Anything Truly Random?](https://youtu.be/tClZGWlRLoE) video
-* [Tutorials on Randomness](/unit-3/day-13/tutorials-on-randomness) handout
+* <a href="/unit-3/day-13/tutorials-on-randomness">Tutorials on Randomness</a> handout
 * [Tutorials on Randomness](https://1drv.ms/w/s!AqsgsTyHBmRBkEJj0_aW30xXHlgl?e=uJ5VXs) in Word
 * [Activity: Random Sprite Location](https://arcade.makecode.com/courses/csintro1/motion/random)
 

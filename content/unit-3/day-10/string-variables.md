@@ -12,7 +12,7 @@ order: 0
 * [MakeCode Arcade](https://arcade.makecode.com)
 * [Name String](https://arcade.makecode.com/56228-63714-53573-16612) (for teacher)
 * [Parts of Speech](https://arcade.makecode.com/20670-08492-67506-63325)  (for teacher)
-* [My Code Segments for String Activities](/unit-3/day-10/my-code-segments)
+* <a href="/unit-3/day-10/my-code-segments">My Code Segments for String Activities</a>
 
 ## Instructional Activities and Classroom Assessments
 

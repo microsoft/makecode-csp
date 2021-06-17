@@ -12,7 +12,7 @@ order: 0
 * [MakeCode Arcade](https://arcade.makecode.com)
 * [Drive or Bike User Input](https://arcade.makecode.com/34668-94710-92911-69140) (for teacher)
 * [Discount Program](https://arcade.makecode.com/51605-77853-77108-54314) (for teacher)
-* [Putting it all Together Project](/unit-3/day-12/putting-together)
+* <a href="/unit-3/day-12/putting-together">Putting it all Together Project</a>
 * Note to teacher: You can find directions for how to create a screencast [here](https://1drv.ms/w/s!AqsgsTyHBmRBkCZowEPHadJxKSRc?e=8ioyKG). There is a PowerPoint for a variety of devices (Windows 10, Mac, iPad, and Chromebook).
 
 ### Instructional Activities and Classroom Assessments
