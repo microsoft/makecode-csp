@@ -10,7 +10,7 @@ order: 0
 
 * [Day 16 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkBW3l0eAIhPGXD7D?e=jayMpP)
 * [Impact of a Computing Innovation - Recurring Assignment]() (already handed out to students on Day 11 of Unit 1)
-* [Privacy & Security in Computing Innovations](/unit-4/day-16/privacy-and-security)
+* <a href="/unit-4/day-16/privacy-and-security">Privacy & Security in Computing Innovations</a>
 * [Privacy & Security in Computing Innovations](https://1drv.ms/w/s!AqsgsTyHBmRBkCQ-aRBWwE6GWU4i?e=kjEFL8) in Word
  
 ### Instructional Activities and Classroom Assessments

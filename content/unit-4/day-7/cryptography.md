@@ -9,11 +9,11 @@ order: 0
 ### Materials  
 
 * [Day 7 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj15JScpF3V6STW-U?e=eSvl39)
-* [Vigenère Cipher Template](/unit-4/day-7/vigenere-cipher-template)
+* <a href="/unit-4/day-7/vigenere-cipher-template">Vigenère Cipher Template]</a>
 * [Vigenere Cipher Template](https://1drv.ms/w/s!AqsgsTyHBmRBj1HjAyNVKuIml_h6?e=b6GyOY) in Word
 * [Cryptii - Caesar Cipher](https://cryptii.com/pipes/caesar-cipher)
 * [MakeCode Arcade program: Vigenere encode decode](https://arcade.makecode.com/13486-26863-60368-95323)
-* [Homework: Blown to Bits Chapter 5 pages 21-36 Questions](/unit-4/day-7/homework)
+* <a href="/unit-4/day-7/homework">Homework: Blown to Bits Chapter 5 pages 21-36 Questions</a>
 * [Homework: Blown to Bits Chapter 5 pages 21-36 Questions](https://1drv.ms/w/s!AqsgsTyHBmRBj1NXhT3w090ORyPQ?e=JTj1Mf) in Word
 
 ### Instructional Activities and Classroom Assessments 
@@ -73,4 +73,4 @@ Computational Thinking Practice [5.E](https://apcentral.collegeboard.org/pdf/ap-
 ### 5. Homework
 
 * Read pages 21-36 of Blown to Bits Chapter 5.
-* Students should answer the questions on the [Homework: Blown to Bits Chp. 5 p. 21-36 Question]() page.
+* Students should answer the questions on the <a href="/unit-4/day-7/homework">Homework: Blown to Bits Chapter 5 pages 21-36 Questions</a> page.

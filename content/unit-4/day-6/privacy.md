@@ -9,13 +9,13 @@ order: 0
 ### Materials 
 
 * [Day 6 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj1uJPCezFpCjkQIn?e=IBsgjC)
-* [Privacy Challenge Activity](/unit-4/day-6/privacy-challenge-activity)
+* <a href="/unit-4/day-6/privacy-challenge-activity">Privacy Challenge Activity</a>
 * [Privacy Challenge Activity](https://1drv.ms/w/s!AqsgsTyHBmRBj0-vqaFJaPFw84hl?e=PI4kBl) in Word 
 * [Sharing Information: A Day in Your Life | Federal Trade Commission](https://youtu.be/O5OsQsB7Hg4)
-* [Blown to Bits Chapter 2 Talking Points](/unit-4/day-6/blown-to-bits-talking-points)
+* <a href="/unit-4/day-6/blown-to-bits-talking-points">Blown to Bits Chapter 2 Talking Points</a>
 * [Blown to Bits Chapter 2 Talking Points](https://1drv.ms/w/s!AqsgsTyHBmRBj01a32gAyjQzrIip?e=y4Qjos) in Word
 * [Homework: Blown to Bits Chapter 5](https://1drv.ms/w/s!AqsgsTyHBmRBj0w2E5kfNEeagzsD?e=Ycgg51)
-* [Homework: Blown to Bits Chapter 5 pages 8-16 Questions](/unit-4/day-6/homework)
+* <a href="/unit-4/day-6/homework">Homework: Blown to Bits Chapter 5 pages 8-16 Questions</a>
 * [Homework: Blown to Bits Chapter 5 pages 8-16 Questions](https://1drv.ms/w/s!AqsgsTyHBmRBj0510oacVZLljaYp?e=S5rZRU) in Word
 
 ### Instructional Activities and Classroom Assessments
@@ -100,16 +100,16 @@ order: 0
 
 ### 3. Personally identifiable information (PII) (5 minutes)
 
-* Play the [Sharing Information: A Day in Your Life | Federal Trade Commission]() video.
+* Play the [Sharing Information: A Day in Your Life | Federal Trade Commission](https://youtu.be/O5OsQsB7Hg4) video.
 * Define PII.
 * Reiterate that they are sharing PII when they place orders, post on social media, use loyalty cards, etc.
 
 ### 4. Small group discussion (15 minutes)
 
 * Organize students into groups of 4-5.
-* You can use the [Group Generator]() program to randomly sort students.
+* You can use the [Group Generator](https://arcade.makecode.com/_CohR5JHEihJL) program to randomly sort students.
 * Ask students to use their notes from the Chapter 2 of Blown to Bits to discuss key concepts they gleaned from the reading.
-* Ask students to use the [Blown to Bits Chapter 2 Talking Points]() page to guide their discussion.
+* Ask students to use the <a href="/unit-4/day-6/blown-to-bits-talking-points">Blown to Bits Chapter 2 Talking Points</a> page to guide their discussion.
 * Tell them that they will share their group's thoughts about the questions in bold on the page in a whole class discussion.
 * Set your timer for 15 minutes.
 

@@ -9,7 +9,7 @@ order: 0
 ### Materials  
 
 * [Day 11 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj2CkoUV8N8YvnglV?e=27CnsT)
-* [Computer Ethics](/unit-4/day-11/computer-ethics)
+* <a href="/unit-4/day-11/computer-ethics">Computer Ethics</a>
 * [What is Creative Commons?](https://youtu.be/dPZTh2NKTm4)
 * [What are Creative Commons Licenses?](https://youtu.be/srVPLrmlBJY)
 * [Smithsonian Open Access: 2.8 Million Images Are Yours to Use](https://youtu.be/B5vC2kweCNk)

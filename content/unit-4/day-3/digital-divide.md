@@ -10,11 +10,11 @@ order: 0
 
 * [Day 3 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj1iWYHwq0AMHNnLY?e=NHI9L2)
 * [Cut Out Challenge Worksheet](https://1drv.ms/w/s!AqsgsTyHBmRBj0i5Q6RiRdo0L-QT?e=1lxmxx)
-* [Digital Divide in Distance Learning](/unit-4/day-3/digital-divide-distance-learning) research article
-* [Digital Divide Guided Notes](/unit-4/day-3/digital-divide-guided-notes)
+* <a href="/unit-4/day-3/digital-divide-distance-learning">Digital Divide in Distance Learning</a> research article
+* <a href="/unit-4/day-3/digital-divide-guided-notes">Digital Divide Guided Notes</a>
 * [Digital Divide Guided Notes](https://1drv.ms/w/s!AqsgsTyHBmRBj0lbkW40KU2TJHxw?e=uaq7BL) in Word
-* [Optional: As Covid-19 Closes Schools, the World’s Children Go to Work](/unit-4/day-3/covid-19-closes-schools)
-* [Notetaking template](/unit-4/day-1/notetaking-template)
+* <a href="/unit-4/day-3/covid-19-closes-schools">Optional: As Covid-19 Closes Schools, the World’s Children Go to Work</a>
+* <a href="/unit-4/day-1/notetaking-template">Notetaking template</a>
 
 ### Instructional Activities and Classroom Assessments 
 
@@ -72,14 +72,14 @@ order: 0
         * Number of towers, cost of service, speed of repairs are all dependent on your location.
         * Large, populated cities benefit the most.
         * Rural or small countries with little infrastructure suffer the most.
-* Send students to the [Global Information Technology Report (page 32)](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GITR-2016-report.pdf#page=32) - link is on the [Digital Divide Guided Notes](/unit-4/day-3/digital-divide-guided-notes) page:
+* Send students to the [Global Information Technology Report (page 32)](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GITR-2016-report.pdf#page=32) - link is on the <a href="/unit-4/day-3/digital-divide-guided-notes">Digital Divide Guided Notes</a> page:
 *   Have them compare different countries for their "Networked Readiness."
     * Students should answer: What do you notice about a country's ranking and its income level?
 
 ### 3. Real world example: Digital divide in distance learning (30 minutes) 
 
 * Divide students into small groups of 3-4.
-* Instruct students to read pages 6-15 of Common Sense Media's report on the [Digital Divide in Distance Learning](/unit-4/day-3/digital-divide-distance-learning) and to work together to answer the questions on the [Digital Divide Guided Notes](/unit-4/day-3/digital-divide-guided-notes) page.
+* Instruct students to read pages 6-15 of Common Sense Media's report on the <a href="/unit-4/day-3/digital-divide-distance-learning">Digital Divide in Distance Learning</a> and to work together to answer the questions on the <a href="/unit-4/day-3/digital-divide-guided-notes">Digital Divide Guided Notes</a> page.
 * Give students around 15 minutes to review the document and answer the questions as a team.
 * When students are finished, ask: How can we close the digital divide? In our community? Globally?
 

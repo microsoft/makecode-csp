@@ -12,7 +12,7 @@ order: 0
 * [Official Trailer: Hackers (1995)](https://youtu.be/qP79h2capFc)
 * [2FA: Two Factor Authentication in 1 minute - For Kids and Parents](https://youtu.be/zvkloHj6aLg)
 * [Protect Your Computer from Malware | Federal Trade Commission](https://youtu.be/XU8PHihT_P4)
-* [One-Pager Brainstorm-Planning Sheet](/unit-4/day-8/one-pager-brainstorm)
+* <a href="/unit-4/day-8/one-pager-brainstorm">One-Pager Brainstorm-Planning Sheet</a>
 * [Cybersecurity Tip Sheets](https://www.cisa.gov/publication/national-cybersecurity-awareness-month-publications)
 
 ### Instructional Activities and Classroom Assessments 
