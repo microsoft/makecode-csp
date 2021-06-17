@@ -9,7 +9,7 @@ order: 0
 ### Materials 
 
 * [Day 4 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFH3kou9YRVO_kPf?e=UFvSVT)
-* [My Galga Game](/unit-3/day-4/my-galga-game)
+* <a href="/unit-3/day-4/my-galga-game">My Galga Game</a>
 * [MakeCode Arcade](https://arcade.makecode.com/)
 * [Which Button?](https://arcade.makecode.com/79378-08701-86920-14976) code (for teacher)
 * [Galga code](https://arcade.makecode.com/35288-47032-68910-16297) (for teacher)
@@ -59,7 +59,7 @@ AAP-2.B.6 Sequential statements execute in the order they appear in the code seg
     * On game update
     * On A button pressed
     * On sprite overlaps
-* Ask students to publish their game and post the link to their [My Galga Game](/unit-3/day-4/my-galga-game) page.
+* Ask students to publish their game and post the link to their <a href="/unit-3/day-4/my-galga-game">My Galga Game</a> page.
 * Encourage students to save their game to their computer also.
 * Have students play their game a few times to see how it works.
 
@@ -69,4 +69,4 @@ AAP-2.B.6 Sequential statements execute in the order they appear in the code seg
 * Students should explore other game features and insert items they feel will work with their vision for the game.
 * Show them how to learn what different blocks do by using the Help feature.
 * Encourage students to add comments to the blocks they add.
-* Ask students to re-publish their game and add the link to their [My Galga Game](/unit-3/day-4/my-galga-game).
+* Ask students to re-publish their game and add the link to their <a href="/unit-3/day-4/my-galga-game">My Galga Game</a>.

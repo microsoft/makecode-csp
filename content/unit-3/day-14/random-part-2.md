@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 14 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFZnQpW7T3ivfkKP?e=joQeF2)
-* [Random Generator Programs](/unit-3/day-14/random-generator-programs) handout
+* <a href="/unit-3/day-14/random-generator-programs">Random Generator Programs</a> handout
 
 ### Instructional Activities and Classroom Assessments
 

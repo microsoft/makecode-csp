@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 7 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBjz4Vb2YFXvDC8cH6?e=daV11t)
-* [Unit 2 Vocab](/unit-2/vocab)
+* <a href="/unit-2/vocab">Unit 2 Vocab</a>
 
 ### Instructional Activities and Classroom Assessments
 

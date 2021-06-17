@@ -9,11 +9,11 @@ order: 0
 ### Materials
 
 * [Days 19-22 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFyXQ-ooj03xM0wA/e=jYCzol)
-* [Project Requirements & Responses](/unit-3/day-19-22/projects-requirements-responses) handout
+* <a href="/unit-3/day-19-22/projects-requirements-responses">Project Requirements & Responses</a> handout
 * [Project Requirements & Responses](https://1drv.ms/w/s!AqsgsTyHBmRBkEqcSqfKEXwpxWhd?e=Yf1WQk) handout in Word
-* [Project Rubric](/unit-3/day-19-22/project-rubric) handout
+* <a href="(/unit-3/day-19-22/project-rubric">Project Rubric</a> handout
 * [Project Rubric](https://1drv.ms/w/s!AqsgsTyHBmRBkEIRSupu4ZlwIkh7?e=yCFckj) in Word
-* [Planning Your Program](/unit-3/day-19-22/planning-your-program) handout
+* <a href="/unit-3/day-19-22/planning-your-program">Planning Your Program</a> handout
 * [Planning Your Program](https://1drv.ms/w/s!AqsgsTyHBmRBkEgG4aDnyEMeNLfd?e=91cOiE) handout in Word
 
 ### Instructional Activities and Classroom Assessments

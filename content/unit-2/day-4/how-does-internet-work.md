@@ -9,9 +9,9 @@ order: 0
 ### Materials
 
 * [Day 4 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBjzr4T5k74i_qHG9i?e=rvHyZH)
-* [Preparation for Packet Switching Game](/unit-2/day-4/prep-packet-switching-game)
-* [Day 4 Homework](/unit-2/day-4//homework)
-* [Notetaking template](/unit-2/day-4/notetaking-template)
+* <a href="/unit-2/day-4/prep-packet-switching-game">Preparation for Packet Switching Game</a>
+* <a href="/unit-2/day-4/homework">Day 4 Homework</a>
+* <a href="/unit-2/day-4/notetaking-template">Notetaking template</a>
 
 ### Instructional Activities and Classroom Assessments 
 

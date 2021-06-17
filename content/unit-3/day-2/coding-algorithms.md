@@ -11,7 +11,7 @@ order: 0
 * [Day 2 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkEyuzg5H3d9wFCXh?e=Lm9uJi)
 * [Binary & Essay Algorithm Steps](https://1drv.ms/w/s!AqsgsTyHBmRBkD9fpVWbRXbPJoy1?e=jK9wFn) (for teacher's reference) 
 * [Binary & Essay Algorithm Steps for Cutting Out](https://1drv.ms/w/s!AqsgsTyHBmRBkDxG908Asal8GlMv?e=3s38hf) (for Student Activity) 
-* [Mathematical Algorithms](/unit-3/day-2/mathematical-algorithms)
+* <a href="/unit-3/day-2/mathematical-algorithms">Mathematical Algorithms</a>
 * [MakeCode Arcade](https://arcade.makecode.com/)
 * [min and max code](https://arcade.makecode.com/42921-82073-24965-68366)
 * [min and max bonus code](https://arcade.makecode.com/56199-68110-39592-84517)

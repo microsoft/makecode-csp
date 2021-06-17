@@ -6,7 +6,7 @@ order: 2
 
 ## Resources for your homework:
 
-[Notetaking template](/unit-2/day-4/notetaking-template)
+<a href="/unit-2/day-4/notetaking-template">Notetaking template</a>
 
 ## Complete the following tasks before class tomorrow:
 

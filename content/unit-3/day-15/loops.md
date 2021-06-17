@@ -10,8 +10,8 @@ order: 0
 
 * [Day 15 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFtFKBNBX8EycxaK?e=zNWZHE)
 * [Calculate Ages in Room](https://arcade.makecode.com/76893-69118-16057-22226) (for teacher)
-* [Repetition in Every Day Life](/unit-3/day-15/repetition-everyday-life)
-* [My Animation Code Segments](/unit-3/day-15/my-code-segments)
+* <a href="/unit-3/day-15/repetition-everyday-life">Repetition in Every Day Life</a>
+* <a href="/unit-3/day-15/my-code-segments">My Animation Code Segments</a>
 * [animationLoop](https://arcade.makecode.com/43154-73409-72381-32539) (for teacher)
 * [animationNestedLoop](https://arcade.makecode.com/71765-80266-12212-81327) (for teacher)
 * [ghost loop animation](https://arcade.makecode.com/64919-27411-47643-88406) (for teacher)

@@ -9,7 +9,7 @@ order: 0
 ### Materials  
 
 * [Day 17 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFqE6eb8hFfDBtLb?e=Ubcegp)
-* [Projectiles from Sprites Activities](/unit-3/day-17/projectiles-sprites-activities)
+* <a href="/unit-3/day-17/projectiles-sprites-activities">Projectiles from Sprites Activities</a>
 * [Projectiles from Sprite Activities](https://1drv.ms/w/s!AqsgsTyHBmRBkEOV8pwD1BQqvKFW?e=vOahsb) in Word
 * [Projectiles from Sprites Tutorials](https://arcade.makecode.com/courses/csintro1/loops/projectile-from) 
 

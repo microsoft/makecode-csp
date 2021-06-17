@@ -9,9 +9,9 @@ order: 0
 ### Materials
 
 * [Day 1 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkEvvJU0wJ35hu67B?e=D11ge7)
-* [Flowchart Activity](/unit-3/day-1/flowchart-activity)
+* <a href="/unit-3/day-1/flowchart-activity">Flowchart Activity</a>
 * [Flowchart Activity](https://1drv.ms/w/s!AqsgsTyHBmRBkDtw-KHmmcv4s_ju?e=t14mFR) in Word
-* [Reflection](/unit-3/day-1/reflection)
+* <a href="/unit-3/day-1/reflection">Reflection</a>
 * [Reflection](https://1drv.ms/w/s!AqsgsTyHBmRBkD2lJ5ICRgPwXqSj?e=h6zsIU) (in Word)
 * [What's an algorithm? - David J. Malan](https://youtu.be/6hfOvs8pY1k)
 * [Why algorithms are called algorithms | BBC Ideas](https://youtu.be/oRkNaF0QvnI)
@@ -83,7 +83,7 @@ order: 0
 
 ### 5. Homework- Where else are algorithms?
 
-* Students can complete their [Reflection](/unit-3/day-1/reflection) in their OneNote or other journal location.
+* Students can complete their <a href="/unit-3/day-1/reflection">Reflection</a> in their OneNote or other journal location.
 * How do algorithms affect our daily lives? Our society?
 * Where else are algorithms?
     * Research an area where algorithms are used (travel/transportation, shipping, retail, gaming, medicine, science, climate, society, etc.).   

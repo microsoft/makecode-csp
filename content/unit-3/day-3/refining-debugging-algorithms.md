@@ -11,7 +11,7 @@ order: 0
 * [Day 3 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkE3VD8KutavMfQ6j?e=QPHDZt)
 * [MakeCode Arcade](https://arcade.makecode.com/)
 * [Calculate Ages in Room code](https://arcade.makecode.com/76893-69118-16057-22226) (for teacher)
-* [My Add Ages in the Room Program](/unit-3/day-3/my-add-ages)
+* <a href="/unit-3/day-3/my-add-ages">My Add Ages in the Room Program</a>
 
 ### Instructional Activities and Classroom Assessments
 

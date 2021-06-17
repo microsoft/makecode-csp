@@ -11,11 +11,11 @@ order: 0
 * [Day 7 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFD5_1RYHtdZroNu?e=Pfdvod)
 * [Asphodel Follows Directions](https://aka.ms/asphodel)
 * Note: More educator information regarding Asphodel's code can be found [here](https://arcade.makecode.com/hour-of-code/educators).
-* [Robots in MakeCode Arcade Handout]()
+* <a href="/unit-3/day-7/robots-makecode-arcade">Robots in MakeCode Arcade Handout</a>
 * [Robots in MakeCode Arcade Handout](https://1drv.ms/w/s!AqsgsTyHBmRBkEG1Su15oOuqnIQV?e=gTRMuB) in Word
 * [Robot Drawing program](https://arcade.makecode.com/75682-33778-96949-32908)
-* [Robot Practice Field]()
-* [Practice Robot Question](/unit-3/day-7/practice-robot-question)
+* <a href="/unit-3/day-7/practice-robot-question">Robot Practice Field</a>
+* <a href="/unit-3/day-7/practice-robot-question">Practice Robot Question</a>
 
 ### Instructional Activities and Classroom Assessments
 
