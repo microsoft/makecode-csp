@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 14 PowerPoint deck]()
-* [Arrays Work handout]()
+* <a href="/unit-5/day-14/arrays-work">Arrays Work</a> handout
 * [Arrays Work]() handout in Word
 * [Activity: Arrays Intro]()
 * [Mad Libs]() (for teacher)
@@ -68,7 +68,7 @@ order: 0
 
 ### 2. Activity:  Create and Modify Arrays (35 minutes)
 
-* Direct students to the [Arrays Work]() page.
+* Direct students to the <a href="/unit-5/day-14/arrays-work">Arrays Work</a> page.
 * Students will go to the [Activity: Arrays Intro]() webpage.
 * Instruct students to complete Tasks 1-2.
 * Encourage students to publish their work and paste the links on their [Arrays Work]() page.

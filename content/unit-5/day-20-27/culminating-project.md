@@ -9,15 +9,15 @@ order: 0
 ### Materials
 
 * [Days 20-27 PowerPoint deck]()
-* [Planning Your Unit 5 Project]() handout
+* <a href="content\unit-5\day-20-27\planning-your-project.md">Planning Your Unit 5 Project</a> handout
 * [Planning Your Unit 5 Project]() handout in Word
-* [Project Requirements & Responses]() handout
+* <a href="/unit-5/day-20-27/project-requirements-responses">Project Requirements & Responses</a> handout
 * [Project Requirements & Responses]() handout in Word
-* [Unit 5 Project Rubric]()
+* <a href="/unit-5/day-20-27/project-rubric">Unit 5 Project Rubric</a>
 * [Unit 5 Project Rubric]() in Word
-* [Gallery Walk Feedback Form]()
+* <a href="/unit-5/day-20-27/gallery-walk">Gallery Walk Feedback Form</a>
 * [Gallery Walk Feedback Form]() in Word
-* [Presentation Checklist]()
+* <a href="/unit-5/day-20-27/presentation-checklist">Presentation Checklist</a>
 * [Presentation Checklist]() in Word
 
 ### Instructional Activities and Classroom Assessments 
@@ -94,13 +94,13 @@ The project is a review of the essential knowledge skills covered in this unit.
 #### 1. Introduction to the project (10 minutes) 
 
 * Explain to students the requirements for the collaborative project.
-* Provide students the [Project Requirements & Responses]() page and the [Unit 5 Project Rubric]() and give them 5 minutes to review both documents.
+* Provide students the <a href="/unit-5/day-20-27/project-requirements-responses">Project Requirements & Responses</a> page and the <a href="/unit-5/day-20-27/project-rubric">Unit 5 Project Rubric</a> and give them 5 minutes to review both documents.
 * Answer any questions students have regarding the project.
 
 #### 2. Brainstorm ideas (15 minutes)
 
 * Task students with brainstorming ideas for their project.
-* Encourage them to respond to prompts on the [Planning Your Unit 5 Project]() page to help generate ideas.
+* Encourage them to respond to prompts on the <a href="content\unit-5\day-20-27\planning-your-project.md">Planning Your Unit 5 Project</a> page to help generate ideas.
 
 #### 3. Pair and share (15 minutes)
 
@@ -328,7 +328,7 @@ The project is a review of the essential knowledge skills covered in this unit.
 #### 2. Finalize submissions and turn in project (10 minutes)
 
 * Task students with:
-    * Publishing their game and copying the link to the [Project Requirements & Responses]() page.
+    * Publishing their game and copying the link to the <a href="/unit-5/day-20-27/project-requirements-responses">Project Requirements & Responses</a> page.
     * Creating a screencast of their game being played.
     * Creating a screenshot of their program and label each type of algorithm implementation.
     * Each partner needs to add the link and the screenshot to their project responses page.

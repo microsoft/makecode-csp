@@ -9,10 +9,10 @@ order: 0
 ### Materials  
 
 * [Day 7 PowerPoint Deck]()
-* [Logic in Loops Handout]()
+* <a href="/unit-5/day-7/logic-in-loops-activity">Logic in Loops Handout</a>
 * [Logic in Loops Handout]() in Word
-* [Logic in Loops Unplugged]()
-* [Sentence Puzzles]()
+* <a href="/unit-5/day-7/logic-in-loops-unplugged">Logic in Loops Unplugged</a>
+* <a href="/unit-5/day-7/sentence-puzzles">Sentence Puzzles</a>
 * Decks of cards
 * Dice
 * Tape 
@@ -85,7 +85,7 @@ These are used to test the relationship between two variables, expressions, or v
 
 ###  4. Activity: User Input and String Logic (25 minutes)
 
-* Direct students to go to their  Activity: Logic in Loops page.
+* Direct students to go to their <a href="/unit-5/day-7/logic-in-loops-activity">Activity: Logic in Loops</a> page.
 * Direct students to complete Tasks 1 and 2.
 * If students have time, encourage them to use functions and parameters in the fireball game to make it easier to manage and to recreate code segments in JavaScript.
 

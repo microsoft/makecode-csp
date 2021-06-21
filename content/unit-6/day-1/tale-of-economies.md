@@ -6,7 +6,7 @@ order: 1
 
 Work with a partner to explore these two slide shows to see how the Great Recession of 2008 impacted the world.
 
-The first slide show from [GEDVIZ]() tracks trade for iron and steel, petroleum oil, and cars between the United States, the United Kingdom, Germany, Japan, Canada, and Mexico.
+The first slide show from [GEDVIZ](https://viz.ged-project.de/edit/6956?lang=en) tracks trade for iron and steel, petroleum oil, and cars between the United States, the United Kingdom, Germany, Japan, Canada, and Mexico.
 
 Look through the slide show by selecting the labels on the right to see the progression of trade over time. Answer the following questions:
 
@@ -22,7 +22,7 @@ Look through the slide show by selecting the labels on the right to see the prog
 
 5. How does this slide show help you see the impact of the Great Recession on the United States?
 
-In the second slide show from [GEDVIZ]() tracks the trade for iron/steel and cars for Greece, Latvia, and Iceland. Although the "connections" (arrows between the countries) do not demonstrate a great deal, the bars for each country provide a visual of the decline in each economy.
+In the second slide show from [GEDVIZ](https://viz.ged-project.de/edit/6955?lang=en) tracks the trade for iron/steel and cars for Greece, Latvia, and Iceland. Although the "connections" (arrows between the countries) do not demonstrate a great deal, the bars for each country provide a visual of the decline in each economy.
 
 Look through the slide show by selecting the labels on the right to see the progression of the decline over time. Answer the following questions:
 

@@ -9,10 +9,10 @@ order: 0
 ### Materials
 
 * [Day 1 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBj2oFvJ-UEz9gsIDY?e=GyAPFm)
-* [GED VIZ - Tell Your Own Story](/unit-6/day-1/tell-your-own-story)
+* <a href="/unit-6/day-1/tell-your-own-story">GED VIZ - Tell Your Own Story</a>
 * [GED VIZ site](https://viz.ged-project.de/)
 * [GED VIZ Computer Import/Export data](https://viz.ged-project.de/edit/6908?lang=en)
-* [A Tale of Economies Activity](/unit-6/day-1/tale-of-economies) page
+* <a href="/unit-6/day-1/tale-of-economies">A Tale of Economies Activity</a> page
 * [GED VIZ US Recession data](https://viz.ged-project.de/edit/7028?lang=en)
 * [GED VIZ Global Recession data](https://viz.ged-project.de/edit/7038?lang=en)
 * [GED VIZ | Tutorial Video](https://youtu.be/FNUT-KwKd58) (English Version)
@@ -33,7 +33,7 @@ order: 0
 
 ### Learning Objectives
 
-* [* DAT-2.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=58) Describe what information can be extracted from data.
+* [DAT-2.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=58) Describe what information can be extracted from data.
 * DAT-2.D
 * DAT-2.E
 
@@ -54,3 +54,55 @@ order: 0
 * DAT-2.E.3
 * DAT-2.E.4
 * DAT-2.E.5
+
+## Details
+
+### 0. Before class
+
+* Create a section in the Collaboration Space of your Class OneNote notebook titled "GED VIZ Stories."
+* Copy the <a href="/unit-6/day-1/tell-your-own-story">GED VIZ - Tell Your Own Story</a> page to the GED VIZ Stories section and duplicate it so that you have enough pages for each small group.
+* Number the pages so when you assign the groups, they know which page number they will use.
+
+### 1. Introduction to Data Analysis and Visualization (15 minutes)
+
+* Define Data Analysis.
+* Show students the GED Viz visual of the computer import/export data.
+* Explain the trend we see with this data.
+* Play the GED VIZ Tutorial video.
+* Discuss the goal of GED VIZ.
+
+### 2. A Tale of Economies (5 minutes)
+
+* Discuss the Great Recession of 2008:
+    * Play the video
+    * Explain the global impact
+
+### 3. Group activity: Analyze Impact of the Recession (10 minutes) 
+
+* Ask students to use the <a href="/unit-6/day-1/tale-of-economies">A Tale of Economies Activity</a> page to guide their exploration of two different GED VIZ slide shows.
+* Ask students to work in pairs to review the data for each slide show and answer the questions on the page.
+* You can use the <a href="https://makecode.com/CohR5JHEihJL">Group Generator</a> program to randomly sort students.
+* Give students five minutes to explore; if they finish before five minutes, you can move on to the next step.
+* Discuss the data together:
+    * What were your observations from looking at the data?
+    * Why do you think oil trade bounced back the fastest?
+    * Why do you think iron/steel was the slowest to recover?
+    * Why do you think Greece, Latvia, and Iceland never fully recovered?
+
+### 4. Group activity: Tell Your Own Story (15 minutes)
+
+* Ask students to work with a teammate to do the following:
+    * Go to the <a href="/unit-6/day-1/tell-your-own-story">GED VIZ - Tell Your Own Story</a> page.
+    * Select a topic they will analyze with the GED VIZ tool:
+        * Students can find topic ideas on the <a href="/unit-6/day-1/tell-your-own-story">GED VIZ - Tell Your Own Story</a> page.
+    * Create a slide show for the data they are analyzing.
+    * Write a short explanation of:
+        * What the slide show depicts, and
+        * What you believe the data is telling us.
+* Ask students to add the link to their slide show and their analysis to a OneNote page in the collaboration space.
+* Give students 15 minutes to complete the task.
+* If students finish early, encourage students to look at other group's analysis for a couple of minutes.
+
+### 5. Homework
+
+* If a group does not finish the Tell Your Own Story activity, they need to finish it for homework.

@@ -12,7 +12,7 @@ order: 0
 * [Full Name sample code]()
 * [Series Sum Solution]() (for teacher)
 * [Pizza Allowance code sample]()
-* [Writing Functions with Return Values]() Handout
+* <a href="/unit-5/day-3/writing-functions-return-values">Writing Functions with Return Values</a> Handout
 * [Writing Functions with Return Values]() Handout in Word
 * [Activity: Return Values]()
 * [Problem Set: Returns]()
@@ -73,9 +73,9 @@ which is used to define a procedure that takes zero or more arguments. The proce
 
 ### 3. Activity: Writing Functions with Parameters (25 minutes)
 
-* Direct students to go their Writing Functions with Return Values page.
+* Direct students to go their <a href="/unit-5/day-3/writing-functions-return-values">Writing Functions with Return Values</a> page.
 * Task students with completing all of the tasks on the page:
-    * Tasks 1 - 2 using the guide on the Activity: Return Values webpage.
+    * Tasks 1 - 2 using the guide on the [Activity: Return Values](https://arcade.makecode.com/courses/csintro3/functions/returns) webpage.
     * Task 3.
     * If students have time, encourage them to code in JavaScript.
 
@@ -90,5 +90,5 @@ If you run out of time, you may also assign this as individual homework. Student
 
 ### 5. Homework
 
-* Task students with completing the activities on the Problem Set: Returns webpage for homework.
+* Task students with completing the activities on the [Problem Set: Returns](https://arcade.makecode.com/courses/csintro3/functions/returns-problems) webpage for homework.
 * _Practice sets are written as JavaScript exercises and can be accomplished using block based code. Students can choose whichever code editor they feel most comfortable with to complete the problems. If needed, students can copy the JavaScript snippet from the problem set, paste it into the JavaScript workspace in MakeCode, then switch back to Block. It has been demonstrated that exposing students to both block and text based code simultaneously makes the transition from block to text more successful._

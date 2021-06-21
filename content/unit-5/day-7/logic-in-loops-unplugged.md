@@ -12,7 +12,7 @@ order: 1
 * Cut out words:
     * You can create your own simple sentences, or
     * You can use the ones on this document: [Simple Sentences]().
-* A [Sentence Puzzles]() page for each group. ([Sentence Puzzles Word document]())
+* A <a href="/unit-5/day-7/sentence-puzzles">Sentence Puzzles</a> page for each group. ([Sentence Puzzles Word document]())
 
 ## Before class
 
@@ -24,7 +24,7 @@ order: 1
 ## In class
 
 * Form groups of 2 to 3 students each.
-* Distribute one die to each student group. Use [virtual die]() if that is more convenient.
+* Distribute one die to each student group. Use [virtual die](https://www.random.org/dice/) if that is more convenient.
 * Distribute an A, B, and C pile of cards to each group.
 * Explain this process:
     * Roll the die. The die will determine which pile to select a card from:
@@ -34,7 +34,7 @@ order: 1
     * If you roll a 3 or 5, roll again.
     * It is possible to take a card from one of the piles more than once.
     * Keep rolling until you have three cards. 
-    * When you have three cards, write a complete sentence that incorporates the words on the cards drawn. Use all 3 words. Students can use the [Sentence Puzzles]() page to keep track of their sentences. 
+    * When you have three cards, write a complete sentence that incorporates the words on the cards drawn. Use all 3 words. Students can use the <a href="/unit-5/day-7/sentence-puzzles">Sentence Puzzles</a> page to keep track of their sentences. 
 * When each group has a sentence, ask groups to show the words they selected and read their sentence.  
 * Repeat this steps of rolling the die, getting cards, and writing a sentence several times until the students are comfortable with the process.
 * When the students are comfortable with the process, instruct them to describe the steps of the process using the concepts and terms used when discussing loops and logic. 
@@ -51,7 +51,7 @@ IF dice is <5: take a card from pile C
 Else roll again 
 ```
 
-* Students can use the [Sentence Puzzles]() page to document their work together. 
+* Students can use the <a href="/unit-5/day-7/sentence-puzzles">Sentence Puzzles</a> page to document their work together. 
 * Extension: modify the game play rules to include:
     * And
     * Or

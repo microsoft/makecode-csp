@@ -9,9 +9,9 @@ order: 0
 ### Material
 
 * [Day 28 PowerPoint deck]()
-* [Computer Problem Solving]() handout
+* <a href="/unit-5/day-28/computer-problem-solving">Computer Problem Solving</a> handout
 * [Computer Problem Solving]() handout in Word
-* [Resource Links]() (for teacher, but can be shared with students if you prefer)
+* <a href="/unit-5/day-28/resource-links">Resource Links</a> (for teacher, but can be shared with students if you prefer)
 
 ### Instructional Activities and Classroom Assessments
 
@@ -70,7 +70,7 @@ X EXCLUSION STATEMENT (EK AAP-4.B.2): Determining whether a given problem is und
     * Simulations
     * Heuristic algorithms
     * Undecidable problem
-* Encourage students to add the summaries of their research on their group's [Computer Problem Solving]() page.
+* Encourage students to add the summaries of their research on their group's <a href="/unit-5/day-28/computer-problem-solving">Computer Problem Solving</a> page.
 * Each group member will share their finding with the class.
 
 ### 3. Reflection/Homework

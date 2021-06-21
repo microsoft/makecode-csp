@@ -13,7 +13,7 @@ order: 0
 * [Moving Asteroids 2]()
 * [Fireworks]()
 * [Enemy Follow]()
-* [Array of Sprites Handout]()
+* <a href="/unit-5/day-16/array-of-sprites">Array of Sprites Handout</a>
 * [Array of Sprites Handout]() in Word
 
 ### Instructional Activities and Classroom Assessments
@@ -84,8 +84,8 @@ XEXCLUSIONSTATEMENT(EKAAP-2.O.1): Traversing multiple lists at the same time usi
 
 ### 2. Activity: Arrays of Sprites (40 minutes)
 
-* Direct students to the Array of Sprites page.
-* Students will go to Activity: Arrays of Sprites (makecode.com).
+* Direct students to the <a href="/unit-5/day-16/array-of-sprites">Array of Sprites</a> page.
+* Students will go to [Activity: Arrays of Sprites](https://arcade.makecode.com/courses/csintro2/arrays/string) (makecode.com).
 * Instruct students to complete Practice tasks 1, 2 and 3.
 * Encourage students to publish their work and paste the links on their Array of Sprites page. 
 

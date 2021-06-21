@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 18 PowerPoint deck]()
-* [Sorting Arrays Practice]() handout
+* <a href="/unit-5/day-18/sorting-arrays-practice">Sorting Arrays Practice</a> handout
 * [Sorting Arrays Practice]() handout in Word
 * [Sorting Algorithms]()
 
@@ -80,10 +80,10 @@ XEXCLUSIONSTATEMENT(EKAAP-2.O.1): Traversing multiple lists at the same time usi
 
 ### 3. Activity: Sorting Algorithm (20 minutes)
 
-Direct students to the [Sorting Arrays Practice]() page.
+Direct students to the <a href="/unit-5/day-18/sorting-arrays-practice">Sorting Arrays Practice</a> page.
 Instruct students to create a bubble sorting algorithm in MakeCode (NOTE: this is a challenging assignment. It's okay if a majority of students don't get it. Feel free to walk through the solution code with them.)
 Students will have the opportunity to complete this activity in the next lesson.
-Encourage students to publish their work and paste the links on their [Sorting Arrays Practice]() page.
+Encourage students to publish their work and paste the links on their <a href="/unit-5/day-18/sorting-arrays-practice">Sorting Arrays Practice</a> page.
 
 ### 4. Reflection/Homework
 

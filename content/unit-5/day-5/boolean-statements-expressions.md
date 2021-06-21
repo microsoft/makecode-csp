@@ -37,7 +37,7 @@ NOT Left is Right:
 
 ### C. Go to Activity: Boolean Statements and Expressions. Complete student tasks 3-4.
 
-[Boolean Statements and Expressions]()
+[Boolean Statements and Expressions](https://arcade.makecode.com/courses/csintro2/logic/booleans)
 
 #### Task 3
 

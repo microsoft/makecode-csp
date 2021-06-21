@@ -9,11 +9,11 @@ order: 0
 ### Materials
 
 * [Days 8-11 PowerPoint deck]()
-* [Planning Your Program handout]()
+* <a href="/unit-5/day-8-11/planning-your-program">Planning Your Program handout</a>
 * [Planning Your Program handout]() in Word
-* [Project Requirements & Responses]() handout
+* <a href="/unit-5/day-8-11/project-requirements-responses">Project Requirements & Responses</a> handout
 * [Project Requirements & Responses]() handout in Word
-* [Collaborative Project Rubric]()
+* <a href="/unit-5/day-8-11/collaborative-project-rubric">Collaborative Project Rubric</a>
 * [Collaborative Project Rubric]() in Word
 
 * References:
@@ -67,7 +67,7 @@ The project is a review of the essential knowledge skills covered in this unit.
 #### 2. Brainstorm ideas (15 minutes) 
 
 1. Task students with brainstorming ideas for their project.
-2. Encourage them to respond to prompts on the [Planning Your Program]() page to help generate ideas.
+2. Encourage them to respond to prompts on the <a href="/unit-5/day-8-11/planning-your-program">Planning Your Program handout</a> page to help generate ideas.
 
 #### 3. Pair and share (15minutes)
 

@@ -9,13 +9,13 @@ order: 0
 ### Materials 
 
 * [Day 2 PowerPoint deck]()
-* [Data Research Project]()
+* <a href="/unit-6/day-2/data-research-project">Data Research Project</a>
 * [Data Research Project]() in Word 
-* [Data Science Process Checklist]()
+* <a href="/unit-6/day-2/data-science-process">Data Science Process Checklist</a>
 * [Data Science Process Checklist]() in Word 
-* [Data Research Brainstorm]()
+* <a href="/unit-6/day-2/data-research-brainstorm">Data Research Brainstorm</a>
 * [Data Research Brainstorm]() in Word 
-* [Research Prompt Ideas]()
+* <a href="/unit-6/day-2/research-prompt-ideas">Research Prompt Ideas</a>
 * [Research Prompt Ideas]() in Word
 * [What is Data Science? | Great Learning]()
 
@@ -63,7 +63,7 @@ order: 0
 
 ### 0. Before class 
 
-* Suggestion: Add specific days that students will complete each step of the project on the [Data Research Project]() page.
+* Suggestion: Add specific days that students will complete each step of the project on the <a href="/unit-6/day-2/data-research-project">Data Research Project</a> page.
 
 ### 1. Share GED VIZ "Stories" (10 minutes)
 
@@ -98,9 +98,9 @@ order: 0
     * Select one of those topics to create a survey and collect data on the topic.
     * Analyze the data.
     * Create a visual representation of the data.
-* Give students the [Data Science Process Checklist]() and the [Data Research Brainstorm]() pages to guide their work.
+* Give students the <a href="/unit-6/day-2/data-science-process">Data Science Process Checklist</a> and the <a href="/unit-6/day-2/data-research-brainstorm">Data Research Brainstorm</a> pages to guide their work.
 * Ask students to brainstorm ideas for questions they want to answer with a research project.
-* Send students to the [Research Prompt Ideas]() page for ideas (or a choice).
+* Send students to the <a href="/unit-6/day-2/research-prompt-ideas">Research Prompt Ideas</a> page for ideas (or a choice).
 * Everyone must have a different topic.
 
 ### 4. Homework 

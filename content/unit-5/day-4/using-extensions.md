@@ -9,7 +9,7 @@ order: 0
 * [Day 4 PowerPoint deck]()
 * [Football]() (for teacher)
 * [My Extension]() (for teacher)
-* [Making and Using Extensions]() handout
+* <a href="/unit-5/day-4/making-using-extensions">Making and Using Extensions</a> handout
 * [Making and Using Extensions]() handout in Word
 * [Activity: Making and Using Extensions]()
 * [Resource: Defining Blocks]()
@@ -61,7 +61,7 @@ order: 0
 
 ### 3. Activity: Writing functions with parameters (30 minutes)
 
-* Direct students to their [Making and Using Extensions]() page.
+* Direct students to their <a href="/unit-5/day-4/making-using-extensions">Making and Using Extensions</a> page.
 * Task students with completing Tasks 1, 2a, and 2b.
 * If students have time, encourage them to complete the extensions activities for both tasks (coding in JavaScript).
 
