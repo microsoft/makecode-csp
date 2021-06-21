@@ -9,11 +9,11 @@ order: 0
 ### Materials
 
 * [Day 6 PowerPoint deck]()
-* [Validating User Input]() handout
+* <a href="/unit-5/day-6/validating-user-input.md">Validating User Input</a> handout
 * [Validating User Input]() handout in Word
 * [winnerWinner](https://makecode.com/_0F00C66wK3Di) (for teacher)
 * [helloFriend](https://makecode.com/_amzHh6iF7Eyg) (for teacher)
-* [Activity: User Input and String Logic]()
+* [Activity: User Input and String Logic](https://arcade.makecode.com/courses/csintro2/logic/user-input)
 
 Additional references:
 
@@ -35,11 +35,11 @@ Learning Objectives
 * [AAP-2.D]() Evaluate expressions that manipulate strings. 4.B
 * [AAP-2.E]() For relationships between two variables, expressions, or values:  
     * a. Write expressions using relational operators. 2.B  
-    * b. Evaluate expressions that use relational operators.  4.B
+    * b. Evaluate expressions that use relational operators. 4.B
 * [AAP-2.F]() For relationships between Boolean values: a. Write expressions using logical operators. 2.B b.  Evaluate expressions that use logic operators. 4.B
 * [AAP-2.H]() For selection:
     * a. Write conditional statements. 2.B
-    * b. Determine the result of conditional statements.  4.B
+    * b. Determine the result of conditional statements. 4.B
 * CRD-2.C Identify input(s) to a program
 
 ### Essential Knowledge
@@ -84,7 +84,7 @@ These are used to test the relationship between two variables, expressions, or v
 
 ### 3. Activity: User input and string logic (25 minutes)
 
-* Direct students to go to [Validating User Input]() of the page.
+* Direct students to go to <a href="/unit-5/day-6/validating-user-input.md">Validating User Input</a> of the page.
 * Task students with completing Task 1, Task 2, and Task 2 Challenge.
 * If students have time, encourage them to recreate code segments in JavaScript.
 

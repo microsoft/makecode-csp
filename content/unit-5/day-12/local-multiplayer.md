@@ -10,9 +10,9 @@ order: 0
 
 * [Day 12 PowerPoint deck]()
 * [MultiPlayer Game]() (for teacher)
-* [Multiplayer Handout]()
+* <a href="/unit-5/day-12/multiplayer">Multiplayer Handout</a>
 * [MultiPlayer Handout]() in Word
-* [Activity: Multiplayer]()
+* [Activity: Multiplayer](https://arcade.makecode.com/courses/csintro2/logic/multiplayer)
 
 #### Reference
 
@@ -67,7 +67,7 @@ These are used to test the relationship between two variables, expressions, or v
 
 ### 2. Activity: Multiplayer (40 minutes) 
 
-* Direct students to go to their Multiplayer page.
+* Direct students to go to their <a href="/unit-5/day-12/multiplayer">Multiplayer</a> page.
 * Direct students to complete Tasks 2 through 5.
 * If students have time, encourage them to recreate code segments in JavaScript.
 

@@ -4,7 +4,7 @@ metaTitle: 'Planning Your Program'
 order: 1
 ---
 
-:white_large_square: [Review Project Requirements & Responses]() and [Collaborative Project Rubric](). 
+:white_large_square: Review <a href="/unit-5/day-8-11/project-requirements-responses">Project Requirements & Responses</a> and <a href="/unit-5/day-8-11/collaborative-project-rubric">Collaborative Project Rubric</a>. 
 
 :white_large_square: Brainstorm ideas for your project. Ask yourselves the following questions: 
 

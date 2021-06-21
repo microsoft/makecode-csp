@@ -38,7 +38,6 @@ Go to [Activity: Arrays of Sprites](https://arcade.makecode.com/courses/csintro2
 
 Go to [Activity: Arrays of Sprites](https://arcade.makecode.com/courses/csintro2/arrays/sprites). Complete Task 3.
 
-
 #### Task 3
 
 1. Start with code from Enemy Follow.

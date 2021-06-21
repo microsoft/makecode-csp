@@ -8,20 +8,20 @@ order: 0
 
 ### Materials
 
-* [Day 2 PowerPoint deck]()
-* [DoSomething sample code]()
-* [Draw Rectangle]()
-* [Draw Rectangle Mod]() (for teacher)
-* [Robot Functions code sample]()
-* [Robot Draw Side solution]()
-* [Print Console 1 code sample]()
-* [Print Console 2 code sample]()
-* [Decisions Solution]()
-* [Change by Five code sample]()
-* [Writing Functions with Parameters handout]()
-* [Writing Functions with Parameters]() handout in Word
-* [Activity: Parameters]()
-* [Problem Set: Parameters]()
+* [Day 2 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkG-ueZhGpOgZxaM2?e=7QGVhJ)
+* [DoSomething sample code](https://makecode.com/_dpa8o38asH3s)
+* [Draw Rectangle](https://makecode.com/_6P5MaCAFRW8K)
+* [Draw Rectangle Mod](https://makecode.com/_2JR5dXh096Ls) (for teacher)
+* [Robot Functions code sample](https://makecode.com/_1yPFy3KrfMvJ)
+* [Robot Draw Side solution](https://makecode.com/_MomAAsF3zCMU)
+* [Print Console 1 code sample](https://makecode.com/_bmpVwKCqLLKw)
+* [Print Console 2 code sample](https://makecode.com/_gCuKfET8XeiJ)
+* [Decisions Solution](https://makecode.com/_CyfY2f0puRVC)
+* [Change by Five code sample](https://makecode.com/_67EX2zKJfDVH)
+* <a href="/unit-5/day-2/writing-functions-parameters">Writing Functions with Parameters handout</a>
+* [Writing Functions with Parameters](https://1drv.ms/w/s!AqsgsTyHBmRBkG4gPxl1CKxXuXVg?e=fd3Bcj) handout in Word
+* [Activity: Parameters](https://arcade.makecode.com/courses/csintro3/functions/parameters)
+* [Problem Set: Parameters](https://arcade.makecode.com/courses/csintro3/functions/parameters-problems)
 
 ### Instructional Activities and Classroom Assessments
 
@@ -109,7 +109,7 @@ which is used to define a procedure that takes zero or more arguments. The proce
 
 ### 3. Writing functions with parameters  (25 minutes)
 
-* Direct students to the [Writing Functions with Parameters]() page.
+* Direct students to the <a href="/unit-5/day-2/writing-functions-parameters">Writing Functions with Parameters</a> page.
 * Task students with completing Tasks 1 - 3 on the [Activity: Parameters](https://arcade.makecode.com/courses/csintro3/functions/parameters) page.
 * If students have time, encourage them to complete the extension activities.
 

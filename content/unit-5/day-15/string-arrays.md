@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 15 PowerPoint Deck]()
-* [Arrays of Strings Handout]()
+* <a href="/unit-5/day-15/arrays-of-strings">Arrays of Strings Handout</a>
 * [Arrays of Strings Handout]() in Word
 * [Activity: Arrays of Strings]()
 * [Princess Dialog]()

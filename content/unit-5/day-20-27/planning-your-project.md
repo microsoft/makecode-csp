@@ -4,7 +4,7 @@ metaTitle: 'Planning Your Unit 5 Project'
 order: 1
 ---
 
-:white_large_square: [Review Project Requirements & Responses]() and [Unit 5 Project Rubric]().
+:white_large_square: Review <a href="/unit-5/day-20-27/project-requirements-responses">Project Requirements & Responses</a> and <a href="/unit-5/day-20-27/project-rubric">Unit 5 Project Rubric</a>.
 
 :white_large_square: Brainstorm ideas for your project. Ask yourself the following questions:
 

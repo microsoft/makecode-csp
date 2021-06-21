@@ -10,9 +10,9 @@ order: 0
 
 * [Day 3 PowerPoint deck]()
 * [Data Science Process Checklist]()
-* [Bias in Surveys Activity]()
-* [Examples of Biased Survey Questions]()
-* [Survey Rubric]()
+* <a href="/unit-6/day-3/bias-in-surveys-activity">Bias in Surveys Activity</a>
+* <a href="/unit-6/day-3/examples-biased-surveys-questions">Examples of Biased Survey Questions</a>
+* <a href="/unit-6/day-3/survey-rubric">Survey Rubric</a>
 * [Survey Rubric]() in Word
 
 ### Instructional Activities and Classroom Assessments
@@ -47,8 +47,8 @@ order: 0
     * Assign each student a number a slip of paper and select from those numbers to see who "wins".
     * Another option is to allow students who have the same question idea to work together as a pair.
 * For the Bias in Survey Questions activity:
-    * Print 10 copies of the [Bias in Surveys Activity]() page, or 
-    * Add the [Bias in Surveys Activity]() page to the Collaboration page. 
+    * Print 10 copies of the <a href="/unit-6/day-3/bias-in-surveys-activity">Bias in Surveys Activity</a> page, or 
+    * Add the <a href="/unit-6/day-3/bias-in-surveys-activity">Bias in Surveys Activity</a> page to the Collaboration page. 
     * Be prepared to assign each example of survey bias to one of the 10 groups that are formed when you reach this part of the lesson: 
         * You can write each example on a slip of paper to give the students, or 
         * You can simply walk around the room and tell each group a number 1-10.
@@ -88,7 +88,7 @@ order: 0
     * Students should work with the peers sitting closest to them.
     * Organize 10 groups.
     * Assign each group one of the 10 examples of survey bias.
-    * Ask students to follow the directions on the [Bias in Surveys Activity]() page.
+    * Ask students to follow the directions on the <a href="/unit-6/day-3/bias-in-surveys-activity">Bias in Surveys Activity</a> page.
     * After a few minutes, ask each group to share what they learned about their example.
 * Give students tips on creating a good survey.
 
@@ -96,7 +96,7 @@ order: 0
 
 * Students will begin crafting their survey questions in class.
 * They will finish creating those questions for homework.
-* Share the [Survey Rubric]() with students so they know how you will grade their surveys.
+* Share the <a href="/unit-6/day-3/survey-rubric">Survey Rubric</a> with students so they know how you will grade their surveys.
 
 ### 7. Homework 
 

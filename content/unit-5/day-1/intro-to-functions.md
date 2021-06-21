@@ -11,7 +11,7 @@ order: 0
 * [Day 1 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkHH-DeqCqztjgdPi?e=8ShAIc)
 * [DoSomething sample code](https://makecode.com/_dpa8o38asH3s)
 * [Place Sprite sample code](https://makecode.com/_eHsAWYesxEu7)
-* [Introduction to Functions](/unit-5/day-1/introduction-to-functions) handout in OneNote
+* <a href="/unit-5/day-1/introduction-to-functions">Introduction to Functions</a> handout in OneNote
 * [Introduction to Functions](https://1drv.ms/w/s!AqsgsTyHBmRBkHCcF-mCg8tNfOZi?e=zSt069) handout in Word
 * [Activity: Functions Intro](https://arcade.makecode.com/courses/csintro2/functions/intro)
 
@@ -78,14 +78,14 @@ AAP-3.B.3 The subdivision of a computer program into separate subprograms is cal
 
 ### 3. Learn how to create and call Functions (10 minutes)
 
-* Go to Section A of the Introduction to Functions page.
+* Go to Section A of the <a href="/unit-5/day-1/introduction-to-functions">Introduction to Functions</a> page.
 * Students will use the placeSprite code segment to learn how to create and call functions.
 * Define modularity.
 
 ### 2. Activity: Functions Intro  (20 minutes) 
 
-* Direct students to Section B of the Introduction to Functions page.
-* Task students with completing Tasks 1a - 1b on the Activity: Functions Intro page.
+* Direct students to Section B of the <a href="/unit-5/day-1/introduction-to-functions">Introduction to Functions</a> page.
+* Task students with completing Tasks 1a - 1b on the [Activity: Functions Intro](https://arcade.makecode.com/courses/csintro2/functions/intro) page.
 * If students have time, encourage them to complete the extension activities for 1a and 1b.
 
 ### 5. Reflection/Homework
@@ -98,5 +98,5 @@ If you run out of time, you may also assign this as individual homework. Student
 
 ### 6. Extension activities
 
-* Encourage students who finish early to complete the extension activities on the Introduction to Functions page.
+* Encourage students who finish early to complete the extension activities on the <a href="/unit-5/day-1/introduction-to-functions">Introduction to Functions</a> page.
 * Practice sets are written as JavaScript exercises and can be accomplished using block based code. Students can choose whichever code editor they feel most comfortable with to complete the problems. If needed, students can copy the JavaScript snippet from the problem set, paste it into the JavaScript workspace in MakeCode, then switch back to Block. It has been demonstrated that exposing students to both block and text based code simultaneously makes the transition from block to text more successful.

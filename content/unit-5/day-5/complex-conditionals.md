@@ -13,7 +13,7 @@ order: 0
 * [Hungry Mod]() (for teacher)
 * [NOT Left]() (for teacher)
 * [Quadrants]() (for teacher)
-* [Boolean Statements and Expressions]() handout
+* <a href="/unit-5/day-5/boolean-statements-expressions">Boolean Statements and Expressions</a> handout
 * [Boolean Statements and Expressions]() handout in Word
 * [Activity: Boolean Statements and Expressions](https://arcade.makecode.com/courses/csintro2/logic/booleans)
 
@@ -88,7 +88,7 @@ These are used to test the relationship between two variables, expressions, or v
 
 ### 3. Boolean practice (25 minutes) 
 
-* Go to [Boolean Statements and Expressions]().
+* Go to <a href="/unit-5/day-5/boolean-statements-expressions">Boolean Statements and Expressions</a>.
 * Task students with completing Tasks 3 and 4.
 * If students have time, encourage them to complete the extensions activities. 
 

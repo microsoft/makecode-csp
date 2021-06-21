@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 17 PowerPoint Deck]()
-* [Arrays Practice Programs]() Handout
+* <a href="/unit-5/day-17/arrays-practice-programs">Arrays Practice Programs</a> Handout
 * [Arrays Practice Programs]() Handout in Word
 
 ### Instructional Activities and Classroom Assessments
@@ -83,10 +83,10 @@ XEXCLUSIONSTATEMENT(EKAAP-2.O.1): Traversing multiple lists at the same time usi
 
 ### 2. Activity:  Arrays practice (30 minutes)
 
-* Direct students to the  Arrays Practice Programs page.
-* Students will go to Microsoft MakeCode Arcade.
+* Direct students to the <a href="/unit-5/day-17/arrays-practice-programs">Arrays Practice Programs</a> page.
+* Students will go to [Microsoft MakeCode Arcade](https://arcade.makecode.com).
 * Instruct students to complete Practice tasks 1, 2, and 3.
-* Encourage students to publish their work and paste the links on their Arrays Practice Programs page.
+* Encourage students to publish their work and paste the links on their <a href="/unit-5/day-17/arrays-practice-programs">Arrays Practice Programs</a> page.
 
 ### 3. Extension
 

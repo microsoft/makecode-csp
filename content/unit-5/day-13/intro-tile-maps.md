@@ -10,7 +10,7 @@ order: 0
 
 * [Day 13 PowerPoint deck]()
 * [myMaze]() (for teacher)
-* [Introduction to Tile maps]() handout
+* <a href="/unit-5/day-13/intro-tile-maps">Introduction to Tile maps</a> handout
 * [Introduction to Tile maps]() handout in Word
 * [Activity: Tilemap Intro]() (for teacher reference; activities on this page are included in the PowerPoint)
 * [Activity: Interactions]()
