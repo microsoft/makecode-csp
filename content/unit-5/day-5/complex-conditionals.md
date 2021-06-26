@@ -8,13 +8,13 @@ order: 0
 
 ### Materials
 
-* [Day 5 PowerPoint deck]()
-* [Hungry]()
-* [Hungry Mod]() (for teacher)
-* [NOT Left]() (for teacher)
-* [Quadrants]() (for teacher)
+* [Day 5 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkHbK5Mhjf4_lLic3?e=HfmE9b)
+* [Hungry](https://makecode.com/_8Eb2bAeAifwd)
+* [Hungry Mod](https://makecode.com/_XfX24i7Wy3PX) (for teacher)
+* [NOT Left](https://makecode.com/_bxsaJyWDP9qr) (for teacher)
+* [Quadrants](https://makecode.com/_PDq6s94poRka) (for teacher)
 * <a href="/unit-5/day-5/boolean-statements-expressions">Boolean Statements and Expressions</a> handout
-* [Boolean Statements and Expressions]() handout in Word
+* [Boolean Statements and Expressions](https://1drv.ms/w/s!AqsgsTyHBmRBkHevoEgMb3WTsnZv?e=gdkoAv) handout in Word
 * [Activity: Boolean Statements and Expressions](https://arcade.makecode.com/courses/csintro2/logic/booleans)
 
 #### Reference
@@ -30,23 +30,23 @@ order: 0
 
 ### Learning Objectives 
 
-* [AAP-2.E]() For relationships between two variables, expressions, or values:
-    * a. Write expressions using relational operators. 2.B 
-    * b. Evaluate expressions that use relation operators. 4.B
-* [AAP-2.F]() For relationships between Boolean values:
-    * a. Write expressions using logical operators. 2.B
-    * b. Evaluate expressions that use logic operators. 4.B
-* [AAP-2.H]() For selection:
-    * a. Write conditional statements. 2.B
-    * b. Determine the result of conditional statements.  4.B
-* [AAP-2.I]() For nested selection:
-    * a. Write nested conditional statements. 2.B
-    * b. Determine the result of nested conditional statements. 4.B
+* [AAP-2.E](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=78) For relationships between two variables, expressions, or values:
+    * a. Write expressions using relational operators. [2.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23) 
+    * b. Evaluate expressions that use relation operators. [4.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
+* [AAP-2.F](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=79) For relationships between Boolean values:
+    * a. Write expressions using logical operators. [2.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
+    * b. Evaluate expressions that use logic operators. [4.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
+* [AAP-2.H](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=80) For selection:
+    * a. Write conditional statements. [2.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
+    * b. Determine the result of conditional statements. [4.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
+* [AAP-2.I](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=82) For nested selection:
+    * a. Write nested conditional statements. [2.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
+    * b. Determine the result of nested conditional statements. [4.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
 
 ### Essential Knowledge
 
-* [AAP-2.E.1]() A Boolean value is either true or false.
-* [AAP-2.E.2]() The exam reference sheet provides the following relational operators: =, ≠, >, <, ≥, and ≤. Text and Block:  
+* [AAP-2.E.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=78) A Boolean value is either true or false.
+* [AAP-2.E.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=78) The exam reference sheet provides the following relational operators: =, ≠, >, <, ≥, and ≤. Text and Block:  
 § a = b<br/>
 § a ≠ b<br/>
 § a > b<br/>
@@ -55,16 +55,16 @@ order: 0
 § a ≤ b<br/>
 These are used to test the relationship between two variables, expressions, or values. A comparison using a relational operator evaluates to a Boolean value. For example, a = b evaluates to true if a and b are equal; otherwise, it evaluates to false.
 
-* [AAP-2.F.1]() The exam reference sheet provides the logical operators NOT, AND, and OR, which evaluate to a Boolean value.
-* [AAP-2.F.2]() The exam reference sheet provides Text: NOT condition Block: NOT condition which evaluates to true if condition is false; otherwise it evaluates to false.
-* [AAP-2.F.3]() The exam reference sheet provides Text: condition1 AND condition2 Block: condition1 AND condition2 which evaluates to true if both condition1 and condition2 are true; otherwise it evaluates to false.
-* [AAP-2.F.4]() The exam reference sheet provides Text: condition1 OR condition2 Block: condition1 OR condition2 which evaluates to true if condition1 is true or if condition2 is true or if both condition1 and condition2 are true; otherwise it evaluates to false.
-* [AAP-2.F.5]() The operand for a logical operator is either a Boolean expression or a single Boolean value.
-* [AAP-2.H.1]() Conditional statements, or "if-statements," affect the sequential flow of control by executing different statements based on the value of a Boolean expression. 
-* [AAP-2.H.2]() The exam reference sheet provides
+* [AAP-2.F.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=79) The exam reference sheet provides the logical operators NOT, AND, and OR, which evaluate to a Boolean value.
+* [AAP-2.F.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=79) The exam reference sheet provides Text: NOT condition Block: NOT condition which evaluates to true if condition is false; otherwise it evaluates to false.
+* [AAP-2.F.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=79) The exam reference sheet provides Text: condition1 AND condition2 Block: condition1 AND condition2 which evaluates to true if both condition1 and condition2 are true; otherwise it evaluates to false.
+* [AAP-2.F.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=79) The exam reference sheet provides Text: condition1 OR condition2 Block: condition1 OR condition2 which evaluates to true if condition1 is true or if condition2 is true or if both condition1 and condition2 are true; otherwise it evaluates to false.
+* [AAP-2.F.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=79) The operand for a logical operator is either a Boolean expression or a single Boolean value.
+* [AAP-2.H.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=80) Conditional statements, or "if-statements," affect the sequential flow of control by executing different statements based on the value of a Boolean expression. 
+* [AAP-2.H.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=80) The exam reference sheet provides
     * Text: IF(condition) { &lt;block of statements&gt; }
     * Block: IF condition block of statements in which the code in block of statements is executed if the Boolean expression condition evaluates to true; no action is taken if condition evaluates to false.
-* [AAP-2.I.1]() Nested conditional statements consist of conditional statements within conditional statements. 
+* [AAP-2.I.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=82) Nested conditional statements consist of conditional statements within conditional statements. 
 
 ## Details
 

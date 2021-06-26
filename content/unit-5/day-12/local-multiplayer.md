@@ -8,15 +8,15 @@ order: 0
 
 ### Materials
 
-* [Day 12 PowerPoint deck]()
-* [MultiPlayer Game]() (for teacher)
+* [Day 12 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkQOtz_gJVPTJL0e7?e=6LP8V1)
+* [MultiPlayer Game](https://makecode.com/_LpiCi7iuTfxw) (for teacher)
 * <a href="/unit-5/day-12/multiplayer">Multiplayer Handout</a>
-* [MultiPlayer Handout]() in Word
+* [MultiPlayer Handout](https://1drv.ms/w/s!AqsgsTyHBmRBkQQzLLb7uEcKWwRP?e=V9uo96) in Word
 * [Activity: Multiplayer](https://arcade.makecode.com/courses/csintro2/logic/multiplayer)
 
 #### Reference
 
-* [Controller]()
+* [Controller](https://arcade.makecode.com/reference/controller)
 
 ### Instructional Activities and Classroom Assessments
 
@@ -39,8 +39,8 @@ order: 0
 
 ### Essential Knowledge
 
-* [AAP-2.E.1]() A Boolean value is either true or false.
-* [AAP-2.E.2]() The exam reference sheet provides the following relational operators: =, ≠, >, <, ≥, and ≤. Text and Block:<br/>
+* [AAP-2.E.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=78) A Boolean value is either true or false.
+* [AAP-2.E.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=78) The exam reference sheet provides the following relational operators: =, ≠, >, <, ≥, and ≤. Text and Block:<br/>
 § a = b<br/>
 § a ≠ b<br/>
 § a > b<br/>
@@ -49,13 +49,13 @@ order: 0
 § a ≤ b<br/>
 These are used to test the relationship between two variables, expressions, or values. A comparison using a relational operator evaluates to a Boolean value. For example,  a = b evaluates to true if a and b are equal; otherwise, it evaluates  to false.
 
-* [AAP-2.H.1]() Conditional statements, or “if-statements,” affect the sequential flow of control by executing different statements based on the value of a Boolean expression. 
-* [AAP-2.H.2]() The exam reference sheet provides
+* [AAP-2.H.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=80) Conditional statements, or “if-statements,” affect the sequential flow of control by executing different statements based on the value of a Boolean expression. 
+* [AAP-2.H.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=80) The exam reference sheet provides
     * Text: IF(condition) { &lt;block of statements&gt; }
     * Block: IF condition block of statements in which the code in block of statements is executed if the Boolean expression condition evaluates to true; no action is taken if condition evaluates to false.
 * AAP-3.E.1 The exam reference sheet provides RANDOM(a, b) Block: RANDOM  a, b which generates and returns a random integer from a to b, inclusive. Each result is equally likely to occur. For example, RANDOM(1, 3) could return 1, 2, or 3.
-* [CRD-2.C.2]() An event is associated with an action and supplies input data to a program.
-* [CRD-2.C.3]() Events can be generated when a key is pressed, a mouse is clicked, a program is started, or any other defined action occurs that affects the flow of execution.
+* [CRD-2.C.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=42) An event is associated with an action and supplies input data to a program.
+* [CRD-2.C.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=42) Events can be generated when a key is pressed, a mouse is clicked, a program is started, or any other defined action occurs that affects the flow of execution.
 
 ## Details
 

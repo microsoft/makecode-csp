@@ -8,17 +8,17 @@ order: 0
 
 ### Materials
 
-* [Days 8-11 PowerPoint deck]()
+* [Days 8-11 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkH4s80JqvW_MR9gH?e=aIKgaD)
 * <a href="/unit-5/day-8-11/planning-your-program">Planning Your Program handout</a>
-* [Planning Your Program handout]() in Word
+* [Planning Your Program handout](https://1drv.ms/w/s!AqsgsTyHBmRBkH9Wc-lNIwMyqp5l?e=MRwBQo) in Word
 * <a href="/unit-5/day-8-11/project-requirements-responses">Project Requirements & Responses</a> handout
-* [Project Requirements & Responses]() handout in Word
+* [Project Requirements & Responses](https://1drv.ms/w/s!AqsgsTyHBmRBkQCkNZvsUCipTeVd?e=KUwYA1) handout in Word
 * <a href="/unit-5/day-8-11/collaborative-project-rubric">Collaborative Project Rubric</a>
-* [Collaborative Project Rubric]() in Word
+* [Collaborative Project Rubric](https://1drv.ms/w/s!AqsgsTyHBmRBkQEl-uDBFEPQu0Hi?e=lhQ2yT) in Word
 
 * References:
-    * [How to use MakeCode with GitHub video]()
-    * [GitHub and MakeCode additional information]()
+    * [How to use MakeCode with GitHub video](https://youtu.be/J-pI1sEWPV0)
+    * [GitHub and MakeCode additional information](https://1drv.ms/p/s!AqsgsTyHBmRBkQKwY6y1U4ICT6rr?e=cOSaE2)
 
 ### Instructional Activities and Classroom Assessments
 

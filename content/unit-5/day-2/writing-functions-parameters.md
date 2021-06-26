@@ -6,7 +6,7 @@ order: 1
 
 ## Activity
 
-Go to [Activity: Parameters]().  Apply what you have learned regarding functions with parameters to complete student tasks 1-3. 
+Go to [Activity: Parameters](https://arcade.makecode.com/courses/csintro3/functions/parameters).  Apply what you have learned regarding functions with parameters to complete student tasks 1-3. 
 
 ### Tasks
 

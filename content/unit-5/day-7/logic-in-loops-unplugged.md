@@ -11,8 +11,8 @@ order: 1
 * Dice (1 for each group)
 * Cut out words:
     * You can create your own simple sentences, or
-    * You can use the ones on this document: [Simple Sentences]().
-* A <a href="/unit-5/day-7/sentence-puzzles">Sentence Puzzles</a> page for each group. ([Sentence Puzzles Word document]())
+    * You can use the ones on this document: [Simple Sentences](https://1drv.ms/w/s!AqsgsTyHBmRBkHw_m-2Rz8vOKAoJ?e=PV9E5B).
+* A <a href="/unit-5/day-7/sentence-puzzles">Sentence Puzzles</a> page for each group. ([Sentence Puzzles Word document](https://1drv.ms/w/s!AqsgsTyHBmRBkH2al4o5whuQ5XEz?e=B4fcM9))
 
 ## Before class
 

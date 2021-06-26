@@ -8,9 +8,9 @@ order: 0
 
 ### Material
 
-* [Day 28 PowerPoint deck]()
+* [Day 28 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkSn85cW9yEh8caH6?e=yljIZt)
 * <a href="/unit-5/day-28/computer-problem-solving">Computer Problem Solving</a> handout
-* [Computer Problem Solving]() handout in Word
+* [Computer Problem Solving](https://1drv.ms/w/s!AqsgsTyHBmRBkSrQYy69KX-ayssy?e=u0Bchf) handout in Word
 * <a href="/unit-5/day-28/resource-links">Resource Links</a> (for teacher, but can be shared with students if you prefer)
 
 ### Instructional Activities and Classroom Assessments
@@ -24,10 +24,10 @@ order: 0
 * AAP-3.F For simulations:
     * a. Explain how computers can be used to represent real-world phenomena or outcomes.
     * b. Compare simulations with real-world contexts.
-* [AAP-4.A]() For determining the efficiency of an algorithm:
+* [AAP-4.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=101) For determining the efficiency of an algorithm:
     * a. Explain the difference between algorithms that run in reasonable time and those that do not.
     * b. Identify situations where a heuristic solution may be more appropriate. 1.D
-* [AAP-4.B]() Explain the existence of undecidable problems in computer science. 1.A
+* [AAP-4.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=103) Explain the existence of undecidable problems in computer science. 1.A
 
 ### Essential Knowledge
 
@@ -46,12 +46,12 @@ order: 0
 * AAP-4.A.5 An algorithm's efficiency can be informally measured by determining the number of times a statement or group of statements executes.
 * AAP-A.4.6 Different correct algorithms for the same problem can have different efficiencies.
 * AAP-4.A.7 Algorithms with a polynomial efficiency or slower (constant, linear, square, cube, etc.) are said to run in a reasonable amount of time. Algorithms with exponential or factorial efficiencies are examples of algorithms that run in an unreasonable amount of time.
-* [AAP-4.A.8]() Some problems cannot be solved in a reasonable amount of time because there is no efficient algorithm for solving them. In these cases, approximate solutions are sought. 
-* [AAP-4.A.9]() A heuristic is an approach to a problem that produces a solution that is not guaranteed to be optimal but may be used when techniques that are guaranteed to always find an optimal solution are impractical. 
-* [AAP-4.B.1]() A decidable problem is a decision problem for which an algorithm can be written to produce a correct output for all inputs (e.g., “Is the number even?”).
-* [AAP-4.B.2]() An undecidable problem is one for which no algorithm can be constructed that is always capable of providing a correct yes or-no answer.<br/>
+* [AAP-4.A.8](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=102) Some problems cannot be solved in a reasonable amount of time because there is no efficient algorithm for solving them. In these cases, approximate solutions are sought. 
+* [AAP-4.A.9](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=102) A heuristic is an approach to a problem that produces a solution that is not guaranteed to be optimal but may be used when techniques that are guaranteed to always find an optimal solution are impractical. 
+* [AAP-4.B.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=103) A decidable problem is a decision problem for which an algorithm can be written to produce a correct output for all inputs (e.g., “Is the number even?”).
+* [AAP-4.B.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=103) An undecidable problem is one for which no algorithm can be constructed that is always capable of providing a correct yes or-no answer.<br/>
 X EXCLUSION STATEMENT (EK AAP-4.B.2): Determining whether a given problem is undecidable is outside the scope of this course and the AP Exam.
-* [AAP-4.B.3]() An undecidable problem may have some instances that have an algorithmic solution, but there is no algorithmic solution that could solve all instances of the problem.
+* [AAP-4.B.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=103) An undecidable problem may have some instances that have an algorithmic solution, but there is no algorithmic solution that could solve all instances of the problem.
 
 ## DetaILS
 
