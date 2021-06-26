@@ -34,7 +34,7 @@ After the princess has given her speech, make her say it again backwards.
 
 #### Princess Dialog Mod
 
-1. [MakeCode.com Princess Dialog 2 Game]()
+1. [MakeCode.com Princess Dialog 2 Game](https://makecode.com/_DssiA49JeWyK)
 2. Mod this game to add an Enemy Sprite.
 3. Create a second Text Array that includes words the Enemy will say.
 4. When the Princess overlaps with the Enemy, have the Enemy randomly say one of the words from the Array.

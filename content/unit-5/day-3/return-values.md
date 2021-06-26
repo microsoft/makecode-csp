@@ -8,14 +8,15 @@ order: 0
 
 ### Materials  
 
-* [Day 3 PowerPoint deck]()
-* [Full Name sample code]()
-* [Series Sum Solution]() (for teacher)
-* [Pizza Allowance code sample]()
+* [Day 3 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkHL0jvefaMAzb4nh?e=7Y5Kau)
+* [Full Name sample code](https://makecode.com/_a5dCeY4PAage)
+* [Series Sum code sample](https://makecode.com/_5L7dcuausc8j)
+* [Series Sum Solution](https://makecode.com/_7gd9Dog90Cjx) (for teacher)
+* [Pizza Allowance code sample](https://makecode.com/_47Ag5pMvxR3A)
 * <a href="/unit-5/day-3/writing-functions-return-values">Writing Functions with Return Values</a> Handout
-* [Writing Functions with Return Values]() Handout in Word
-* [Activity: Return Values]()
-* [Problem Set: Returns]()
+* [Writing Functions with Return Values](https://1drv.ms/w/s!AqsgsTyHBmRBkHPVidysY-cdISXo?e=wTkRJD) Handout in Word
+* [Activity: Return Values](https://arcade.makecode.com/courses/csintro3/functions/returns)
+* [Problem Set: Returns](https://arcade.makecode.com/courses/csintro3/functions/returns-problems)
 
 ### Instructional Activities and Classroom Assessments 
 
@@ -27,23 +28,23 @@ order: 0
 
 ### Learning Objectives 
 
-* [AAP-3.A]() For procedure calls:
-    * a. Write statements to call procedures. [3.B]()
-    * b. Determine the result or effect of a procedure call. [4.B]() 
-* [AAP-3.B]() Explain how the use of procedural abstraction manages complexity in a program. [3.C]()
-* [AAP-3.C]() Develop procedural abstractions to manage complexity in a program by writing procedures. [3.B]()
+* [AAP-3.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=91) For procedure calls:
+    * a. Write statements to call procedures. [3.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
+    * b. Determine the result or effect of a procedure call. [4.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23) 
+* [AAP-3.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=94) Explain how the use of procedural abstraction manages complexity in a program. [3.C](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
+* [AAP-3.C](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=94) Develop procedural abstractions to manage complexity in a program by writing procedures. [3.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
 
 ### Essential Knowledge
 
-* [AAP-3.A.1]() A procedure is a named group of programming instructions that may have parameters and return values.
-* [AAP-3.A.2]() Procedures are referred to by different names, such as method or function, depending on the programming language.
-* [AAP-3.A.3]() Parameters are input variables of a procedure. Arguments specify the values of the parameters when a procedure is called.
-* [AAP-3.A.4]() A procedure call interrupts the sequential execution of statements, causing the program to execute the statements within the procedure before continuing. Once the last statement in the procedure (or a return statement) has executed, flow of control is returned to the point immediately following where the procedure was called.
-* [AAP-3.B.1]() One common type of abstraction is procedural abstraction, which provides a name for a process and allows a procedure to be used only knowing what it does, not how it does it.
-* [AAP-3.B.2]() Procedural abstraction allows a solution to a large problem to be based on the solutions of smaller subproblems. This is accomplished by creating procedures to solve each of the subproblems.
-* [AAP-3.B.4]() A procedural abstraction may extract shared features to generalize functionality instead of duplicating code. This allows or program code reuse, which helps manage complexity.
-* [AAP-3.B.5]() Using parameters allows procedures to be generalized, enabling the procedures to be reused with a range of input values or arguments.  
-* [AAP-3.C.2]() The exam reference sheet provides
+* [AAP-3.A.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=91) A procedure is a named group of programming instructions that may have parameters and return values.
+* [AAP-3.A.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=91) Procedures are referred to by different names, such as method or function, depending on the programming language.
+* [AAP-3.A.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=91) Parameters are input variables of a procedure. Arguments specify the values of the parameters when a procedure is called.
+* [AAP-3.A.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=91) A procedure call interrupts the sequential execution of statements, causing the program to execute the statements within the procedure before continuing. Once the last statement in the procedure (or a return statement) has executed, flow of control is returned to the point immediately following where the procedure was called.
+* [AAP-3.B.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=94) One common type of abstraction is procedural abstraction, which provides a name for a process and allows a procedure to be used only knowing what it does, not how it does it.
+* [AAP-3.B.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=94) Procedural abstraction allows a solution to a large problem to be based on the solutions of smaller subproblems. This is accomplished by creating procedures to solve each of the subproblems.
+* [AAP-3.B.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=94) A procedural abstraction may extract shared features to generalize functionality instead of duplicating code. This allows or program code reuse, which helps manage complexity.
+* [AAP-3.B.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=94) Using parameters allows procedures to be generalized, enabling the procedures to be reused with a range of input values or arguments.
+* [AAP-3.C.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=94) The exam reference sheet provides
 ```
 Text:
 

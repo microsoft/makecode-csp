@@ -8,17 +8,17 @@ order: 0
 
 ### Materials
 
-* [Days 20-27 PowerPoint deck]()
+* [Days 20-27 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkSOU1aPbxgCn-8oI?e=nz4rCi)
 * <a href="content\unit-5\day-20-27\planning-your-project.md">Planning Your Unit 5 Project</a> handout
-* [Planning Your Unit 5 Project]() handout in Word
+* [Planning Your Unit 5 Project](https://1drv.ms/w/s!AqsgsTyHBmRBkSQIw0I8KLprv8PB?e=DwO7d3) handout in Word
 * <a href="/unit-5/day-20-27/project-requirements-responses">Project Requirements & Responses</a> handout
 * [Project Requirements & Responses]() handout in Word
 * <a href="/unit-5/day-20-27/project-rubric">Unit 5 Project Rubric</a>
-* [Unit 5 Project Rubric]() in Word
+* [Unit 5 Project Rubric](https://1drv.ms/w/s!AqsgsTyHBmRBkSW52TEONrQkbQfG?e=ZsCc4J) in Word
 * <a href="/unit-5/day-20-27/gallery-walk">Gallery Walk Feedback Form</a>
-* [Gallery Walk Feedback Form]() in Word
+* [Gallery Walk Feedback Form](https://1drv.ms/w/s!AqsgsTyHBmRBkSbZ3tpXxCjFCpVI?e=cFu8DA) in Word
 * <a href="/unit-5/day-20-27/presentation-checklist">Presentation Checklist</a>
-* [Presentation Checklist]() in Word
+* [Presentation Checklist](https://1drv.ms/w/s!AqsgsTyHBmRBkSgt6cp6jHoasQJr?e=Al2Jnz) in Word
 
 ### Instructional Activities and Classroom Assessments 
 

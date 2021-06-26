@@ -6,7 +6,7 @@ order: 1
 
 ## Activity
 
-Go to [Activity: Multiplayer](https://arcade.makecode.com/courses/csintro2/logic/multiplayer).  Complete student tasks 2-5.
+Go to [Activity: Multiplayer](https://arcade.makecode.com/courses/csintro2/logic/multiplayer). Complete student tasks 2-5.
 
 ### Tasks
 
@@ -24,11 +24,11 @@ Go to [Activity: Multiplayer](https://arcade.makecode.com/courses/csintro2/logic
 
 #### Task 3
 
-1. Place an if then ... else if then block inside of on game update.  
-2. First, check if currentBall‘s y position is less than or equal to 0  
-    * If it is, set currentBall‘s y position to 0   set currentBall‘s vy to its current vy multiplied by -1 
-3. Next, check if currentBall‘s y position is greater than or equal to screen height. 
-4. If it is, set currentBall‘s y position to screen height set currentBall‘s vy to its current vy multiplied by -1 
+1. Place an if then ... else if then block inside of on game update.
+2. First, check if currentBall‘s y position is less than or equal to 0
+    * If it is, set currentBall‘s y position to 0   set currentBall‘s vy to its current vy multiplied by -1
+3. Next, check if currentBall‘s y position is greater than or equal to screen height.
+4. If it is, set currentBall‘s y position to screen height set currentBall‘s vy to its current vy multiplied by -1
 5. Comment your code.
 
 **Shared project link**:
@@ -36,11 +36,11 @@ Go to [Activity: Multiplayer](https://arcade.makecode.com/courses/csintro2/logic
 
 #### Task 4
 
-1. Add another if then ... else then block inside on game update.  
-2. If the currentBall‘s x position is greater than screen width, then destroy the currentBall, increase player one’s score by 1, create a newBall. 
-3. Otherwise, if the currentBall‘s x position is less than 0, then destroy the currentBall, increase player two’s score by 1, create a newBall. 
-4. In on start, set players one and two’s score to start at 0. 
-5. Add comments to your code. 
+1. Add another if then ... else then block inside on game update.
+2. If the currentBall‘s x position is greater than screen width, then destroy the currentBall, increase player one’s score by 1, create a newBall.
+3. Otherwise, if the currentBall‘s x position is less than 0, then destroy the currentBall, increase player two’s score by 1, create a newBall.
+4. In on start, set players one and two’s score to start at 0.
+5. Add comments to your code.
 
 **Shared project link**:
 <br/>
@@ -77,14 +77,12 @@ Go to [Activity: Multiplayer](https://arcade.makecode.com/courses/csintro2/logic
 
  
 
-How does having multiple players at once in a single game allow for new and compelling games? 
+How does having multiple players at once in a single game allow for new and compelling games?
 
  
 
-Were there any difficulties in implementing the multiplayer game? Was it easier or harder than a single player game? 
+Were there any difficulties in implementing the multiplayer game? Was it easier or harder than a single player game?
 
  
 
-How might/did you debug your code? 
-
- 
+How might/did you debug your code?
