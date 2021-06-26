@@ -71,7 +71,7 @@ order: 0
 * Direct students to the <a href="/unit-5/day-14/arrays-work">Arrays Work</a> page.
 * Students will go to the [Activity: Arrays Intro](https://arcade.makecode.com/courses/csintro2/arrays/intro) webpage.
 * Instruct students to complete Tasks 1-2.
-* Encourage students to publish their work and paste the links on their <a href="/unit-5/day-14/arrays-work"> page.
+* Encourage students to publish their work and paste the links on their <a href="/unit-5/day-14/arrays-work">Arrays Work</a> page.
 
 ### 3. Extension
 
