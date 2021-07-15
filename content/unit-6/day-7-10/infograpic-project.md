@@ -8,16 +8,16 @@ order: 0
 
 ### Materials
 
-* [Day 7 - 10 PowerPoint deck]()
-* [Data Science Process Checklist]()
-* [Infographic Tips]()
-* [genial.ly]()
-* [Infographic Rubric]()
-* [Infographic Rubric]() in Word
+* [Day 7 - 10 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBj3AfG-XjEfWUsXa3?e=zNc7zL)
+* <a href="/unit-6/day-2/data-science-process">Data Science Process Checklist</a>
+* <a href="/unit-6/day-7-10/infograpic-tips">Infographic Tips</a>
+* [genial.ly](https://www.genial.ly/)
+* <a href="/unit-6/day-7-10/infograpic-rubric">Infographic Rubric</a>
+* [Infographic Rubric](https://1drv.ms/w/s!AqsgsTyHBmRBj2a4sRWKHaCSJEKy?e=FwAase) in Word
 
 ### Instructional Activities and Classroom Assessments
 
-* Day 7
+#### Day 7
 
 1. Data Science Project Plan Discussion (15 minutes) 
 2. Download the Data (5 minutes)
@@ -25,13 +25,13 @@ order: 0
 4. Optional: Data Visualization
 5. Homework
 
-* Day 8
+#### Day 8
 
 1. Workday (30 minutes)
 2. Infographic Tips (15 minutes)
 3. Homework
 
-* Day 9
+#### Day 9
 
 1. Workday (35 minutes)
 2. Peer Review (10 minutes)
@@ -43,35 +43,35 @@ order: 0
 
 ### Learning Objectives 
 
-* [DAT-2.C]() Identify the challenges associated with processing data.
-* [DAT-2.D]() Extract information from data using a program.
-* [DAT-2.E]() Explain how programs can be used to gain insight and knowledge from data.
+* [DAT-2.C](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=59) Identify the challenges associated with processing data.
+* [DAT-2.D](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=61) Extract information from data using a program.
+* [DAT-2.E](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=62) Explain how programs can be used to gain insight and knowledge from data.
 
 ### Essential Knowledge
 
-* [DAT-2.C.1]() The ability to process data depends on the capabilities of the users and their tools.
-* [DAT-2.C.2]() Data sets pose challenges regardless of size, such as:
+* [DAT-2.C.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=59) The ability to process data depends on the capabilities of the users and their tools.
+* [DAT-2.C.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=59) Data sets pose challenges regardless of size, such as:
     * The need to clean data
     * Incomplete data
     * Invalid data
     * The need to combine data sources
-* [DAT-2.C.3]() Depending on how data were collected, they may not be uniform. For example, if users enter data into an open field, the way they choose to abbreviate, spell, or capitalize something may vary from user to user.
+* [DAT-2.C.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=59) Depending on how data were collected, they may not be uniform. For example, if users enter data into an open field, the way they choose to abbreviate, spell, or capitalize something may vary from user to user.
 * DAT-2.C.4
-* [DAT-2.D.1]() Programs can be used to process data to acquire information.
-* [DAT-2.D.2]() Tables, diagrams, text, and other visual tools can be used to communicate insight and knowledge gained from data.
-* [DAT-2.D.3]() Search tools are useful for efficiently finding information.
-* [DAT-2.D.4]() Data filtering systems are important tools for finding information and recognizing patterns in data
-* [DAT-2.D.5]() Programs such as spreadsheets help efficiently organize and find trends in information.
-* [DAT-2.D.6]() Some processes that can be used to extract or modify information from data include the following:
+* [DAT-2.D.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=61) Programs can be used to process data to acquire information.
+* [DAT-2.D.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=61) Tables, diagrams, text, and other visual tools can be used to communicate insight and knowledge gained from data.
+* [DAT-2.D.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=61) Search tools are useful for efficiently finding information.
+* [DAT-2.D.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=61) Data filtering systems are important tools for finding information and recognizing patterns in data
+* [DAT-2.D.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=61) Programs such as spreadsheets help efficiently organize and find trends in information.
+* [DAT-2.D.6](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=62) Some processes that can be used to extract or modify information from data include the following:
     * Transforming every element of a data set, such as doubling every element in a list, or adding a parent's email to every student record.
     * Filtering a data set, such as keeping only the positive numbers from a list, or keeping only students who signed up for band from a record of all the students.
     * Combining or comparing data in some way, such as adding up a list of numbers, or finding the student who has the highest GPA.
     * Visualizing a data set through a chart, graph, or other visual representation.
-* [DAT-2.E.1]() Programs used in an iterative and interactive way when processing information to allow users to gain insight and knowledge about data.
-* [DAT-2.E.2]() Programmers can use programs to filter and clean digital data, thereby gaining insight and knowledge.
-* [DAT-2.E.3])() Combining data sources, clustering data, and classifying data are parts of the process of using programs to gain insight and knowledge from data.
-* [DAT-2.E.4]() Insight and knowledge can be obtained from translating and transforming digitally represented information.
-* [DAT-2.E.5]() Patterns can emerge when data are transformed using programs.
+* [DAT-2.E.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=62) Programs used in an iterative and interactive way when processing information to allow users to gain insight and knowledge about data.
+* [DAT-2.E.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=62) Programmers can use programs to filter and clean digital data, thereby gaining insight and knowledge.
+* [DAT-2.E.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=62) Combining data sources, clustering data, and classifying data are parts of the process of using programs to gain insight and knowledge from data.
+* [DAT-2.E.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=62) Insight and knowledge can be obtained from translating and transforming digitally represented information.
+* [DAT-2.E.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=62) Patterns can emerge when data are transformed using programs.
 
 ## Details
 

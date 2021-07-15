@@ -8,10 +8,10 @@ order: 0
 
 ### Materials
 
-* [Day 16 PowerPoint slide]()
+* [Day 16 PowerPoint slide](https://1drv.ms/p/s!AqsgsTyHBmRBj3eCtsusvok74STG?e=FipbXw)
 * [MakeCode Arcade Precision Activities](/unit-6/day-16/makecode-arcade-precision-activities)
-* [MakeCode Arcade Precision Activities]() in Word
-* [Homework](/unit-6/day-16/homework)
+* [MakeCode Arcade Precision Activities](https://1drv.ms/w/s!AqsgsTyHBmRBkGnF1PQSYkcccefi?e=mlYPP2) in Word
+* <a href="/unit-6/day-16/homework">Homework</a>
 
 ### Instructional Activities and Classroom Assessments
 

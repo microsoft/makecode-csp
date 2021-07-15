@@ -8,12 +8,12 @@ order: 0
 
 ### Materials
 
-* [Day 12 PowerPoint deck]()
-* [ASCII secret message document]()
-* [ASCII and Unicode Character Sets]()
-* [ASCII Chart Handout]()
-* [ASCII Homework Handout]()
-* [ASCII Homework Handout]() in Word
+* [Day 12 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBj3MJMZvNbkfBMxlj?e=fsbU9n)
+* [ASCII secret message document](https://1drv.ms/w/s!AqsgsTyHBmRBkF6oZc8YmFrxELek?e=V2hne6)
+* [ASCII and Unicode Character Sets](https://youtu.be/I-pQH_krD0M)
+* <a href="/unit-6/day-12/ascii-chart">ASCII Chart Handout</a>
+* <a href="/unit-6/day-11/binary-homework">ASCII Homework Handout</a>
+* [ASCII Homework Handout](https://1drv.ms/w/s!AqsgsTyHBmRBkGenx4jxCGR78j_P?e=ljb56P) in Word
 
 ### Instructional Activities and Classroom Assessments
 
@@ -26,15 +26,15 @@ order: 0
 
 ### Learning Objectives
 
-* [DAT 1-A]() Explain how data can be represented using bits.
+* [DAT 1-A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Explain how data can be represented using bits.
 
 ### Essential Knowledge
 
 * DAT-1.A.1
 * DAT-1.A.2
 * DAT-1.A.5
-* [DAT-1.A.6]() Bits are grouped to represent abstractions. These abstractions include, but are not limited to, numbers, characters, and color.
-* [DAT-1.A.7]() The same sequence of bits may represent different types of data in different contexts.
+* [DAT-1.A.6](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Bits are grouped to represent abstractions. These abstractions include, but are not limited to, numbers, characters, and color.
+* [DAT-1.A.7](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=54) The same sequence of bits may represent different types of data in different contexts.
 
 ## Details
 

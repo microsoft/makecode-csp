@@ -10,7 +10,7 @@ Find your favorite colors using the Canva Color Wheel. Record the hex-codes of t
 
 As you know from creating your sprites, MakeCode Arcade has a palette of 16 colors - 15 colors and transparent. What if you could add your favorite color to the palette?
 
-1. Go to the [MakeCode Color Palette document]().
+1. Go to the [MakeCode Color Palette document](https://1drv.ms/w/s!AqsgsTyHBmRBkGjGeXdpq7UoOazc?e=NgS4cw).
 
 2. Replace two (or more) of the colors with your favorite complementary colors from the Canva color wheel. Make sure there are no extra spaces before or after the # (pound sign) or " (quotes).
 

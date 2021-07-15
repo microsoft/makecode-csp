@@ -8,7 +8,7 @@ order: 1
 
 https://youtu.be/lWgdVemOQaA
 
-You can find the raw data that you and your students will use here - [Sample Survey Responses]() 
+You can find the raw data that you and your students will use here - <a href="/unit-6/day-6/sample-survey-responses">Sample Survey Responses</a> 
 
 The Excel spreadsheet below has been cleaned and has a few charts you can show students:
 

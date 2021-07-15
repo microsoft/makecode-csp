@@ -8,12 +8,12 @@ order: 0
 
 ### Materials
 
-* [Day 3 PowerPoint deck]()
-* [Data Science Process Checklist]()
+* [Day 3 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBj2sWbf6vlTKBzR7L?e=h730fI)
+* <a href="/unit-6/day-2/data-science-process">Data Science Process Checklist</a>
 * <a href="/unit-6/day-3/bias-in-surveys-activity">Bias in Surveys Activity</a>
 * <a href="/unit-6/day-3/examples-biased-surveys-questions">Examples of Biased Survey Questions</a>
 * <a href="/unit-6/day-3/survey-rubric">Survey Rubric</a>
-* [Survey Rubric]() in Word
+* [Survey Rubric](https://1drv.ms/w/s!AqsgsTyHBmRBj2dC_oU0uPaB3GZc?e=aj2XFX) in Word
 
 ### Instructional Activities and Classroom Assessments
 
@@ -27,17 +27,17 @@ order: 0
 
 ### Learning Objectives 
 
-* [DAT-2.A]() Describe what information can be extracted from data.
-* [DAT-2.C]() Identify the challenges associated with processing data.
+* [DAT-2.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=58) Describe what information can be extracted from data.
+* [DAT-2.C](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=59) Identify the challenges associated with processing data.
 
 ### Essential Knowledge 
 
-* [DAT-2.A.1]() Information is the collection of facts and patterns extracted from data. 
-* [DAT-2.A.2]() Data provide opportunities for identifying trends, make connections, and addressing problems. 
-* [DAT-2-A.3]() Digitally processed data may show correlation between variables. A correlation found in data does not necessarily indicate that a causal relationship exists. Additional research is needed to understand the exact nature of the relationship. 
-* [DAT-2.A.4]() Often, a single source does not contain the data needed to draw a conclusion. It may be necessary to combine data from a variety of sources to formulate a conclusion.
+* [DAT-2.A.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=58) Information is the collection of facts and patterns extracted from data. 
+* [DAT-2.A.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=58) Data provide opportunities for identifying trends, make connections, and addressing problems. 
+* [DAT-2-A.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=58) Digitally processed data may show correlation between variables. A correlation found in data does not necessarily indicate that a causal relationship exists. Additional research is needed to understand the exact nature of the relationship. 
+* [DAT-2.A.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=58) Often, a single source does not contain the data needed to draw a conclusion. It may be necessary to combine data from a variety of sources to formulate a conclusion.
 * DAT-2.C.1
-* [DAT-2.C.5]() Problems of bias are often created by the type or source of data being collected. Bias is not eliminated by simply collecting more data.
+* [DAT-2.C.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=59) Problems of bias are often created by the type or source of data being collected. Bias is not eliminated by simply collecting more data.
 
 ### 0. Before class  
 

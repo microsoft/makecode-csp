@@ -10,11 +10,11 @@ Another option for teaching binary conversion is for students to create a binary
 
 This PowerPoint takes students through the steps for how to create a binary calculator. 
 
-[Optional Lesson on Binary Calculator]()
+[Optional Lesson on Binary Calculator](https://1drv.ms/w/s!AqsgsTyHBmRBj3LmCqu2IG8dFu8P?e=Y0KR5e)
 
 This is a template to use for the binary calculator. 
 
-[Binary Calculator Template]()
+[Binary Calculator Template](https://1drv.ms/w/s!AqsgsTyHBmRBj28lM0X0SX7t8U-2?e=TatP2n)
 
 ## If you plan to use it, before class
 
