@@ -8,7 +8,7 @@ order: 0
 
 ### Materials
 
-* [Day 1 PowerPoint deck]()
+* [Day 1 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkQiWIRtlUwBrpqjJ?e=7J7gCd)
 
 #### Websites
 

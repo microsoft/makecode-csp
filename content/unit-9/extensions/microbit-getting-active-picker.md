@@ -13,9 +13,9 @@ The first extension requires the use of Micro:bit boards. While the code activit
 * Full Lesson webpage is here:  
     * [Getting Active Picker](https://microbit.org/lessons/getting-active-picker/)
     * [(lesson download link)](https://microbit.org/downloads/getting-active-5-programming-an-activity-picker.zip)
-* [Getting Active Slides]()
-* [Getting Active Lesson Plan]()
-* [Getting Active Student Handouts]()
+* [Getting Active Slides](https://1drv.ms/p/s!AqsgsTyHBmRBkQ-4a6ToTIjc5zJ2?e=5wb9WZ)
+* [Getting Active Lesson Plan](https://1drv.ms/w/s!AqsgsTyHBmRBkRCDuN6MX9O9ZnoF?e=SyJlRR)
+* [Getting Active Student Handouts](https://1drv.ms/w/s!AqsgsTyHBmRBkREsHoG8Y4Md_Mwn?e=xS0p87)
 
 ### Instructional Activities and Classroom Assessments 
 

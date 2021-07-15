@@ -12,7 +12,7 @@ order: 0
 * <a href="content\unit-5\day-20-27\planning-your-project.md">Planning Your Unit 5 Project</a> handout
 * [Planning Your Unit 5 Project](https://1drv.ms/w/s!AqsgsTyHBmRBkSQIw0I8KLprv8PB?e=DwO7d3) handout in Word
 * <a href="/unit-5/day-20-27/project-requirements-responses">Project Requirements & Responses</a> handout
-* [Project Requirements & Responses]() handout in Word
+* [Project Requirements & Responses](https://1drv.ms/w/s!AqsgsTyHBmRBkSW52TEONrQkbQfG?e=ZsCc4J) handout in Word
 * <a href="/unit-5/day-20-27/project-rubric">Unit 5 Project Rubric</a>
 * [Unit 5 Project Rubric](https://1drv.ms/w/s!AqsgsTyHBmRBkSW52TEONrQkbQfG?e=ZsCc4J) in Word
 * <a href="/unit-5/day-20-27/gallery-walk">Gallery Walk Feedback Form</a>

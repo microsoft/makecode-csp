@@ -8,7 +8,7 @@ order: 4
 
 ### Materials
 
-* [Heartbreak Activity PowerPoint deck]()
+* [Heartbreak Activity PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkRXcWDUS_Amtr41u?e=aPWWkz)
 * Heartbreak Map Student examples
     * [Joy Kirr's Class](https://www.flickr.com/photos/kirrclass/10156454116/in/album-72157636333106976/)
     * [Aaron Mauer's Class](https://www.flickr.com/photos/coffeechug/sets/72157635407728034/)

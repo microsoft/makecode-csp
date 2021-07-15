@@ -37,7 +37,7 @@ order: 0
 * [AAP-3.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=91) For procedure calls:
     * a. Write statements to call procedures. [3.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
     * b. Determine the result or effect of a procedure call. [4.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
-* [AAP-3.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=94) Explain how the use of procedural abstraction manages complexity in a program. [3.C]()
+* [AAP-3.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=94) Explain how the use of procedural abstraction manages complexity in a program. [3.C](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=23)
 * AAP-3.C Develop procedural abstractions to manage complexity in a program by writing procedures. 3.B
 
 ### Essential Knowledge 

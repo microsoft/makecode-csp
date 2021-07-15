@@ -8,7 +8,7 @@ order: 0
 
 ### Materials
 
-* [Days 7-8 PowerPoint Deck]()
+* [Days 7-8 PowerPoint Deck](https://1drv.ms/p/s!AqsgsTyHBmRBkQuB5L_Q8-FrzAjH?e=LPWRcM)
 * [SDG Project Distribution Plan](/unit-9/day-7-8/sdg-project-distribution-plan)
 * [MakeCode Forum](https://forum.makecode.com/)
 * [GitHub Pages](https://arcade.makecode.com/github/pages)

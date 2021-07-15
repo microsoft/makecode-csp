@@ -8,7 +8,7 @@ order: 0
 
 ### Materials
 
-* [Day 2 PowerPoint deck]()
+* [Day 2 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkQlNsP3J4wZ2t_QY?e=DB41U2)
 * Games for Good - example games https://aka.ms/G4Conline<br/>
 NOTE – the Games for Change site (https://www.gamesforchange.org/games) includes games across all platforms, but the link above filters to show just online/web games – students may not have access to play all games
 * COVID Simulation example No Social Distancing - https://makecode.com/_0dW3KLHX4cL9 (for teacher)
