@@ -8,12 +8,12 @@ order: 0
 
 ### Materials
 
-* [Day 11 PowerPoint deck]()
-* [How exactly does binary code work? - José Américo N L F de Freitas]()
-* [Binary Numbers Game]()
-* [Random.org]()
-* [Binary Homework]()
-* [Optional: Binary Calculator Activity]()
+* [Day 11 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBj3GpS7gcjU2BsWlU?e=McCJbS)
+* [How exactly does binary code work? - José Américo N L F de Freitas](https://youtu.be/wgbV6DLVezo)
+* [Binary Numbers Game](https://games.penjee.com/binary-numbers-game/)
+* [Random.org](https://www.random.org/)
+* <a href="/unit-6/day-11/binary-homework">Binary Homewor</a>
+* <a href="/unit-6/day-11/binary-calculator-activity">Optional: Binary Calculator Activity</a>
 
 ### Instructional Activities and Classroom Assessments
 
@@ -26,24 +26,24 @@ order: 0
 
 ### Learning Objectives 
 
-* [DAT-1.A]() Explain how data can be represented using bits.
-* [DAT-1.C]() For binary numbers
+* [DAT-1.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Explain how data can be represented using bits.
+* [DAT-1.C](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=55) For binary numbers
 Calculate the binary (base 2) equivalent of a positive integer (base 10) and vice versa.
 Compare and order binary numbers.
 
 ### Essential Knowledge
 
-* [DAT-1.A.1]() Data values can be stored in variables, lists of items, or standalone constants and can be passed as input to (or output from) procedures.
-* [DAT-1.A.2]() Computing devices represent data digitally, meaning that they lowest-level components of any value are bits. 
-* [DAT-1.A.3]() Bit is shorthand for binary digit and is either 0 or 1.
-* [DAT-1.A.4]() A byte is 8 bits.
-* [DAT-1.A.5]() Abstraction is the process of reducing complexity by focusing on the main idea. By hiding details irrelevant to the question at hand and bringing together related and useful details, abstraction reduces complexity and allows one to focus on the idea. 
-* [DAT-1.A.6]() Bits are grouped to represent abstractions. These abstractions include, but are not limited to, numbers, characters, and color.
-* [DAT-1.C.1]() Number bases, including binary and decimal, are used to represent data.
-* [DAT-1.C.2]() Binary (base 2) uses only combinations of the digits zero and one.
-* [DAT-1.C.3]() Decimal (base 10) uses only combinations of the digits 0-9.
-* [DAT-1.C.4]90 As with decimal, a digit's position in the library sequence determines its numeric value. The numeric value is equal to the bit's value (0 or 1) multiplied by the place value of its position.
-* [DAT-1.C.5]() The place value of each position is determined by the base raised to the power of the position. Positions are numbered starting at the rightmost position with 0 and increasing by 1 for each subsequent position to the left.
+* [DAT-1.A.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Data values can be stored in variables, lists of items, or standalone constants and can be passed as input to (or output from) procedures.
+* [DAT-1.A.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Computing devices represent data digitally, meaning that they lowest-level components of any value are bits. 
+* [DAT-1.A.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Bit is shorthand for binary digit and is either 0 or 1.
+* [DAT-1.A.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) A byte is 8 bits.
+* [DAT-1.A.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Abstraction is the process of reducing complexity by focusing on the main idea. By hiding details irrelevant to the question at hand and bringing together related and useful details, abstraction reduces complexity and allows one to focus on the idea. 
+* [DAT-1.A.6](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Bits are grouped to represent abstractions. These abstractions include, but are not limited to, numbers, characters, and color.
+* [DAT-1.C.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=55) Number bases, including binary and decimal, are used to represent data.
+* [DAT-1.C.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=55) Binary (base 2) uses only combinations of the digits zero and one.
+* [DAT-1.C.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=55) Decimal (base 10) uses only combinations of the digits 0-9.
+* [DAT-1.C.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=55) As with decimal, a digit's position in the library sequence determines its numeric value. The numeric value is equal to the bit's value (0 or 1) multiplied by the place value of its position.
+* [DAT-1.C.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=55) The place value of each position is determined by the base raised to the power of the position. Positions are numbered starting at the rightmost position with 0 and increasing by 1 for each subsequent position to the left.
 
 ## Details 
 
@@ -86,4 +86,4 @@ Compare and order binary numbers.
 
 ### 8. Optional
 
-* [Optional: Binary Calculator Activity]()
+* <a href="/unit-6/day-11/binary-calculator-activity">Optional: Binary Calculator Activity</a>

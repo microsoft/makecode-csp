@@ -8,13 +8,13 @@ order: 0
 
 ### Materials
 
-* [Day 14 PowerPoint deck]()
-* [Hexadecimal]()
-* [Decimal to Hexadecimal]() worksheet
-* [Denary to Hexadecimal via Binary]() worksheet
-* [Base 62 and URL Shorteners]()
-* [Hexadecimal in MakeCode]()
-* [Extra Practice: Hexadecimal to Binary]()
+* [Day 14 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBj3RQuJ3Yj3_jWG-c?e=UfrcZJ)
+* [Hexadecimal](https://youtu.be/UCgTEzcUolk)
+* <a href="/unit-6/day-14/decimal-hexadecimal">Decimal to Hexadecimal</a> worksheet
+* <a href="/unit-6/day-14/denary-hexadecimal-binary">Denary to Hexadecimal via Binary</a> worksheet
+* <a href="/unit-6/day-14/base63-url-shorteners">Base 62 and URL Shorteners</a>
+* <a href="/unit-6/day-14/hexadecimal-in-makecode">Hexadecimal in MakeCode</a>
+* <a href="/unit-6/day-14/extra-practice">Extra Practice: Hexadecimal to Binary</a>
 
 ### Instructional Activities and Classroom Assessments
 
@@ -28,13 +28,13 @@ order: 0
 
 ### Learning Objectives
 
-* [DAT 1-A]() Explain how data can be represented using bits.
+* [DAT 1-A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Explain how data can be represented using bits.
 
 ### Essential Knowledge
 
 * DAT-1.A.5
-* [DAT-1.A.6]() Bits are grouped to represent abstractions. These abstractions include, but are not limited to, numbers, characters, and color.
-* [DAT-1.A.7]() The same sequence of bits may represent different types of data in different contexts. 
+* [DAT-1.A.6](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Bits are grouped to represent abstractions. These abstractions include, but are not limited to, numbers, characters, and color.
+* [DAT-1.A.7](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=54) The same sequence of bits may represent different types of data in different contexts. 
 
 ## Details
 

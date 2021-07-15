@@ -8,10 +8,10 @@ order: 0
 
 ### Materials
 
-* [Day 13 PowerPoint deck]()
-* [Digital Audio]()
-* [TwistedWave]()
-* [Royalty Free Music]()
+* [Day 13 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBj3WcHol6VyiivWqB?e=K2DUmG)
+* [Digital Audio](https://youtu.be/JyUagzvGq7Q)
+* [TwistedWave](https://twistedwave.com/online)
+* [Royalty Free Music](https://www.royaltyfree-music.com/free-music-download)
 
 ### Instructional Activities and Classroom Assessments
 
@@ -24,15 +24,15 @@ order: 0
 
 ### Learning Objectives
 
-* [DAT 1-A]() Explain how data can be represented using bits.
+* [DAT 1-A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Explain how data can be represented using bits.
 
 ### Essential Knowledge
 
-* [DAT-1.A.6]() Bits are grouped to represent abstractions. These abstractions include, but are not limited to, numbers, characters, and color.
-* [DAT-1.A.7]() The same sequence of bits may represent different types of data in different contexts.
-* [DAT-1.A.8]() Analog data have values that change smoothly, rather than in discrete intervals, over time. Some examples of analog data include pitch and volume of music, colors of a painting, or position of a sprinter during a race.
-* [DAT-1.A.9]() The use of digital data to approximate real-world analog data is an example of abstraction.
-* [DAT-1.A.10]() Analog data can be closely approximated digitally using a sampling technique, which means measuring values of the analog signal at regular intervals called samples. The samples are measured to figure out the exact bits required to store each sample.
+* [DAT-1.A.6](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Bits are grouped to represent abstractions. These abstractions include, but are not limited to, numbers, characters, and color.
+* [DAT-1.A.7](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=54) The same sequence of bits may represent different types of data in different contexts.
+* [DAT-1.A.8](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=54) Analog data have values that change smoothly, rather than in discrete intervals, over time. Some examples of analog data include pitch and volume of music, colors of a painting, or position of a sprinter during a race.
+* [DAT-1.A.9](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=54) The use of digital data to approximate real-world analog data is an example of abstraction.
+* [DAT-1.A.10](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=54) Analog data can be closely approximated digitally using a sampling technique, which means measuring values of the analog signal at regular intervals called samples. The samples are measured to figure out the exact bits required to store each sample.
 
 ## Details
 

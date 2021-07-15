@@ -8,8 +8,8 @@ order: 0
 
 ### Materials
 
-* [EMG PowerPoint]()
-* [Science Experiments 05 EMG Sensor]()
+* [EMG PowerPoint](https://1drv.ms/p/s!AqsgsTyHBmRBj2iKCvNUOb1vOMZ8?e=7mQQze)
+* [Science Experiments 05 EMG Sensor](https://youtu.be/vxlPQZIwYRc)
 * Micro:bits
 * Alligator clips
 * Aluminum foil
@@ -23,13 +23,13 @@ order: 0
 
 ### Learning Objectives
 
-* [DAT 1-A]() Explain how data can be represented using bits.
+* [DAT 1-A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=53) Explain how data can be represented using bits.
 
 ### Essential Knowledge
 
-* [DAT-1.A.7]() The same sequence of bits may represent different types of data in different contexts.
-* [DAT-1.A.8]() Analog data have values that change smoothly, rather than in discrete intervals, over time. Some examples of analog data include pitch and volume of music, colors of a painting, or position of a sprinter during a race.
-* [DAT-1.A.9]() The use of digital data to approximate real-world analog data is an example of abstraction.
+* [DAT-1.A.7](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=54) The same sequence of bits may represent different types of data in different contexts.
+* [DAT-1.A.8](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=54) Analog data have values that change smoothly, rather than in discrete intervals, over time. Some examples of analog data include pitch and volume of music, colors of a painting, or position of a sprinter during a race.
+* [DAT-1.A.9](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=54) The use of digital data to approximate real-world analog data is an example of abstraction.
 
 ## Details
 

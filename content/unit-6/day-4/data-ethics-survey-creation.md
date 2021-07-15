@@ -8,10 +8,10 @@ order: 0
 
 ### Materials
 
-* [Day 4 PowerPoint deck]()
-* [Survey Rubric]()
-* [Data Science Process Checklist]()
-* [Microsoft Forms]()
+* [Day 4 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBj2yvygylh2ZBo-46?e=FcWbny)
+* <a href="/unit-6/day-3/survey-rubric">Survey Rubric</a>
+* <a href="/unit-6/day-2/data-science-process">Data Science Process Checklist</a>
+* [Microsoft Forms](https://forms.office.com/)
 
 ### Instructional Activities and Classroom Assessments
 
@@ -24,17 +24,17 @@ order: 0
 
 ### Learning Objectives
 
-* [DAT-2.A]() Describe what information can be extracted from data.
+* [DAT-2.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=58) Describe what information can be extracted from data.
 * DAT-2.D
 * IOC-1.F
 * IOC-2.A
 
 ### Essential Knowledge
 
-* [DAT-2.A.1]() Information is the collection of facts and patterns extracted from data.
-* [DAT-2.A.2]() Data provide opportunities for identifying trends, make connections, and addressing problems. 
-* [DAT-2-A.3]() Digitally processed data may show correlation between variables. A correlation found in data does not necessarily indicate that a causal relationship exists. Additional research is needed to understand the exact nature of the relationship. 
-* [DAT-2.A.4]() Often, a single source does not contain the data needed to draw a conclusion. It may be necessary to combine data from a variety of sources to formulate a conclusion.
+* [DAT-2.A.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=58) Information is the collection of facts and patterns extracted from data.
+* [DAT-2.A.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=58) Data provide opportunities for identifying trends, make connections, and addressing problems. 
+* [DAT-2-A.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=58) Digitally processed data may show correlation between variables. A correlation found in data does not necessarily indicate that a causal relationship exists. Additional research is needed to understand the exact nature of the relationship. 
+* [DAT-2.A.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=58) Often, a single source does not contain the data needed to draw a conclusion. It may be necessary to combine data from a variety of sources to formulate a conclusion.
 * DAT-2.D.1
 * IOC-1.F.9
 * IOC-2.A.1

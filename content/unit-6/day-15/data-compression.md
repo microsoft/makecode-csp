@@ -8,8 +8,8 @@ order: 0
 
 ### Materials
 
-* [Day 15 PowerPoint deck]()
-* [Extension - Reduce the file size of your Word documents]()
+* [Day 15 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBj3Z1ZlaTtx42UZxV?e=U4rV2R)
+* <a href="/unit-6/day-15/reduce-file-size">Extension - Reduce the file size of your Word documents</a>
 
 
 ### Instructional Activities and Classroom Assessments
@@ -60,4 +60,4 @@ order: 0
 
 ### 5. Extension activity  
 
-* If you finish early, students can read [Reduce the file size of your Word documents - Word]().
+* If you finish early, students can read <a href="/unit-6/day-15/reduce-file-size">Extension - Reduce the file size of your Word documents</a>.

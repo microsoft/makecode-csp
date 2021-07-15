@@ -83,4 +83,4 @@ Solution:
 
 **123456789089898** is represented as : **z3wBXxG2**.  
 
-Students will visit [Binary Challenge]()
+Students will visit [Binary Challenge](http://bit.ly/z3wBXxG2)

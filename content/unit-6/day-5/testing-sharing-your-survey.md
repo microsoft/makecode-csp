@@ -8,10 +8,10 @@ order: 0
 
 ### Materials
 
-* [Day 5 PowerPoint deck]()
-* [Survey Rubric]()
-* [Survey Link & QR Code]()
-* [Data Science Process Checklist]()
+* [Day 5 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBj20JuYO0mPI6jw1j?e=4fPtct)
+* <a href="/unit-6/day-3/survey-rubric">Survey Rubric</a>
+* <a href="/unit-6/day-5/survey-link-qr-code">Survey Link & QR Code</a>
+* <a href="/unit-6/day-2/data-science-process">Data Science Process Checklist</a>
 
 ### Instructional Activities and Classroom Assessments
 
@@ -24,22 +24,22 @@ order: 0
 ### Learning Objectives 
 
 * DAT-2.A
-* [DAT-2.C]() Identify the challenges associated with processing data.
-* [DAT-2.D]() Extract information from data using a program.
+* [DAT-2.C](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=59) Identify the challenges associated with processing data.
+* [DAT-2.D](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=61) Extract information from data using a program.
 
 ### Essential Knowledge
 
 * DAT-2.A.1
-* [DAT-2.C.1]() The ability to process data depends on the capabilities of the users and their tools.
-* [DAT-2.D.1]() Programs can be used to process data to acquire information.
+* [DAT-2.C.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=59) The ability to process data depends on the capabilities of the users and their tools.
+* [DAT-2.D.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=61) Programs can be used to process data to acquire information.
 
 ## Details
 
 ### 1. Create share link and QR code (5 minutes) 
 
-Show students how to generate share link and QR code link.
-Have students create both.
-Ask students to add their link and QR code to the Survey Link and QR Code page in their section of the notebook.
+* Show students how to generate share link and QR code link.
+* Have students create both.
+* Ask students to add their link and QR code to the <a href="/unit-6/day-5/survey-link-qr-code">Survey Link & QR Code</a> page in their section of the notebook.
 
 ### 2. Test survey (15 minutes) 
 
