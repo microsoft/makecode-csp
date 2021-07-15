@@ -38,8 +38,8 @@ order: 0
 * [AAP-1.A.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=70) A variable is an abstraction inside a program that can hold a value. Each variable has associated data storage that represents one value at a time, but that value can be a list or other collection that in turn contains multiple values.
 * [AAP-1.A.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=70) Using meaningful variable names helps with the readability of program code and understanding of what values are represented by the variables.
 * AAP-2.G.1 Selection determines which parts of an algorithm are executed based on a condition being true or false.  
-* [AAP-2.H.1]() Conditional statements, or “if-statements,” affect the sequential flow of control by executing different statements based on the value of a Boolean expression.
-* [AAP-2.H.2]() The exam reference sheet provides
+* [AAP-2.H.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=80) Conditional statements, or “if-statements,” affect the sequential flow of control by executing different statements based on the value of a Boolean expression.
+* [AAP-2.H.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=80) The exam reference sheet provides
     * Text: IF(condition) {    &lt;block of statements&gt; }
     * Block: IF condition block of statements in which the code in block of statements is executed if the Boolean expression condition evaluates to true; no action is taken if condition evaluates to false.
 

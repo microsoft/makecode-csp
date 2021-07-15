@@ -8,7 +8,7 @@ order: 0
 
 ### Materials
 
-* [Days 19-22 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFyXQ-ooj03xM0wA/e=jYCzol)
+* [Days 19-22 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFyXQ-ooj03xM0wA?e=jYCzol)
 * <a href="/unit-3/day-19-22/projects-requirements-responses">Project Requirements & Responses</a> handout
 * [Project Requirements & Responses](https://1drv.ms/w/s!AqsgsTyHBmRBkEqcSqfKEXwpxWhd?e=Yf1WQk) handout in Word
 * <a href="(/unit-3/day-19-22/project-rubric">Project Rubric</a> handout
@@ -156,4 +156,4 @@ The project is a review of the essential knowledge skills covered in this unit.
 
 #### Respond to prompts and turn in project (40 minutes) 
 
-* Task students with completing the written responses to the prompts found on the [Project Requirements & Responses]() page. 
+* Task students with completing the written responses to the prompts found on the <a href="/unit-3/day-19-22/projects-requirements-responses">Project Requirements & Responses</a> page. 

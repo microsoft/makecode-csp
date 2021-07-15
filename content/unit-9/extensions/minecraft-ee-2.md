@@ -16,9 +16,9 @@ The second extension requires the use of Minecraft: Education Edition. The app c
 #### Activity 2
 
 * [Hour of Code: A Minecraft Tale of Two Villages Educator Guide](https://1drv.ms/b/s!AqsgsTyHBmRBkRQun04Kopqyo2kH?e=RhoJDN)
-* [Coding Answer Key]() - Answer key for coding exercises in Minecraft Hour of Code 2020 lesson.
-* [Frequently asked questions (FAQ)]() and answers about the 2020 Minecraft Hour of Code. 
-* [Minecraft World Files]()
+* [Coding Answer Key](https://aka.ms/HOCAnswers2020) - Answer key for coding exercises in Minecraft Hour of Code 2020 lesson.
+* [Frequently asked questions (FAQ)](https://aka.ms/HOCFAQ2020) and answers about the 2020 Minecraft Hour of Code. 
+* [Minecraft World Files](https://aka.ms/HOCWorld2020)
 
 ### Instructional Activities and Classroom Assessments
 

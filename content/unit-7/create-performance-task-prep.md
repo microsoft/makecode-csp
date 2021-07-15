@@ -27,7 +27,7 @@ Educators will use the following resources in both the Mock Create Performance T
 * [Mac_VideoSubmissionCPT PPT](https://1drv.ms/p/s!AqsgsTyHBmRBkClqTbel_o4O-a2S?e=MScWZB) - Includes directions for screen capturing with Screencastify and Flipgrid.
 * [Chromebook_VideoSubmissionCPT PPT](https://1drv.ms/p/s!AqsgsTyHBmRBkCoO8fWUrOY1-o-F?e=CfFvpV)
 * [iPad_VideoSubmissionCPT PPT](https://1drv.ms/p/s!AqsgsTyHBmRBkCvVPOpkv_xdL8Zy?e=OHQwKQ)
-* [CPT Checklist and Template]() 
+* <a href="/unit-7/cpt-checklist-template">CPT Checklist and Template</a> 
 * [CPT Checklist and Template](https://1drv.ms/w/s!AqsgsTyHBmRBkCz8TGMUtsFsKGNK?e=zMSRnY) in Word - (To be used as a checklist and template for this cell and the ones below this one.)
 
 ### Mock Create Performance Task 3a and 3b
@@ -39,7 +39,7 @@ Educators will use the following resources in both the Mock Create Performance T
 * Mock CPT 3b.iv Writing Response
 * Mock CPT 3b.v Writing Response
 
-* [CPT Checklist and Template](/unit-7/cpt-checklist-template.md)
+* <a href="/unit-7/cpt-checklist-template">CPT Checklist and Template</a>
 * [3a and 3b Discussion PPT](https://1drv.ms/p/s!AqsgsTyHBmRBkC4Cjr9y1iBCVOG6?e=WBfnYl)
 
 ### Mock Create Performance Task 3c and 3d
@@ -51,7 +51,7 @@ Educators will use the following resources in both the Mock Create Performance T
 * Mock CPT 3d.i, 3d.ii, 3d.iii for 1st call Writing Response
 * Mock CPT 3d.i, 3d.ii, 3d.iii for 2nd call Writing Response
 
-* [CPT Checklist and Template]()
+* <a href="/unit-7/cpt-checklist-template">CPT Checklist and Template</a>
 * [3c and 3d Discussion PPT](https://1drv.ms/p/s!AqsgsTyHBmRBkC_keFBX0R4f5yz3?e=sRLMyi)
 
 ### Guide students to create a PDF of their entire program: 

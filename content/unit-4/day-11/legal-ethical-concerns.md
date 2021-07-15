@@ -27,7 +27,7 @@ order: 0
 
 ### Learning Objectives
 
-* Computational Thinking Practice [5.E](). 
+* Computational Thinking Practice [5.E](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=23). 
 * [IOC-1.F](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=126) Explain how the use of computing can raise legal and ethical concerns.
 
 ### Essential Knowledge 

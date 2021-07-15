@@ -8,9 +8,9 @@ order: 0
 
 ### Materials
 
-* [Days 3-6 PowerPoint deck]()
-* [COVID Simulation example No Social Distancing]() - (for teacher)
-* [COVID Simulation example With Social Distancing]() - (for teacher)
+* [Days 3-6 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkQrOVYA6mwIeeQyP?e=pGjPJA)
+* [COVID Simulation example No Social Distancing](https://makecode.com/_0dW3KLHX4cL9) - (for teacher)
+* [COVID Simulation example With Social Distancing](https://makecode.com/_TecJk15h7i86) - (for teacher)
 * [SDG Project Template](/unit-9/day-3-6/sdg-project-template)
 * [SDG website](https://sdgs.un.org/goals)
 * [Explore SDG partnerships](https://sustainabledevelopment.un.org/partnership/browse/)

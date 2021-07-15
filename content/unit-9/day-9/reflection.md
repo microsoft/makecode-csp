@@ -8,7 +8,7 @@ order: 0
 
 ### Materials
 
-* [Days 9 PowerPoint deck]()
+* [Days 9 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkQzc1JdTifIfFj5S?e=yIkiTF)
 * [SDG Project Reflection Template](/unit-9/day-9/sdg-project-reflection-template)
 
 ### Instructional Activities and Classroom Assessments 
