@@ -16,7 +16,7 @@ header:
   helpUrl: ""
   links:
     - text: Teacher's Guide
-      link: "/"
+      link: "https://microsoft.github.io/makecode-csp"
       external: false
     - text: PL Trainer Materials
       link: https://aka.ms/MSMakeCodeAPCSPPD
