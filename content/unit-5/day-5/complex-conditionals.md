@@ -9,10 +9,6 @@ order: 0
 ### Materials
 
 * [Day 5 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkHbK5Mhjf4_lLic3?e=HfmE9b)
-* [Hungry](https://makecode.com/_8Eb2bAeAifwd)
-* [Hungry Mod](https://makecode.com/_XfX24i7Wy3PX) (for teacher)
-* [NOT Left](https://makecode.com/_bxsaJyWDP9qr) (for teacher)
-* [Quadrants](https://makecode.com/_PDq6s94poRka) (for teacher)
 * <a href="/unit-5/day-5/boolean-statements-expressions">Boolean Statements and Expressions</a> handout
 * [Boolean Statements and Expressions](https://1drv.ms/w/s!AqsgsTyHBmRBkHevoEgMb3WTsnZv?e=gdkoAv) handout in Word
 * [Activity: Boolean Statements and Expressions](https://arcade.makecode.com/courses/csintro2/logic/booleans)

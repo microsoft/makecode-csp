@@ -7,8 +7,6 @@ order: 0
 ## Summary
 
 * [Day 4 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkHTapVW8snhwDwK-?e=tifA68)
-* [Football](https://makecode.com/_F8aeV7cfrd2y) (for teacher)
-* [My Extension](https://makecode.com/_0kwHsKV3u6FV) (for teacher)
 * <a href="/unit-5/day-4/making-using-extensions">Making and Using Extensions</a> handout
 * [Making and Using Extensions](https://1drv.ms/w/s!AqsgsTyHBmRBkHVoXi4EmLOSWKu1?e=6P68ih) handout in Word
 * [Activity: Making and Using Extensions](https://arcade.makecode.com/courses/csintro2/functions/extensions)

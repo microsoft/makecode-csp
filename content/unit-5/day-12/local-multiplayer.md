@@ -9,7 +9,6 @@ order: 0
 ### Materials
 
 * [Day 12 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkQOtz_gJVPTJL0e7?e=6LP8V1)
-* [MultiPlayer Game](https://makecode.com/_LpiCi7iuTfxw) (for teacher)
 * <a href="/unit-5/day-12/multiplayer">Multiplayer Handout</a>
 * [MultiPlayer Handout](https://1drv.ms/w/s!AqsgsTyHBmRBkQQzLLb7uEcKWwRP?e=V9uo96) in Word
 * [Activity: Multiplayer](https://arcade.makecode.com/courses/csintro2/logic/multiplayer)

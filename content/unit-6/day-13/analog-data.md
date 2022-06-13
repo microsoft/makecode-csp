@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 13 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBj3WcHol6VyiivWqB?e=K2DUmG)
-* [Digital Audio](https://youtu.be/JyUagzvGq7Q)
+* [Digital Audio](https://youtu.be/Ibrf6LHloGc)
 * [TwistedWave](https://twistedwave.com/online)
 * [Royalty Free Music](https://www.royaltyfree-music.com/free-music-download)
 

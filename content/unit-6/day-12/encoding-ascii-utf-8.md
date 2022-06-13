@@ -9,7 +9,6 @@ order: 0
 ### Materials
 
 * [Day 12 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBj3MJMZvNbkfBMxlj?e=fsbU9n)
-* [ASCII secret message document](https://1drv.ms/w/s!AqsgsTyHBmRBkF6oZc8YmFrxELek?e=V2hne6)
 * [ASCII and Unicode Character Sets](https://youtu.be/I-pQH_krD0M)
 * <a href="/unit-6/day-12/ascii-chart">ASCII Chart Handout</a>
 * <a href="/unit-6/day-11/binary-homework">ASCII Homework Handout</a>

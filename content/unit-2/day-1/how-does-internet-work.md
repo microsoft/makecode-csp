@@ -11,10 +11,8 @@ order: 0
 * [Day 1 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBjzZs__tNSQiZSH5L?e=I4KlHk)
 * [Vox Video - How Does the Internet Work? - Glad You Asked S1](https://youtu.be/TNQsmPf24go)
 * <a href="/unit-2/day-1/guided-video-notes">Guided Video Notes: How Does the Internet Work?</a>
-* <a href="/unit-2/day-1/answer-key-guided-video-notes">Answer Key to Guided Video Notes</a>
 * <a href="/unit-2/day-1/internet-system-spirit">The Internet as System and Spirit Reading Assignment</a>
 * <a href="/unit-2/day-1/guided-reading-questions">Guided Reading Questions: The Internet as a System and Spirit</a>
-* <a href="/unit-2/day-1/answer-key-guided-reading-notes">Answer Key to Guided Reading Questions</a>
 
 ### Instructional Activities and Classroom Assessments
 
@@ -74,7 +72,6 @@ ap-computer-science-principles-course-and-exam-description.pdf#page=23)
 
 * Discuss what students learned by watching the video.
 * Ask students to share their answers on the Guided Video Notes page.
-* Use the <a href="/unit-2/day-1/answer-key-guided-video-notes">Answer Key to Guided Video Notes</a> to help with the discussion.
 
 ### 4. Homework
 

@@ -12,9 +12,6 @@ order: 0
 * <a href="/unit-5/day-15/arrays-of-strings">Arrays of Strings Handout</a>
 * [Arrays of Strings Handout](https://1drv.ms/w/s!AqsgsTyHBmRBkRmUWDw_4PT4zWTp?e=oe2ZFI) in Word
 * [Activity: Arrays of Strings](https://arcade.makecode.com/courses/csintro2/arrays/string)
-* [Princess Dialog](https://makecode.com/_LCq0bp1MuTfm)
-* [Princess Dialog 2](https://makecode.com/_DssiA49JeWyK)
-* [Princess Dialog 2 Mod](https://makecode.com/_4bgDU2DYEPv1)  (for teacher)
 
 ### Instructional Activities and Classroom Assessments
 

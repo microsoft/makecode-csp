@@ -11,8 +11,6 @@ order: 0
 * [Day 4 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFH3kou9YRVO_kPf?e=UFvSVT)
 * <a href="/unit-3/day-4/my-galga-game">My Galga Game</a>
 * [MakeCode Arcade](https://arcade.makecode.com/)
-* [Which Button?](https://arcade.makecode.com/79378-08701-86920-14976) code (for teacher)
-* [Galga code](https://arcade.makecode.com/35288-47032-68910-16297) (for teacher)
 
 ### Instructional Activities and Classroom Assessments
 

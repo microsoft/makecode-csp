@@ -12,14 +12,8 @@ order: 0
 * <a href="/unit-5/day-14/arrays-work">Arrays Work</a> handout
 * [Arrays Work](https://1drv.ms/w/s!AqsgsTyHBmRBkRcYQLtJkzZ18gC2?e=TQsWwI) handout in Word
 * [Activity: Arrays Intro](https://arcade.makecode.com/courses/csintro2/arrays/intro)
-* [Mad Libs](https://makecode.com/_MJoRo2TJDRLJ) (for teacher)
 * [Array Index Position Practice](https://makecode.com/_2hC5FvJcxYi5)
 * [Array Iteration starting code](https://makecode.com/_LutEA5U6J0U7)
-* [Array Iteration Solution](https://makecode.com/_ggtL0PAjvb1e) (for teacher)
-* [Array Iteration Mod](https://makecode.com/_F116cjiVYLJu) (for teacher)
-* [Array Add Remove](https://makecode.com/_AH3YFjT5L5yk) (for teacher)
-* [Min Max of List](https://makecode.com/_7RLaD6cWs06X)
-* [Average of List](https://makecode.com/_DKXiMx292eTM)
 
 ### Instructional Activities and Classroom Assessments
 

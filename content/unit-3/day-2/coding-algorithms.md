@@ -13,10 +13,6 @@ order: 0
 * [Binary & Essay Algorithm Steps for Cutting Out](https://1drv.ms/w/s!AqsgsTyHBmRBkDxG908Asal8GlMv?e=3s38hf) (for Student Activity) 
 * <a href="/unit-3/day-2/mathematical-algorithms">Mathematical Algorithms</a>
 * [MakeCode Arcade](https://arcade.makecode.com/)
-* [min and max code](https://arcade.makecode.com/42921-82073-24965-68366)
-* [min and max bonus code](https://arcade.makecode.com/56199-68110-39592-84517)
-* [evenly divisible code](https://arcade.makecode.com/20106-91944-57122-05698)
-* [student ages code](https://arcade.makecode.com/22558-23021-79219-57821)
 
 ### Instructional Activities and Classroom Assessments
 

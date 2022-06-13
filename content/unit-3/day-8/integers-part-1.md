@@ -12,7 +12,6 @@ order: 0
 * <a href="/unit-3/day-8/math-operators-variables">Math Operators with Variables</a> Handout
 * [Math Operators with Variables](https://1drv.ms/w/s!AqsgsTyHBmRBkF_FkRqit17O4LnG?e=5ahaot) Handout in Word
 * [arcade.makecode.com](https://arcade.makecode.com)
-* [Button Counter](https://arcade.makecode.com/11167-08585-04692-11299) program (for teacher)
 
 ### Instructional Activities and Classroom Assessments 
 

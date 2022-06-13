@@ -16,7 +16,6 @@ order: 0
 * Decks of cards
 * Dice
 * Tape 
-* [guessingGame](https://makecode.com/_9qvWHHF64LHF) (for teacher)
 * [Activity: Logic in Loops](https://arcade.makecode.com/courses/csintro2/logic/while)
 
 ### Instructional Activities and Classroom Assessments

@@ -10,7 +10,6 @@ order: 0
 
 * [Day 5 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkE-kaQZkTGHFia_u?e=Xe5eUg)
 * [MakeCode Arcade](https://arcade.makecode.com)
-* [Sprite Story Mabel & Hazel](https://makecode.com/_LchiwwEr7FCE) (for teacher)
 
 #### Additional Resources
 
