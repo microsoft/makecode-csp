@@ -9,7 +9,6 @@ order: 0
 ### Materials 
 
 * [Day 13 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkQUDJvz5VHitKF1e?e=zJLsSF)
-* [myMaze](https://makecode.com/_Dmwiu960MgPP) (for teacher)
 * <a href="/unit-5/day-13/intro-tile-maps">Introduction to Tile maps</a> handout
 * [Introduction to Tile maps](https://1drv.ms/w/s!AqsgsTyHBmRBkQZ-GW31pSrECyJV?e=YyRLw8) handout in Word
 * [Activity: Tilemap Intro](https://arcade.makecode.com/courses/csintro2/tilemap/intro) (for teacher reference; activities on this page are included in the PowerPoint)

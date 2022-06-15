@@ -9,10 +9,6 @@ order: 0
 ### Materials  
 
 * [Day 3 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkHL0jvefaMAzb4nh?e=7Y5Kau)
-* [Full Name sample code](https://makecode.com/_a5dCeY4PAage)
-* [Series Sum code sample](https://makecode.com/_5L7dcuausc8j)
-* [Series Sum Solution](https://makecode.com/_7gd9Dog90Cjx) (for teacher)
-* [Pizza Allowance code sample](https://makecode.com/_47Ag5pMvxR3A)
 * <a href="/unit-5/day-3/writing-functions-return-values">Writing Functions with Return Values</a> Handout
 * [Writing Functions with Return Values](https://1drv.ms/w/s!AqsgsTyHBmRBkHPVidysY-cdISXo?e=wTkRJD) Handout in Word
 * [Activity: Return Values](https://arcade.makecode.com/courses/csintro3/functions/returns)

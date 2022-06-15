@@ -10,10 +10,6 @@ order: 0
 
 * [Day 11 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFMwa0TYPZCVkUUh?e=MEfi8a)
 * [MakeCode Arcade](https://arcade.makecode.com)
-* [Sleepy](https://arcade.makecode.com/36097-58616-34347-29653) Code (for teacher)
-* [Boolean Operators](https://arcade.makecode.com/57551-12513-04910-43977) Code (for teacher)
-* [Drive or Bike](https://arcade.makecode.com/13918-34640-72259-96223) Code (for teacher)
-* [Drive or Bike Mod](https://arcade.makecode.com/43415-56110-88445-09956) Code (for teacher)
 * <a href="/unit-3/day-11/boolean-operator-practice">Boolean Operator Practice</a> page
 * <a href="/unit-3/day-11/my-code-segments">My Code Segments for Boolean Activities</a> page
 

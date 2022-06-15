@@ -11,8 +11,6 @@ order: 0
 * [Day 6 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkHgPVNJPTRzakum8?e=T8cq1r)
 * <a href="/unit-5/day-6/validating-user-input.md">Validating User Input</a> handout
 * [Validating User Input](https://1drv.ms/w/s!AqsgsTyHBmRBkHlsfa0glcEJfz2r?e=VoOJHZ) handout in Word
-* [winnerWinner](https://makecode.com/_0F00C66wK3Di) (for teacher)
-* [helloFriend](https://makecode.com/_amzHh6iF7Eyg) (for teacher)
 * [Activity: User Input and String Logic](https://arcade.makecode.com/courses/csintro2/logic/user-input)
 
 Additional references:

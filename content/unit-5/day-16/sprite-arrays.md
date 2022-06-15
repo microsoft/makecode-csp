@@ -9,10 +9,6 @@ order: 0
 ### Materials  
 
 * [Day 16 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkSJxvWzASVpjkZ50?e=PfAuQp)
-* [Moving Asteroids](https://makecode.com/_X5hgtcFE1gvf)
-* [Moving Asteroids 2](https://makecode.com/_6eEF4a8ez1p4)
-* [Fireworks](https://makecode.com/_J5kV6rYJYMV1)
-* [Enemy Follow](https://makecode.com/_ApbDesRyuRsP)
 * <a href="/unit-5/day-16/array-of-sprites">Array of Sprites Handout</a>
 * [Array of Sprites Handout](https://1drv.ms/w/s!AqsgsTyHBmRBkSHd3zuD8rTGj_4e?e=2sUVV8) in Word
 

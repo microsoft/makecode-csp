@@ -9,8 +9,6 @@ order: 0
 ### Materials
 
 * [Day 1 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkHH-DeqCqztjgdPi?e=8ShAIc)
-* [DoSomething sample code](https://makecode.com/_dpa8o38asH3s)
-* [Place Sprite sample code](https://makecode.com/_eHsAWYesxEu7)
 * <a href="/unit-5/day-1/introduction-to-functions">Introduction to Functions</a> handout in OneNote
 * [Introduction to Functions](https://1drv.ms/w/s!AqsgsTyHBmRBkHCcF-mCg8tNfOZi?e=zSt069) handout in Word
 * [Activity: Functions Intro](https://arcade.makecode.com/courses/csintro2/functions/intro)

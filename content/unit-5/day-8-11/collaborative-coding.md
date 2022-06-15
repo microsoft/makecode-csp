@@ -1,6 +1,6 @@
 ---
-title: 'Logic in Loops'
-metaTitle: 'Logic in Loops'
+title: 'Collaborative Coding'
+metaTitle: 'Collaborative Coding'
 order: 0
 ---
 

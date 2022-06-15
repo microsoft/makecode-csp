@@ -9,14 +9,8 @@ order: 0
 ### Materials
 
 * [Day 15 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFtFKBNBX8EycxaK?e=zNWZHE)
-* [Calculate Ages in Room](https://arcade.makecode.com/76893-69118-16057-22226) (for teacher)
 * <a href="/unit-3/day-15/repetition-everyday-life">Repetition in Every Day Life</a>
 * <a href="/unit-3/day-15/my-code-segments">My Animation Code Segments</a>
-* [animationLoop](https://arcade.makecode.com/43154-73409-72381-32539) (for teacher)
-* [animationNestedLoop](https://arcade.makecode.com/71765-80266-12212-81327) (for teacher)
-* [ghost loop animation](https://arcade.makecode.com/64919-27411-47643-88406) (for teacher)
-* [boomerang](https://arcade.makecode.com/46402-91602-61504-06484) (for teacher)
-* [increment-loop](https://arcade.makecode.com/89624-74809-27360-51301) (for teacher)
 * Resources that can help teachers prepare for the lesson, but students do not need to complete this time:
     * [Intro to Loops Tutorial](https://arcade.makecode.com/courses/csintro1/loops/intro)
     * [Increment Loop Tutorial](https://arcade.makecode.com/courses/csintro1/loops/increment-loop)

@@ -11,8 +11,6 @@ order: 0
 * [Day 16 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkFlACJPIhnJmrzTw?e=njGJ7k)
 * <a href="/unit-3/day-16/projectiles-activities">Projectiles Activities</a>
 * [Projectiles Activities](https://1drv.ms/w/s!AqsgsTyHBmRBkEfrma_O-9Zo3CH1?e=hPsQKA) in Word
-* [Flying Bird Program](https://arcade.makecode.com/86954-34244-21437-84571) (for teacher)
-* [Flying Bird with Score Program](https://arcade.makecode.com/30232-17754-55240-22877) (for teacher)
 
 ### Instructional Activities and Classroom Assessments 
 

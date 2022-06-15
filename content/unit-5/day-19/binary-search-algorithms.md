@@ -11,8 +11,6 @@ order: 0
 * [Day 19 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkR4gYhJqXeVQ2cnW?e=6JaD1u)
 * [Binary Search Unplugged Activity Resource](https://1drv.ms/w/s!AqsgsTyHBmRBkR_fXKFGyqBDP48p?e=cQA7F6)
 * [Computer Science Field Guide: Algorithms](https://youtu.be/FOwCCvHEfY0)
-* [Binary Search starter code](https://makecode.com/_7u6ERzga1hhM)
-* [Binary Search Solution](https://makecode.com/_fPgg49WwkRdz) (for teacher)
 
 ### Instructional Activities and Classroom Assessments
 
