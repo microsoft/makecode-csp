@@ -32,6 +32,10 @@ order: 1
 
 **Abstraction** - when you identify what defines the patterns you see, focus on the important information, and derive general rules and concepts that can be applied in other areas (carving out the relevant from the irrelevant).
 
+**Variable** - An abstraction inside a program that can hold a value. It has associated data storage that represents one value at a time, but it can be a list or other collection that in turn contains multiple values.
+
+**Algorithm** - a finite set of instructions that accomplish a specific task.
+
 **Algorithmic thinking** - when you develop a step-by-step plan, or the rules to follow, to solve a problem.
 
 **Program** - a collection of computer commands that perform a specific task when run by a computer; often referred to as software.
