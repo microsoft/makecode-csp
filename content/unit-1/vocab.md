@@ -18,6 +18,8 @@ order: 1
 
 **Output** - parts of a computer that can output information to the outside world (i.e. display screen, printer, speakers).
 
+**Hardware** - the physical parts of the computer.
+
 **Software** - set of instructions or commands that tell the computer what to do. 
 
 **System software** - low-level software that interacts directly with the computer hardware, often called Operating System (OS) software (i.e. Windows, MacOS, Linux).
