@@ -22,7 +22,7 @@ Just like binary, decimal, hexadecimal, each place value represents a power of 6
 
 62^2= 3844 
 
-6^23 = 238,328 
+62^3 = 238,328 
 
 Conversions work the same way: 
 
