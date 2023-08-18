@@ -8,7 +8,7 @@ You can share the following list with your IT department to ensure you and your 
 
 Teachers can access all of the resources and teaching materials used in this course here -
 
-<DownloadCard title="Resources and Materials" url="https://1drv.ms/u/s!AqsgsTyHBmRBjzAXAYw4u_WbPz4M?e=4YVchB" />
+<DownloadCard title="Resources and Materials" url="https://aka.ms/MSMakeCodeAPCSP" />
 
 ## Unit 1
 
