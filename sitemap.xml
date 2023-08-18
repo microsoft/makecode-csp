@@ -150,18 +150,17 @@
 <url> <loc>http://localhost/makecode-csp/unit-1/day-13/creating-arcade-game</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-14/comparing-games</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-15/impact-computing-assignment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-csp/unit-1/day-2/what-is-computer-science</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-3/computational-thinking</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-3/good-vs-bad</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-3/why-learn-cs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-4/computational-thinking-activity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-4/computational-thinking</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-5/spagetti-tower-challenge</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-csp/unit-1/day-5/teamwork-principles</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-6/design-thinking</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-6/micro-pet-activity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-6/minecraft-build-house</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-7/design-thinking-real-life</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-csp/unit-1/day-2/what-is-computer-science</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-8/design-challenge-guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-8/design-challenge</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-1/day-8/prototyping-prep-homework</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -209,6 +208,8 @@
 <url> <loc>http://localhost/makecode-csp/unit-3/day-11/my-code-segments</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-12/conditional-statements</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-12/putting-together</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-csp/unit-1/day-6/design-thinking-practice</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-csp/unit-1/day-5/teamwork-principles</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-13/class-results-roll-dice</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-13/generate-random-numbers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-13/random-part-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -223,7 +224,6 @@
 <url> <loc>http://localhost/makecode-csp/unit-3/day-16/projectiles-part-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-17/projectiles-part-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-17/projectiles-sprites-activities</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-csp/unit-3/day-18/javascript-commands</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-18/levels-of-languages</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-18/rewrite-in-javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-18/text-based-programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -244,7 +244,9 @@
 <url> <loc>http://localhost/makecode-csp/unit-3/day-7/practice-robot-question</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-7/robots-makecode-arcade</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-7/robots</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-csp/unit-3/day-8/integers-part-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-8/math-operators-variables</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-csp/unit-3/day-18/javascript-commands</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-9/integers-part-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-9/military-time-converter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-3/day-9/my-20percent-tip-app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -276,8 +278,8 @@
 <url> <loc>http://localhost/makecode-csp/unit-4/day-4/have-you-ever-reflection</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-4/day-4/resouce-for-educator</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-4/day-4/robot-racism</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-csp/unit-4/day-5/biased-algorithms</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-4/day-5/artificial-intelligence</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-csp/unit-4/day-5/biased-algorithms</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-4/day-5/how-ai-bias-happens</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-4/day-5/resources-for-educators</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-4/day-6/blown-to-bits-talking-points</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -325,7 +327,6 @@
 <url> <loc>http://localhost/makecode-csp/unit-5/day-3/writing-functions-return-values</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-5/day-4/making-using-extensions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-5/day-4/using-extensions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-csp/unit-1/day-6/design-thinking-practice</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-5/day-5/boolean-statements-expressions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-5/day-5/complex-conditionals</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-5/day-6/logic-validating-user-input</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -338,9 +339,9 @@
 <url> <loc>http://localhost/makecode-csp/unit-5/day-8-11/collaborative-project-rubric</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-5/day-8-11/planning-your-program</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-5/day-8-11/project-requirements-responses</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-csp/unit-6/day-1/intro-data-analysis</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-1/tale-of-economies</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-1/tell-your-own-story</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-csp/unit-6/day-1/intro-data-analysis</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-11/binary-calculator-activity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-11/binary-homework</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-11/binary-number-system</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -355,7 +356,6 @@
 <url> <loc>http://localhost/makecode-csp/unit-6/day-14/hexadecimal-in-makecode</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-14/hexadecimal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-15/data-compression</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-csp/unit-3/day-8/integers-part-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-15/reduce-file-size</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-17/data-in-computing-innovations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-17/impact-of-computing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -369,8 +369,8 @@
 <url> <loc>http://localhost/makecode-csp/unit-6/day-3/examples-biased-surveys-questions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-3/survey-rubric</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-4/data-ethics-survey-creation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-csp/unit-6/day-5/testing-sharing-your-survey</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-5/survey-link-qr-code</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-csp/unit-6/day-5/testing-sharing-your-survey</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-6/data-cleansing-visualization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-6/data-science-process-reflection</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-6/for-teacher-excel-information</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -379,7 +379,6 @@
 <url> <loc>http://localhost/makecode-csp/unit-6/day-7-10/infograpic-project</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-7-10/infograpic-rubric</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-6/day-7-10/infograpic-tips</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost/makecode-csp/unit-6/extension-activity/create-emg-sensor-activity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-7/mock-create-performance-task/code-progression-mock-cpt</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-7/mock-create-performance-task/mock-cpt-checklist-template</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-8/review-pages/algorithms-programming-part1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -389,6 +388,7 @@
 <url> <loc>http://localhost/makecode-csp/unit-8/review-pages/data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-8/review-pages/impact-computing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-8/review-pages/robot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost/makecode-csp/unit-6/extension-activity/create-emg-sensor-activity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-8/vocabulary/unit-1-vocab</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-8/vocabulary/unit-2-vocab</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost/makecode-csp/unit-8/vocabulary/unit-3-vocab</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
