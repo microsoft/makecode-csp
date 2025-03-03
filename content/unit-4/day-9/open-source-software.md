@@ -8,7 +8,7 @@ order: 0
 
 ### Materials
 
-* [Day 9 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj10IUkFt68mqlITi?e=kEb6wL)
+* [Day 9 PowerPoint Deck](https://1drv.ms/p/c/416406873cb120ab/EasgsTyHBmQggEHdBwAAAAAB4nI8GiQ_RjF8D629ujVUcA?e=KdQNfW)
 * [What is GitHub?](https://youtu.be/w3jLJU7DT5E)
 * <a href="/unit-4/day-9/github-project-analysis">GitHub Project Analysis</a>
 * [GitHub Project Analysis](https://1drv.ms/w/s!AqsgsTyHBmRBkGE9Oid9RLWXyBFB?e=8zNvbg) in Word
