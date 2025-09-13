@@ -10,7 +10,7 @@ Students can use the following MakeCode Arcade activities to practice Robot sequ
 
 ![Asphodel game simulator](/asphodel-sim.jpg)
 
-2. [Robot Drawing program](https://arcade.makecode.com/75682-33778-96949-32908)
+2. [Robot Drawing program](https://arcade.makecode.com/50499-33772-67847-75698)
 
 ![Robot drawing game simulator](/robot-drawing-progam.jpg)
 
