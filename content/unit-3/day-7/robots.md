@@ -13,7 +13,7 @@ order: 0
 * Note: More educator information regarding Asphodel's code can be found [here](https://arcade.makecode.com/hour-of-code/educators).
 * <a href="/unit-3/day-7/robots-makecode-arcade">Robots in MakeCode Arcade Handout</a>
 * [Robots in MakeCode Arcade Handout](https://1drv.ms/w/s!AqsgsTyHBmRBkEG1Su15oOuqnIQV?e=gTRMuB) in Word
-* [Robot Drawing program](https://arcade.makecode.com/75682-33778-96949-32908)
+* [Robot Drawing program](https://arcade.makecode.com/50499-33772-67847-75698)
 * <a href="/unit-3/day-7/practice-robot-question">Robot Practice Field</a>
 * <a href="/unit-3/day-7/practice-robot-question">Practice Robot Question</a>
 
