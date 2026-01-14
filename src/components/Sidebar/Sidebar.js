@@ -21,7 +21,6 @@ const Sidebar = styled.div`
 `;
 
 const SidebarMain = styled.div`
-  overflow-y: auto;
   width: 100%;
   margin: 0;
   display: block;
@@ -31,7 +30,7 @@ const SidebarMain = styled.div`
   -webkit-overflow-scrolling: hidden;
   &:hover,
   &:focus {
-    overflow-y: overlay;
+    overflow-y: auto;
     -webkit-overflow-scrolling: touch;
   }
 `;
